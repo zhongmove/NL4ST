@@ -16,7 +16,7 @@ An interface for bridging the gap between natural language and spatio-temporal d
    
 5. Import the INLAST.war in Eclipse.
    
-6. Publish the project to the tomcat server.  
+6. Publish the INLAST project to the tomcat server.  
    
 8. Run the server.  
    
