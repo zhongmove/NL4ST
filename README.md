@@ -7,6 +7,6 @@ An interface for bridging the gap between natural language and spatio-temporal d
    * Java-11
    * SECONDO
 ## Usage
-1. Train the model to identify the type of NLQ.
+1. Train the model to identify the type of NLQ.  
   `python LSTM/train.py` 
 2. 
