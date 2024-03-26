@@ -8,7 +8,7 @@ An interface for bridging the gap between natural language and spatio-temporal d
    * SECONDO
 ## Usage
 1. Train the model to identify the type of NLQ.  
-  `python LSTM/train.py` ***
+  `python LSTM/train.py`
 2. Put the obtained models and related information in the directory INLAST/save_models.
 3. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/).
 4. Import the INLAST.war in Eclipse.
