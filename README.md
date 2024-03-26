@@ -16,9 +16,11 @@ An interface for bridging the gap between natural language and spatio-temporal d
    
 5. Import the INLAST.war in Eclipse.
    
-6. Publish the project to the tomcat server.
+6. Publish the project to the tomcat server.  
    
-7. Open the dataabse SECONDO.  
+8. Run the server.  
+   
+9. Open the database SECONDO.  
   `SecondoMonitor -s`
 
-9. Type the url "http://localhost:8080/INLAST" in your browser.
+10. Type the url "http://localhost:8080/INLAST" in your browser.
