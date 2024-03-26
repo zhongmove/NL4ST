@@ -8,7 +8,6 @@ An interface for bridging the gap between natural language and spatio-temporal d
    * SECONDO
 ## Usage
 1. Train the model to identify the type of NLQ.
-
   `python LSTM/train.py`
 
 3. Put the obtained models and related information in the directory INLAST/save_models.
@@ -20,7 +19,6 @@ An interface for bridging the gap between natural language and spatio-temporal d
 6. Publish the project to the tomcat server.
    
 7. Open the dataabse SECONDO.
-
   `SecondoMonitor -s`
 
 9. Type the url "http://localhost:8080/INLAST" in your browser.
