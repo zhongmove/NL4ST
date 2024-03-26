@@ -12,7 +12,7 @@ An interface for bridging the gap between natural language and spatio-temporal d
 
 3. Put the obtained models and related information in the directory INLAST/save_models.
    
-4. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/).
+4. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
    
 5. Import the INLAST.war in Eclipse.
    
