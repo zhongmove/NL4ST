@@ -7,18 +7,20 @@ An interface for bridging the gap between natural language and spatio-temporal d
    * Java-11
    * SECONDO
 ## Usage
-1. Train the model to identify the type of NLQ.  
+1. Train the model to identify the type of NLQ.
+
   `python LSTM/train.py`
 
-2. Put the obtained models and related information in the directory INLAST/save_models.
+3. Put the obtained models and related information in the directory INLAST/save_models.
    
-3. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/).
+4. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/).
    
-4. Import the INLAST.war in Eclipse.
+5. Import the INLAST.war in Eclipse.
    
-5. Publish the project to the tomcat server.
+6. Publish the project to the tomcat server.
    
-6. Open the dataabse SECONDO.  
+7. Open the dataabse SECONDO.
+
   `SecondoMonitor -s`
 
-7. Type the url "http://localhost:8080/INLAST" in your browser.
+9. Type the url "http://localhost:8080/INLAST" in your browser.
