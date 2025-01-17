@@ -8,7 +8,7 @@ An interface for bridging the gap between natural language and spatio-temporal d
    * SECONDO
 ## Datasets is given in the master branch
 ## Usage
-### Vist the online website
+### Visit the online website
 1. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
 2. Online website is availabe at https://inlast.cpolar.top/nl2secondo/
 ### Deploy INLAST locally
