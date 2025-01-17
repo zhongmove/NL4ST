@@ -27,4 +27,4 @@ An interface for bridging the gap between natural language and spatio-temporal d
 7. Open the database SECONDO.  
   `SecondoMonitor -s`
 
-8. Type the url "http://localhost:8080/nl2sql" in your browser.
+8. Type the url "http://localhost:8080/nl2secondo" in your browser.
