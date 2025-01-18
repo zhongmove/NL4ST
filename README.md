@@ -1,6 +1,7 @@
 # INLAST
 An interface for bridging the gap between natural language and spatio-temporal databases.
-[fig3.pdf](https://github.com/user-attachments/files/18463284/fig3.pdf)
+![fig3v1](https://github.com/user-attachments/assets/4ed6862d-5c9e-4b58-879b-bc3915c64587)
+
 
 ## Dependencies
    * torch-2.0.1 
