@@ -1,4 +1,4 @@
-# INLAST
+# NL4ST
 An interface for bridging the gap between natural language and spatio-temporal databases.
 ![fig3v1](https://github.com/user-attachments/assets/4ed6862d-5c9e-4b58-879b-bc3915c64587)
 
@@ -12,19 +12,19 @@ An interface for bridging the gap between natural language and spatio-temporal d
 ## Datasets are available in the Datastes folder
 ## Usage
 ### Visit the online website
-1. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
-2. Online website is availabe at https://inlast.cpolar.top/nl2secondo/
-### Deploy INLAST locally
+1. Integrate NL4ST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
+2. Online website is availabe at https://NL4ST.cpolar.top/nl2secondo/
+### Deploy NL4ST locally
 1. Train the model to identify the type of NLQ.  
   `python LSTM/train.py`
 
-2. Put the obtained models and related information in the directory INLAST/save_models.
+2. Put the obtained models and related information in the directory NL4ST/save_models.
    
-3. Integrate INLAST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
+3. Integrate NL4ST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
    
-4. Import the INLAST.war in Eclipse.
+4. Import the NL4ST.war in Eclipse.
    
-5. Publish the INLAST project to the tomcat server.  
+5. Publish the NL4ST project to the tomcat server.  
    
 6. Run the server.  
    
