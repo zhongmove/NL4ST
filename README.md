@@ -1,5 +1,5 @@
 # NL4ST
-An interface for bridging the gap between natural language and spatio-temporal databases.
+A Natural Language Interface for Spatio-temporal Databases
 ![fig3v1](https://github.com/user-attachments/assets/4ed6862d-5c9e-4b58-879b-bc3915c64587)
 
 
@@ -22,7 +22,7 @@ An interface for bridging the gap between natural language and spatio-temporal d
    
 3. Integrate NL4ST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
    
-4. Import the INLAST.war in Eclipse.
+4. Import the NL4ST.war in Eclipse.
    
 5. Publish the NL4ST project to the tomcat server.  
    
