@@ -1,4 +1,4 @@
-INLASTAlgebra.o: INLASTAlgebra.cpp \
+NL4STAlgebra.o: NL4STAlgebra.cpp \
  /home/xieyang/secondo/include/Algebra.h \
  /home/xieyang/secondo/include/NestedList.h \
  /home/xieyang/secondo/include/../Tools/BigArray/BigArray.h \
