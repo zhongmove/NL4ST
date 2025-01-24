@@ -61,12 +61,12 @@ int NL4STValueMap(Word *args, Word &result, int message, Word &local, Supplier s
     
     // cout<<"开始运行 python：\n";
     // 初始化
-    Py_SetPythonHome(GetWC3("/home/lmy/anaconda3"));
+    Py_SetPythonHome(GetWC3("/home/xieyang/anaconda3"));
     Py_Initialize();
     // PyRun_SimpleString("print('hello!')");
 	
     // 将Python工作路径切换到待调用模块所在目录，一定要保证路径名的正确性
-    string path = "/home/lmy/secondo/Algebras/NL4ST";
+    string path = "/home/xieyang/secondo/Algebras/NL4ST";
     string chdir_cmd = string("sys.path.append(\"") + path + "\")";
     const char* cstr_cmd = chdir_cmd.c_str();
     PyRun_SimpleString("import sys");
