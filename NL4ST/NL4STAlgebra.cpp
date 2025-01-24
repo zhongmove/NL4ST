@@ -20,10 +20,10 @@ using namespace std;
 
 /****************************************************************
 
-operator INLAST
+operator NL4ST
 
 ***************************************************************/
-ListExpr INLASTTypeMap( ListExpr args )
+ListExpr NL4STTypeMap( ListExpr args )
 {
 	//error message;
     string msg = "string expected";
@@ -51,7 +51,7 @@ ListExpr INLASTTypeMap( ListExpr args )
     return wc;
 }
 
-int INLASTValueMap(Word *args, Word &result, int message, Word &local, Supplier s)
+int NL4STValueMap(Word *args, Word &result, int message, Word &local, Supplier s)
 {
     char a[MaxCharNum];
     string nl = ((CcString*)args[0].addr)->GetValue();
@@ -66,7 +66,7 @@ int INLASTValueMap(Word *args, Word &result, int message, Word &local, Supplier 
     // PyRun_SimpleString("print('hello!')");
 	
     // 将Python工作路径切换到待调用模块所在目录，一定要保证路径名的正确性
-    string path = "/home/lmy/secondo/Algebras/INLAST";
+    string path = "/home/lmy/secondo/Algebras/NL4ST";
     string chdir_cmd = string("sys.path.append(\"") + path + "\")";
     const char* cstr_cmd = chdir_cmd.c_str();
     PyRun_SimpleString("import sys");
