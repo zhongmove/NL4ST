@@ -18,7 +18,7 @@ A Natural Language Query Tool for Spatio-temporal Databases
 1. Train the model to identify the type of NLQ.  
   `python LSTM/train.py`
 
-2. Put the obtained models and related information in the directory INLAST/save_models.
+2. Put the obtained models and related information in the directory NL4ST/save_models.
    
 3. Integrate NL4ST as an algebra into SECONDO database. (SECONDO: https://secondo-database.github.io/)
    
