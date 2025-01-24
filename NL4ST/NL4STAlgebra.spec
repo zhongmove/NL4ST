@@ -1,1 +1,1 @@
-operator INLAST alias INLAST pattern  op (_)
+operator NL4ST alias NL4ST pattern  op (_)
