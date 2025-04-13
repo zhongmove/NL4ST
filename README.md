@@ -1,6 +1,7 @@
 # NL4ST
 A Natural Language Query Tool for Spatio-temporal Databases
-![fig3v1](https://github.com/user-attachments/assets/4ed6862d-5c9e-4b58-879b-bc3915c64587)
+[fig3.1.pdf](https://github.com/user-attachments/files/19725592/fig3.1.pdf)
+
 
 
 ## Dependencies
