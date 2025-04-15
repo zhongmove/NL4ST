@@ -1,0 +1,29 @@
+
+(OBJECT hospital 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (Street string) 
+                (Postcode string) 
+                (GeoData point)))) 
+    (
+        ("North Wing, St Thomas' Hospital" "Westminster Bridge Road" "SE1 7EH" 
+            (-0.1191308 51.4996379)) 
+        ("South Wing, St Thomas' Hospital" "Westminster Bridge Road" "SE1 7EH" 
+            (-0.119787 51.498058)) 
+        ("Royal London Hospital" "Whitechapel Road" "E1 1FR" 
+            (-0.0610617 51.5182371)) 
+        ("Royal London Hospital" "Whitechapel Road" "E1 1BB" 
+            (-0.0594462 51.5181547)) 
+        ("Royal London Hospital" "Whitechapel Road" "E1 1BB" 
+            (-0.0593443 51.518168)) 
+        ("Evelina Children's Hospital" "Lambeth Palace Road" "SE1 7EH" 
+            (-0.1180011 51.4981906)) 
+        ("Mile End Hospital Site" "Bancroft Road" "E1 4DG" 
+            (-0.0431292 51.5243212)) 
+        ("Lambeth Wing, St Thomas' Hospital" "Westminster Bridge Road" "SE1 7EH" 
+            (-0.1183694 51.4996608)) 
+        ("Guy's Hospital" "Great Maze Pond" "SE1 9RT" 
+            (-0.0865292 51.5035001))))

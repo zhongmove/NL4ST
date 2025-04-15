@@ -1,0 +1,1627 @@
+
+(OBJECT busstop 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (AtcoCode string) 
+                (Street string) 
+                (GeoData point)))) 
+    (
+        ("Fleet Street / City Thameslink" "490012640M" "FARRINGDON STREET" 
+            (-0.1046794 51.5152733)) 
+        ("Liverpool Street Station" "490000138F" "BISHOPSGATE" 
+            (-0.0806135 51.5174349)) 
+        ("Snow Hill" "490012217S" "FARRINGDON STREET" 
+            (-0.1051321 51.5179924)) 
+        ("Baylis Road / Lambeth North Station" "490000132P" "BAYLIS ROAD" 
+            (-0.1116942 51.4997421)) 
+        ("Renfrew Road" "490011521E" "KENNINGTON LANE" 
+            (-0.1057052 51.4908878)) 
+        ("Coborn Road" "490012648K" "MILE END ROAD" 
+            (-0.0296037 51.526136)) 
+        ("Barkantine Clinic / Hutchings Street" "490003602N" "WESTFERRY ROAD" 
+            (-0.0259707 51.4983246)) 
+        ("Waterloo Station / Waterloo Road" "490000254QA" "WATERLOO ROAD" 
+            (-0.111036 51.5030368)) 
+        ("Clerkenwell Road" "490015104S" "FARRINGDON ROAD" 
+            (-0.1066228 51.5218265)) 
+        ("Anchor Street" "490003311N" "GALLEYWALL ROAD" 
+            (-0.0607374 51.4917258)) 
+        ("Tavistock Square" "490013170S" "TAVISTOCK SQUARE" 
+            (-0.1281698 51.5250723)) 
+        ("Red Lion Street" "490007834C" "THEOBALD'S ROAD" 
+            (-0.1190954 51.5200669)) 
+        ("Parliament Square" "490003059D" "ABINGDON STREET" 
+            (-0.1258316 51.4978405)) 
+        ("Lambeth Road / Kennington Road" "490008647E" "LAMBETH ROAD" 
+            (-0.1126985 51.4962434)) 
+        ("King's Cross Station" "490000129D" "EUSTON ROAD" 
+            (-0.1232594 51.5304561)) 
+        ("Acton Street" "490008771S" "KING'S CROSS ROAD" 
+            (-0.1156105 51.5285429)) 
+        ("Bowling Green Lane" "490004217S" "FARRINGDON ROAD" 
+            (-0.1091534 51.524022)) 
+        ("Pocock Street" "490011082S" "BLACKFRIARS ROAD" 
+            (-0.1045135 51.5020326)) 
+        ("Dunton Road" "490006266EB" "OLD KENT ROAD" 
+            (-0.0774271 51.4888041)) 
+        ("Dunton Road" "490006266WN" "OLD KENT ROAD" 
+            (-0.0775501 51.4885763)) 
+        ("Elephant & Castle / New Kent Road" "490000073M" "NEW KENT ROAD" 
+            (-0.09801840000000001 51.4947634)) 
+        ("Vauxhall Bridge Road" "490014018W" "MILLBANK" 
+            (-0.1278031 51.4894015)) 
+        ("Lichfield Road" "490013517N" "GROVE ROAD" 
+            (-0.0362954 51.5268527)) 
+        ("Mile End Station" "490015151J" "GROVE ROAD" 
+            (-0.0356252 51.5258038)) 
+        ("Mile End Station" "490000146D" "MILE END ROAD" 
+            (-0.0338357 51.5253702)) 
+        ("New Change / Cannon Street" "490010199D" "NEW CHANGE" 
+            (-0.0965761 51.5138713)) 
+        ("St Paul's Station" "490000225T" "NEWGATE STREET" 
+            (-0.0984732 51.5152356)) 
+        ("St Botolph Street" "490000003B" "ST BOTOLPH STREET" 
+            (-0.0752245 51.5149257)) 
+        ("Aldgate Station" "490000003R" "ALDGATE HIGH STREET" 
+            (-0.0747599 51.5141469)) 
+        ("Aldgate East Station" "490000004E" "WHITECHAPEL HIGH STREET" 
+            (-0.0712299 51.5155556)) 
+        ("Bermondsey Station" "490000021W" "JAMAICA ROAD" 
+            (-0.06481339999999999 51.4979525)) 
+        ("Bethnal Green Station" "490000022A" "CAMBRIDGE HEATH ROAD" 
+            (-0.0554378 51.5281546)) 
+        ("Bethnal Green Station" "490000022B" "ROMAN ROAD" 
+            (-0.0548481 51.5273143)) 
+        ("Bethnal Green Station" "490000022C" "CAMBRIDGE HEATH ROAD" 
+            (-0.0555844 51.5267863)) 
+        ("Bethnal Green Station" "490000022D" "BETHNAL GREEN ROAD" 
+            (-0.0567456 51.5274517)) 
+        ("Blackfriars Station" "490000023BB" "QUEEN VICTORIA STREET" 
+            (-0.1027533 51.5120078)) 
+        ("Blackfriars Station / North Entrance" "490000023J" "---" 
+            (-0.1042751 51.5123878)) 
+        ("Apothecary Street" "490000023K" "NEW BRIDGE STREET" 
+            (-0.104196 51.5134909)) 
+        ("Borough Station" "490000026A" "BOROUGH HIGH STREET" 
+            (-0.094149 51.5005544)) 
+        ("Borough Station" "490000026C" "BOROUGH HIGH STREET" 
+            (-0.0939025 51.5008756)) 
+        ("Borough Station" "490000026D" "BOROUGH HIGH STREET" 
+            (-0.094128 51.5007395)) 
+        ("Bow Road Station" "490000029Q" "BOW ROAD" 
+            (-0.0257555 51.5271238)) 
+        ("Elephant & Castle / Newington Causeway" "490000073F" "NEWINGTON CAUSEWAY" 
+            (-0.09991609999999999 51.4964972)) 
+        ("Elephant & Castle / Newington Causeway" "490000073G" "NEWINGTON CAUSEWAY" 
+            (-0.0992236 51.496985)) 
+        ("Elephant & Castle / Newington Causeway" "490000073H" "NEWINGTON CAUSEWAY" 
+            (-0.099672 51.4963725)) 
+        ("Elephant & Castle / New Kent Road" "490000073J" "NEW KENT ROAD" 
+            (-0.09774969999999999 51.4948846)) 
+        ("Elephant & Castle / New Kent Road" "490000073K" "NEW KENT ROAD" 
+            (-0.0986856 51.4950625)) 
+        ("Elephant & Castle / New Kent Road" "490000073N" "NEW KENT ROAD" 
+            (-0.0987654 51.4949131)) 
+        ("Elephant & Castle Station" "490000073P" "ELEPHANT & CASTLE" 
+            (-0.100425 51.4942664)) 
+        ("Elephant & Castle Station" "490000073R" "ELEPHANT & CASTLE" 
+            (-0.0982691 51.4923538)) 
+        ("Euston Station / Eversholt Street" "490000077A" "EVERSHOLT STREET" 
+            (-0.1325412 51.5288018)) 
+        ("Euston Bus Station" "490000077AP" "EUSTON BUS STATION" 
+            (-0.131841 51.5275726)) 
+        ("Euston Station" "490000077B" "EVERSHOLT STREET" 
+            (-0.1320162 51.5285146)) 
+        ("Euston Station" "490000077C" "EUSTON BUS STATION" 
+            (-0.1327266 51.5275411)) 
+        ("Euston Station" "490000077D" "EUSTON BUS STATION" 
+            (-0.1324544 51.527654)) 
+        ("Euston Bus Station" "490000077E" "EUSTON BUS STATION" 
+            (-0.1317612 51.5278464)) 
+        ("Euston Bus Station" "490000077F" "EUSTON BUS STATION" 
+            (-0.1322756 51.5271489)) 
+        ("Euston Bus Station" "490000077G" "EUSTON BUS STATION" 
+            (-0.1323759 51.5275804)) 
+        ("Euston Square Station" "490000078P" "EUSTON ROAD" 
+            (-0.1348495 51.5258064)) 
+        ("Euston Square Station" "490000078Q" "EUSTON ROAD" 
+            (-0.1368575 51.5256063)) 
+        ("Farringdon Station" "490000080A" "FARRINGDON ROAD" 
+            (-0.1060483 51.5204993)) 
+        ("Farringdon Station" "490000080B" "FARRINGDON ROAD" 
+            (-0.1057568 51.5202107)) 
+        ("Great Portland Street Station / Euston Road" "490000091H" "EUSTON ROAD" 
+            (-0.1429206 51.5240404)) 
+        ("Green Park Station" "490000093PB" "PICCADILLY" 
+            (-0.1424272 51.507034)) 
+        ("Green Park Station" "490000093PE" "PICCADILLY" 
+            (-0.1427797 51.5066961)) 
+        ("Surrey Quays Station" "490000229O" "ROTHERHITHE OLD ROAD" 
+            (-0.047763 51.49276)) 
+        ("Lower Road / Surrey Quays Station" "490000229S" "LOWER ROAD" 
+            (-0.0456404 51.492411)) 
+        ("Tottenham Court Road Station" "490000235X" "NEW OXFORD STREET" 
+            (-0.1281211 51.5166718)) 
+        ("New Oxford Street" "490000235Z" "NEW OXFORD STREET" 
+            (-0.1278868 51.5168037)) 
+        ("Victoria Station" "490000248J" "WILTON ROAD" 
+            (-0.142829 51.4951916)) 
+        ("Wapping Station" "490000251E" "WAPPING HIGH STREET" 
+            (-0.0554273 51.5050247)) 
+        ("Wapping Station" "490000251W" "WAPPING HIGH STREET" 
+            (-0.0559869 51.5045007)) 
+        ("Warren Street Station" "490000252X" "TOTTENHAM COURT ROAD" 
+            (-0.1376199 51.5240842)) 
+        ("Waterloo Station / Upper Taxi Road" "490000254A" "UPPER TAXI ROAD" 
+            (-0.1134087 51.5037893)) 
+        ("Waterloo Station / Upper Taxi Road" "490000254B" "UPPER TAXI ROAD" 
+            (-0.1131036 51.5037092)) 
+        ("Waterloo Station / Upper Taxi Road" "490000254C" "UPPER TAXI ROAD" 
+            (-0.1127563 51.503653)) 
+        ("Waterloo Station / Waterloo Road" "490000254D" "WATERLOO ROAD" 
+            (-0.1107302 51.5030085)) 
+        ("Waterloo Station / Waterloo Road" "490000254E" "WATERLOO ROAD" 
+            (-0.1113206 51.5035249)) 
+        ("Waterloo Station / Mepham Street" "490000254EB" "MEPHAM STREET" 
+            (-0.1131981 51.503986)) 
+        ("Waterloo Station / Waterloo Road" "490000254F" "WATERLOO ROAD" 
+            (-0.1115011 51.5034845)) 
+        ("Waterloo Station / Tenison Way" "490000254H" "TENISON WAY" 
+            (-0.1127576 51.5041524)) 
+        ("Waterloo Station / York Road" "490000254W" "YORK ROAD" 
+            (-0.1151688 51.5035287)) 
+        ("Mile End Station" "490000146C" "MILE END ROAD" 
+            (-0.0332119 51.5253494)) 
+        ("Mile End Station / Mile End Road" "490000146G" "GROVE ROAD" 
+            (-0.0352726 51.5257691)) 
+        ("King William Street / Monument Station" "490000148G" "KING WILLIAM STREET" 
+            (-0.08713700000000001 51.5114084)) 
+        ("Monument Station" "490000148K" "EASTCHEAP" 
+            (-0.0849072 51.5107942)) 
+        ("Fenchurch Street" "490000148M" "GRACECHURCH STREET" 
+            (-0.08497540000000001 51.5122502)) 
+        ("Gracechurch Street / Monument Station" "490000148T" "GRACECHURCH STREET" 
+            (-0.0855789 51.5113694)) 
+        ("Fenchurch Street" "490000148U" "GRACECHURCH STREET" 
+            (-0.0853918 51.511351)) 
+        ("Mornington Crescent Station" "490000152A" "HAMPSTEAD ROAD" 
+            (-0.1392685 51.5341119)) 
+        ("Mornington Crescent Station" "490000152C" "HAMPSTEAD ROAD" 
+            (-0.1385304 51.5334179)) 
+        ("Mornington Crescent Station" "490000152D" "HARRINGTON SQUARE" 
+            (-0.1389888 51.5341125)) 
+        ("Mornington Crescent Station / Camden Town Library" "490000152F" "EVERSHOLT STREET" 
+            (-0.1383687 51.5342037)) 
+        ("Mornington Crescent Station / Camden Town Library" "490000152G" "EVERSHOLT STREET" 
+            (-0.1379351 51.5339854)) 
+        ("John Prince's Street / Oxford Circus" "490000173JA" "JOHN PRINCE'S STREET" 
+            (-0.1429614 51.5155067)) 
+        ("John Prince's Street / Oxford Circus" "490000173JC" "JOHN PRINCE'S STREET" 
+            (-0.1427206 51.5154949)) 
+        ("Margaret Street / Oxford Circus" "490000173N" "REGENT STREET" 
+            (-0.1424266 51.5160888)) 
+        ("Oxford Circus Station" "490000173RC" "REGENT STREET" 
+            (-0.1418836 51.5144539)) 
+        ("Margaret Street / Oxford Circus" "490000173RD" "REGENT STREET" 
+            (-0.1427249 51.5167408)) 
+        ("Oxford Circus Station / Margaret Street" "490000173RF" "REGENT STREET" 
+            (-0.1420864 51.5159699)) 
+        ("Piccadilly Circus" "490000179B" "PICCADILLY" 
+            (-0.1362862 51.5093252)) 
+        ("Piccadilly Circus" "490000179C" "REGENT STREET" 
+            (-0.1357725 51.5098422)) 
+        ("Piccadilly Circus" "490000179F" "REGENT STREET" 
+            (-0.1370439 51.5099967)) 
+        ("Piccadilly Circus" "490000179G" "REGENT STREET" 
+            (-0.135631 51.5100428)) 
+        ("Piccadilly Circus" "490000179S" "PICCADILLY" 
+            (-0.1362077 51.5091424)) 
+        ("Pimlico Station" "490000180A" "VAUXHALL BRIDGE ROAD" 
+            (-0.1322 51.4898123)) 
+        ("Pimlico Station" "490000180D" "VAUXHALL BRIDGE ROAD" 
+            (-0.1329497 51.4904328)) 
+        ("Pimlico Station" "490000180H" "BESSBOROUGH STREET" 
+            (-0.1332453 51.4890498)) 
+        ("Pimlico Station" "490000180J" "BESSBOROUGH STREET" 
+            (-0.1330996 51.4889309)) 
+        ("Rotherhithe Station" "490000195V" "BRUNEL ROAD" 
+            (-0.0526017 51.5003652)) 
+        ("Rotherhithe Station" "490000195W" "BRUNEL ROAD" 
+            (-0.0519932 51.5006085)) 
+        ("Russell Square" "490000200D" "RUSSELL SQUARE" 
+            (-0.1255135 51.5208447)) 
+        ("Russell Square Station" "490000200H" "WOBURN PLACE" 
+            (-0.1262678 51.523136)) 
+        ("Russell Square" "490000200J" "WOBURN PLACE" 
+            (-0.1262008 51.5232784)) 
+        ("Shadwell Station" "490000202A" "CABLE STREET" 
+            (-0.0555703 51.5110604)) 
+        ("Shadwell Station" "490000202D" "MARTHA STREET" 
+            (-0.0564608 51.5119869)) 
+        ("Stepney Green Station" "490000220E1" "MILE END ROAD" 
+            (-0.0468862 51.5217924)) 
+        ("Stepney Green Station" "490000220N" "GLOBE ROAD" 
+            (-0.0470144 51.522582)) 
+        ("Stepney Green Station" "490000220S" "GLOBE ROAD" 
+            (-0.0466049 51.5223571)) 
+        ("Stepney Green Station" "490000220W2" "MILE END ROAD" 
+            (-0.0466139 51.5216803)) 
+        ("Kingsway / Holborn Station" "490000112M" "KINGSWAY" 
+            (-0.1197755 51.5168684)) 
+        ("Holborn Station" "490000112N" "KINGSWAY" 
+            (-0.1201482 51.5169031)) 
+        ("Holborn Station" "490000112P" "KINGSWAY" 
+            (-0.1202791 51.517111)) 
+        ("Kennington Station" "490000121S" "KENNINGTON PARK ROAD" 
+            (-0.1055375 51.48868)) 
+        ("King's Cross Station" "490000129E" "EUSTON ROAD" 
+            (-0.1229032 51.5305975)) 
+        ("Lambeth North Station" "490000132A" "KENNINGTON ROAD" 
+            (-0.1118792 51.4975197)) 
+        ("Lambeth North Station" "490000132B" "WESTMINSTER BRIDGE ROAD" 
+            (-0.1115073 51.4984907)) 
+        ("Lambeth North Station" "490000132C" "WESTMINSTER BRIDGE ROAD" 
+            (-0.1111413 51.4985137)) 
+        ("Lambeth North Station" "490000132G" "KENNINGTON ROAD" 
+            (-0.1122692 51.4981063)) 
+        ("Leicester Square Station" "490000135A" "CHARING CROSS ROAD" 
+            (-0.1284754 51.5105612)) 
+        ("Leicester Square Station" "490000135B" "CHARING CROSS ROAD" 
+            (-0.1282835 51.5115954)) 
+        ("Liverpool Street Station" "490000138A" "SUN STREET PASSAGE" 
+            (-0.0826904 51.5178803)) 
+        ("Liverpool Street Station" "490000138B" "SUN STREET PASSAGE" 
+            (-0.08260190000000001 51.5180364)) 
+        ("Liverpool Street Station" "490000138C" "SUN STREET PASSAGE" 
+            (-0.08255460000000001 51.518127)) 
+        ("Liverpool Street Station" "490000138D" "SUN STREET PASSAGE" 
+            (-0.0824979 51.5182528)) 
+        ("Liverpool Street Station" "490000138E" "BISHOPSGATE" 
+            (-0.0799586 51.5180772)) 
+        ("Cambridge Heath Station" "490001044P" "CAMBRIDGE HEATH ROAD" 
+            (-0.0571513 51.5331911)) 
+        ("King Edward Street" "490000225S" "NEWGATE STREET" 
+            (-0.0999169 51.5157403)) 
+        ("St Paul's Station" "490000225U" "NEWGATE STREET" 
+            (-0.0978521 51.5150449)) 
+        ("St Paul's Station" "490000225W" "ST MARTIN'S LE GRAND" 
+            (-0.0970327 51.515543)) 
+        ("St Paul's Station" "490000225Y" "CHEAPSIDE" 
+            (-0.09568649999999999 51.5144294)) 
+        ("London Bridge Station" "490000139R" "DUKE STREET HILL" 
+            (-0.0869621 51.505986)) 
+        ("London Bridge Station" "490000139S" "DUKE STREET HILL" 
+            (-0.0860913 51.5057005)) 
+        ("City Thameslink Station" "490001067Q" "HOLBORN VIADUCT" 
+            (-0.1036938 51.5169254)) 
+        ("City Thameslink Station" "490001067R" "HOLBORN VIADUCT" 
+            (-0.1028863 51.5165025)) 
+        ("Aldenham Street" "490003174N" "EVERSHOLT STREET" 
+            (-0.1355268 51.5315842)) 
+        ("Aldenham Street" "490003174S" "EVERSHOLT STREET" 
+            (-0.1347614 51.5310236)) 
+        ("Aldwych" "490003191D" "ALDWYCH" 
+            (-0.1188129 51.5124686)) 
+        ("Aldwych / Drury Lane" "490003191E" "ALDWYCH" 
+            (-0.1185414 51.5127552)) 
+        ("South Bermondsey Station" "490001256E" "ILDERTON ROAD" 
+            (-0.0574696 51.4879587)) 
+        ("Tower Gateway Station" "490002076RV" "MINORIES" 
+            (-0.07504859999999999 51.5104613)) 
+        ("Tower Gateway Station" "490002076Y" "MINORIES" 
+            (-0.0751435 51.5107986)) 
+        ("Westferry Station" "490002083A" "WESTFERRY ROAD" 
+            (-0.0267807 51.5086688)) 
+        ("Jamaica Road / Abbey Street" "490003034E" "JAMAICA ROAD" 
+            (-0.0693877 51.4985555)) 
+        ("Jamaica Road / Abbey Street" "490003034W" "JAMAICA ROAD" 
+            (-0.0708312 51.4989324)) 
+        ("Abbey Street" "490003035N" "TOWER BRIDGE ROAD" 
+            (-0.07923189999999999 51.4990549)) 
+        ("Abbey Street" "490003035S" "TOWER BRIDGE ROAD" 
+            (-0.0794866 51.4981021)) 
+        ("Abingdon Street" "490003059E" "ABINGDON STREET" 
+            (-0.1255719 51.4976475)) 
+        ("Anchor Street" "490003311E" "SOUTHWARK PARK ROAD" 
+            (-0.0610213 51.4921688)) 
+        ("Angel Islington / City Road" "490003327H" "CITY ROAD" 
+            (-0.1047435 51.531669)) 
+        ("Angel Islington" "490003327J" "CITY ROAD" 
+            (-0.1049053 51.5315226)) 
+        ("Angel Street" "490003330E" "ANGEL STREET" 
+            (-0.0975379 51.5161403)) 
+        ("Garnet Street" "490003335E" "PRUSOM STREET" 
+            (-0.055599 51.5064972)) 
+        ("Arbery Road" "490003352N" "GROVE ROAD" 
+            (-0.0385559 51.5289773)) 
+        ("Arbery Road" "490003352S" "GROVE ROAD" 
+            (-0.0379264 51.5285758)) 
+        ("Westminster City Hall" "490003384SA" "VICTORIA STREET" 
+            (-0.1367749 51.4973724)) 
+        ("Westminster City Hall" "490003384SB" "VICTORIA STREET" 
+            (-0.1377889 51.4971161)) 
+        ("Shoreditch Church" "490003487S" "HACKNEY ROAD" 
+            (-0.07682319999999999 51.527448)) 
+        ("Aylesbury Street" "490003525N" "ST JOHN STREET" 
+            (-0.1027587 51.5237515)) 
+        ("Balfour Street" "490003557N" "RODNEY ROAD" 
+            (-0.0898366 51.4913385)) 
+        ("Balfour Street" "490003557S" "RODNEY ROAD" 
+            (-0.08959259999999999 51.4913612)) 
+        ("Clerkenwell Road / Old Street" "490003573N" "GOSWELL ROAD" 
+            (-0.09803580000000001 51.5228763)) 
+        ("Barkantine Clinic / Hutchings Street" "490003602S" "WESTFERRY ROAD" 
+            (-0.0258473 51.4987453)) 
+        ("Acton Street" "490003087W1" "ACTON STREET" 
+            (-0.1180175 51.5283322)) 
+        ("Acton Street" "490003087W2" "ACTON STREET" 
+            (-0.1170095 51.5285768)) 
+        ("Bedford Street" "490003112J" "STRAND" 
+            (-0.1231342 51.5096743)) 
+        ("Congreve Street" "490003756E" "EAST STREET" 
+            (-0.08267579999999999 51.4902246)) 
+        ("Mile End Park Leisure Centre" "490003783S" "BURDETT ROAD" 
+            (-0.0307666 51.519313)) 
+        ("Bartholomew Street" "490004071BD" "GREAT DOVER STREET" 
+            (-0.0878676 51.4959291)) 
+        ("Blackhorse Court" "490004071S" "GREAT DOVER STREET" 
+            (-0.0887555 51.496848)) 
+        ("Bloomsbury Square" "490004114X" "BLOOMSBURY SQUARE" 
+            (-0.1221081 51.5185826)) 
+        ("Bonner Street" "490004144E" "ROMAN ROAD" 
+            (-0.0466664 51.5292802)) 
+        ("Morpeth Street" "490004144W" "ROMAN ROAD" 
+            (-0.0484884 51.5286843)) 
+        ("Booth Memorial" "490004147G" "MILE END ROAD" 
+            (-0.0542787 51.5202882)) 
+        ("Booth Memorial" "490004147W" "MILE END ROAD" 
+            (-0.0531198 51.5203702)) 
+        ("Borough Road" "490004158S" "SOUTHWARK BRIDGE ROAD" 
+            (-0.0996662 51.4995053)) 
+        ("Barnet Grove" "490003638E" "BETHNAL GREEN ROAD" 
+            (-0.0673417 51.5261738)) 
+        ("St Luke's Music Education Centre" "490003657E" "OLD STREET" 
+            (-0.0925581 51.5250353)) 
+        ("Bricklayer's Arms / New Kent Road" "490003658BB" "NEW KENT ROAD" 
+            (-0.0886139 51.4943086)) 
+        ("Bartholomew Street" "490003658BE" "GREAT DOVER STREET" 
+            (-0.0872156 51.4956713)) 
+        ("Bricklayer's Arms / New Kent Road" "490003658BS" "NEW KENT ROAD" 
+            (-0.0898996 51.4940561)) 
+        ("Baylis Road / Lower Marsh" "490003699N" "BAYLIS ROAD" 
+            (-0.1105928 51.5012009)) 
+        ("Bow Common Lane" "490004210N" "BURDETT ROAD" 
+            (-0.0340691 51.5221874)) 
+        ("Brick Lane" "490004313SA" "BETHNAL GREEN ROAD" 
+            (-0.0723476 51.5246275)) 
+        ("Bricklayer's Arms / Tower Bridge Road" "490004315BH" "TOWER BRIDGE ROAD" 
+            (-0.083491 51.4956213)) 
+        ("Beech Street" "490003818E" "BEECH STREET" 
+            (-0.0941673 51.5207704)) 
+        ("Belgrave Road" "490003837N" "BELGRAVE ROAD" 
+            (-0.1385328 51.490463)) 
+        ("Belgrave Road" "490003837S" "BELGRAVE ROAD" 
+            (-0.1387199 51.4906995)) 
+        ("Bestwood Street" "490003944N" "EVELYN STREET" 
+            (-0.0420401 51.4898659)) 
+        ("Bestwood Street" "490003944W" "EVELYN STREET" 
+            (-0.0412473 51.489472)) 
+        ("Bonner Road" "490003951W" "BONNER ROAD" 
+            (-0.0503331 51.5317711)) 
+        ("Bevenden Street" "490003960S" "EAST ROAD" 
+            (-0.0866905 51.5298045)) 
+        ("Brownlow Street" "490004514E" "HIGH HOLBORN" 
+            (-0.1151838 51.5181814)) 
+        ("Brownlow Street" "490004514W" "HIGH HOLBORN" 
+            (-0.1150005 51.5180989)) 
+        ("British Museum" "490004359OA" "GREAT RUSSELL STREET" 
+            (-0.1254446 51.5185714)) 
+        ("Denmark Street" "490004695A" "CHARING CROSS ROAD" 
+            (-0.1297279 51.5142889)) 
+        ("Cambridge Circus" "490004695D" "CHARING CROSS ROAD" 
+            (-0.12916 51.5135052)) 
+        ("Cambridge Circus" "490004695N" "CHARING CROSS ROAD" 
+            (-0.1287418 51.512484)) 
+        ("Chapman Street" "490004757C" "CANNON STREET ROAD" 
+            (-0.0610987 51.5118403)) 
+        ("Chapman Street" "490004757N" "CANNON STREET ROAD" 
+            (-0.0613133 51.5121908)) 
+        ("Bishopsgate" "490004043N" "CAMOMILE STREET" 
+            (-0.0811656 51.5159113)) 
+        ("Camomile Street" "490004043N2" "BISHOPSGATE" 
+            (-0.0821166 51.5158106)) 
+        ("Wormwood Street" "490004043P" "WORMWOOD STREET" 
+            (-0.08221390000000001 51.516309)) 
+        ("Wormwood Street" "490004043Q" "WORMWOOD STREET" 
+            (-0.082672 51.5161855)) 
+        ("Blackfriars Road" "490004063SL" "SOUTHWARK STREET" 
+            (-0.1039406 51.5068672)) 
+        ("Blackfriars Road" "490004063SM" "SOUTHWARK STREET" 
+            (-0.103548 51.5068144)) 
+        ("Chapel Market" "490004983V" "TOLPUDDLE STREET" 
+            (-0.1078571 51.5344331)) 
+        ("Charles II Street" "490004996U" "CHARLES II STREET" 
+            (-0.1328554 51.5079786)) 
+        ("Charterhouse Street" "490005027E" "CHARTERHOUSE STREET" 
+            (-0.1063552 51.5182734)) 
+        ("Snow Hill" "490005027N" "FARRINGDON STREET" 
+            (-0.1053424 51.5180324)) 
+        ("Brunswick Quay" "490004531E" "REDRIFF ROAD" 
+            (-0.0422332 51.4959487)) 
+        ("Bryan Road / Surrey Docks Farm" "490004539E" "ROTHERHITHE STREET" 
+            (-0.0343449 51.500119)) 
+        ("Bryan Road / Surrey Docks Farm" "490004539S" "ROTHERHITHE STREET" 
+            (-0.0332705 51.5012731)) 
+        ("East India Dock Road" "490004584N" "BURDETT ROAD" 
+            (-0.0279529 51.5129052)) 
+        ("East India Dock Road" "490004584S" "BURDETT ROAD" 
+            (-0.0277152 51.5123278)) 
+        ("Burdett Road / St Paul's Church" "490004588E" "ST PAUL'S WAY" 
+            (-0.0283228 51.517588)) 
+        ("Burnham Street" "490004606K" "ROMAN ROAD" 
+            (-0.0524941 51.5277257)) 
+        ("Cable Street" "490004657N" "BUTCHER ROW" 
+            (-0.0419812 51.5119779)) 
+        ("Cable Street" "490004657S" "BUTCHER ROW" 
+            (-0.0418701 51.5116982)) 
+        ("Bywater Place" "490004671S" "SALTER ROAD" 
+            (-0.0363986 51.5045729)) 
+        ("Bywater Place" "490004671W" "SALTER ROAD" 
+            (-0.0365818 51.5046471)) 
+        ("Calthorpe Street" "490004683N" "FARRINGDON ROAD" 
+            (-0.1124643 51.5260625)) 
+        ("Central Street" "490004937E" "CITY ROAD" 
+            (-0.0993212 51.5302449)) 
+        ("Cephas Street" "490004945N" "CAMBRIDGE HEATH ROAD" 
+            (-0.0550556 51.5232062)) 
+        ("Cephas Street" "490004945S" "CAMBRIDGE HEATH ROAD" 
+            (-0.0547875 51.5230779)) 
+        ("Commercial Street / Worship Street" "490005524D" "SHOREDITCH HIGH STREET" 
+            (-0.0781403 51.5219163)) 
+        ("Shoreditch High Street Station" "490005524E" "SHOREDITCH HIGH STREET" 
+            (-0.0783326 51.5219024)) 
+        ("Shoreditch High Street Station" "490005524F" "SHOREDITCH HIGH STREET" 
+            (-0.0781544 51.5222558)) 
+        ("Savile Row" "490005537AP" "CONDUIT STREET" 
+            (-0.1413542 51.5125642)) 
+        ("Congreve Street" "490005547W" "EAST STREET" 
+            (-0.08181960000000001 51.4903657)) 
+        ("Crucifix Lane" "490005867F" "CRUCIFIX LANE" 
+            (-0.08134660000000001 51.5021311)) 
+        ("Penton Rise" "490005904E" "PENTONVILLE ROAD" 
+            (-0.1156442 51.5313256)) 
+        ("Penton Rise" "490005904W" "PENTONVILLE ROAD" 
+            (-0.1152934 51.531216)) 
+        ("Curtain Road" "490005910A" "GREAT EASTERN STREET" 
+            (-0.07978499999999999 51.5239391)) 
+        ("Horseferry Road" "490006007E" "MILLBANK" 
+            (-0.1252998 51.4953076)) 
+        ("Horseferry Road" "490006007N" "MILLBANK" 
+            (-0.1254068 51.4957103)) 
+        ("Horseferry Road" "490006007S2" "MILLBANK" 
+            (-0.1252136 51.4956406)) 
+        ("Marsh Wall / Heron Quay" "490005323N" "WESTFERRY ROAD" 
+            (-0.0259565 51.5023481)) 
+        ("Marsh Wall / Heron Quay" "490005323S" "WESTFERRY ROAD" 
+            (-0.0256461 51.5030892)) 
+        ("Great Eastern Street" "490005619Y" "OLD STREET" 
+            (-0.08237510000000001 51.5267093)) 
+        ("Great Eastern Street" "490005619YA" "OLD STREET" 
+            (-0.0833851 51.5264946)) 
+        ("Southampton Row" "490005624S" "SOUTHAMPTON ROW" 
+            (-0.1234842 51.5210593)) 
+        ("St Thomas' Hospital / County Hall" "490005646D" "WESTMINSTER BRIDGE ROAD" 
+            (-0.1195378 51.5007274)) 
+        ("St Thomas' Hospital / County Hall" "490005646E" "WESTMINSTER BRIDGE ROAD" 
+            (-0.1179742 51.5008442)) 
+        ("County Hall" "490005646F" "YORK ROAD" 
+            (-0.1166438 51.5022565)) 
+        ("County Hall" "490005646G" "YORK ROAD" 
+            (-0.1166266 51.5020119)) 
+        ("Addington Street" "490005646H" "ADDINGTON STREET" 
+            (-0.1163113 51.5012821)) 
+        ("Coin Street" "490005457E" "STAMFORD STREET" 
+            (-0.1094907 51.5064957)) 
+        ("Coin Street" "490005457W" "STAMFORD STREET" 
+            (-0.109531 51.5063366)) 
+        ("Commercial Road" "490005523N" "CANNON STREET ROAD" 
+            (-0.061721 51.5137799)) 
+        ("Commercial Road" "490005523S1" "CANNON STREET ROAD" 
+            (-0.0616835 51.514234)) 
+        ("Downtown Road" "490006186N" "SALTER ROAD" 
+            (-0.0353642 51.500165)) 
+        ("Downtown Road" "490006186S" "SALTER ROAD" 
+            (-0.0352728 51.5000648)) 
+        ("Druid Street" "490006200E" "TOWER BRIDGE ROAD" 
+            (-0.0778914 51.5018882)) 
+        ("Drummond Road" "490006202B" "JAMAICA ROAD" 
+            (-0.0612882 51.4984113)) 
+        ("Drummond Road" "490006202E" "JAMAICA ROAD" 
+            (-0.0624867 51.4984092)) 
+        ("Duke's Place" "490006229P" "DUKE'S PLACE" 
+            (-0.0785882 51.5145853)) 
+        ("Dundee Street" "490006246E" "WAPPING HIGH STREET" 
+            (-0.0605228 51.5032843)) 
+        ("Dundee Street" "490006246W" "WAPPING HIGH STREET" 
+            (-0.0609876 51.5032925)) 
+        ("Dunnage Crescent" "490006258E" "PLOUGH WAY" 
+            (-0.035749 51.4925471)) 
+        ("Dunnage Crescent" "490006258W" "PLOUGH WAY" 
+            (-0.0362715 51.4923427)) 
+        ("Dunton Road" "490006266EC" "OLD KENT ROAD" 
+            (-0.07660930000000001 51.4884232)) 
+        ("Eagle Wharf Road" "490006289S" "NEW NORTH ROAD" 
+            (-0.0884455 51.5345128)) 
+        ("Hall Street" "490006309S" "GOSWELL ROAD" 
+            (-0.1015873 51.5292714)) 
+        ("Victoria Park" "490006025N" "GROVE ROAD" 
+            (-0.0421754 51.5343129)) 
+        ("Deptford Park School" "490006052E" "EVELYN STREET" 
+            (-0.0390016 51.4883017)) 
+        ("Deptford Park School" "490006052N" "OXESTALL'S ROAD" 
+            (-0.037087 51.4882647)) 
+        ("Deptford Park School" "490006052S" "OXESTALL'S ROAD" 
+            (-0.0371801 51.4880723)) 
+        ("Deptford Park School" "490006052W" "EVELYN STREET" 
+            (-0.0385941 51.4880139)) 
+        ("Dockhead" "490006091E" "JAMAICA ROAD" 
+            (-0.07199120000000001 51.4997167)) 
+        ("Arnhem Wharf Primary School" "490006092N" "WESTFERRY ROAD" 
+            (-0.0255032 51.4948921)) 
+        ("Dongola Road" "490006105N" "HARFORD STREET" 
+            (-0.0388137 51.5188138)) 
+        ("Dongola Road" "490006105S" "HARFORD STREET" 
+            (-0.0387118 51.5191126)) 
+        ("Edinburgh Court" "490006433W" "ROTHERHITHE STREET" 
+            (-0.0445867 51.5058886)) 
+        ("Embankment Station" "490006557C" "VICTORIA EMBANKMENT" 
+            (-0.1211473 51.5081627)) 
+        ("Epworth Street" "490006612E" "CITY ROAD" 
+            (-0.0870413 51.522583)) 
+        ("Eric Street" "490006614N" "BURDETT ROAD" 
+            (-0.0332833 51.5212001)) 
+        ("Eric Street" "490006614S" "BURDETT ROAD" 
+            (-0.0322928 51.5206713)) 
+        ("Ernest Street" "490006626N" "HARFORD STRET" 
+            (-0.0393635 51.5219349)) 
+        ("Ernest Street" "490006626S" "HARFORD STREET" 
+            (-0.0391605 51.5219945)) 
+        ("Esmeralda Road" "490006639N" "ST JAMES ROAD" 
+            (-0.0655022 51.4897124)) 
+        ("Esmeralda Road" "490006639S" "ST JAMES ROAD" 
+            (-0.06529450000000001 51.4902162)) 
+        ("Essex House" "490006641W" "ROTHERHITHE STREET" 
+            (-0.0400479 51.5068883)) 
+        ("Fetter Lane" "490006826E" "FLEET STREET" 
+            (-0.1087338 51.5142214)) 
+        ("Fetter Lane" "490006826W" "FLEET STREET" 
+            (-0.1083896 51.5141282)) 
+        ("Altab Ali Park" "490006827W" "WHITECHAPEL ROAD" 
+            (-0.067802 51.5168541)) 
+        ("Finsbury Square" "490006850F" "FINSBURY SQUARE" 
+            (-0.0858428 51.5215341)) 
+        ("Finsbury Square" "490006850G" "FINSBURY SQUARE" 
+            (-0.0856794 51.520673)) 
+        ("Finsbury Square" "490006850H" "FINSBURY SQUARE" 
+            (-0.08564579999999999 51.5208369)) 
+        ("Finsbury Square / Moorgate" "490006850J" "FINSBURY SQUARE" 
+            (-0.0862107 51.5203377)) 
+        ("Exmouth Estate" "490006692W" "COMMERCIAL ROAD" 
+            (-0.0493828 51.5135541)) 
+        ("Fakruddin Street" "490006720S" "VALLANCE ROAD" 
+            (-0.0641055 51.5230064)) 
+        ("Hoxton Station / Museum of the Home" "490006726N" "KINGSLAND ROAD" 
+            (-0.07737579999999999 51.5302052)) 
+        ("Falkirk Street" "490006726S" "KINGSLAND ROAD" 
+            (-0.07737810000000001 51.5296608)) 
+        ("Falkirk Street / Hoxton Station" "490006727E" "FALKIRK STREET" 
+            (-0.0781559 51.5307975)) 
+        ("Falkirk Street / Hackney Community College" "490006727W" "FALKIRK STREET" 
+            (-0.07831780000000001 51.5307047)) 
+        ("Hoxton Station / Museum of the Home" "490007154S" "KINGSLAND ROAD" 
+            (-0.07693609999999999 51.5316606)) 
+        ("Fitzalan Street" "490006864N1" "KENNINGTON ROAD" 
+            (-0.1110302 51.4928372)) 
+        ("Fitzalan Street" "490006864S1" "KENNINGTON ROAD" 
+            (-0.110915 51.4921191)) 
+        ("Ford Road" "490006904E" "ROMAN ROAD" 
+            (-0.0334145 51.53225)) 
+        ("Ford Road" "490006904W" "ROMAN ROAD" 
+            (-0.0329013 51.5322237)) 
+        ("Glamis Place" "490007207N" "GLAMIS ROAD" 
+            (-0.0505401 51.5102195)) 
+        ("Globe Road" "490007242W" "ROMAN ROAD" 
+            (-0.0501814 51.5282067)) 
+        ("Heathcote Street" "490006368N" "GRAY'S INN ROAD" 
+            (-0.1173584 51.5256546)) 
+        ("Old Kent Road / East Street" "490006379BL" "OLD KENT ROAD" 
+            (-0.081773 51.4914016)) 
+        ("Old Kent Road / East Street" "490006379BN" "OLD KENT ROAD" 
+            (-0.0822054 51.4914127)) 
+        ("East Street" "490006380S" "WALWORTH ROAD" 
+            (-0.0957591 51.4884581)) 
+        ("Great Suffolk Street" "490007416N" "SOUTHWARK BRIDGE ROAD" 
+            (-0.0990066 51.5005806)) 
+        ("Great Suffolk Street" "490007416S" "SOUTHWARK BRIDGE ROAD" 
+            (-0.0982779 51.5011825)) 
+        ("Great Swan Alley" "490007417S" "MOORGATE" 
+            (-0.0891166 51.5159897)) 
+        ("Free Trade Wharf" "490007010E" "THE HIGHWAY" 
+            (-0.0463747 51.5101012)) 
+        ("Free Trade Wharf" "490007010W" "THE HIGHWAY" 
+            (-0.0454735 51.5101846)) 
+        ("Vauxhall Bridge / Millbank" "490007550X" "VAUXHALL BRIDGE" 
+            (-0.1285773 51.4882339)) 
+        ("Roman Road / Grove Road" "490007580E" "ROMAN ROAD" 
+            (-0.0396101 51.5310295)) 
+        ("Windlass Place" "490007582N" "GROVE STREET" 
+            (-0.0343412 51.4905643)) 
+        ("Windlass Place" "490007582S" "GROVE STREET" 
+            (-0.0345054 51.4900197)) 
+        ("Goswell Road" "490007327W" "OLD STREET" 
+            (-0.09742240000000001 51.5236234)) 
+        ("Grange Road / Caledonian Market" "490007356S" "TOWER BRIDGE ROAD" 
+            (-0.0823513 51.4963383)) 
+        ("Grange Road / Caledonian Market" "490007362S" "TOWER BRIDGE ROAD" 
+            (-0.08225059999999999 51.4964104)) 
+        ("Gray's Inn Road" "490007391E" "THEOBALD'S ROAD" 
+            (-0.1143229 51.5212767)) 
+        ("Gray's Inn Road" "490007391W" "THEOBALD'S ROAD" 
+            (-0.113947 51.5212552)) 
+        ("Haymarket / Jermyn Street" "490007960R" "HAYMARKET" 
+            (-0.1326652 51.5096019)) 
+        ("Hay's Galleria" "490007964H" "TOOLEY STREET" 
+            (-0.0840993 51.505051)) 
+        ("Hampton Street" "490007739N" "WALWORTH ROAD" 
+            (-0.09833509999999999 51.4922114)) 
+        ("Bank Station / Poultry" "490007596K" "CHEAPSIDE" 
+            (-0.09161229999999999 51.513755)) 
+        ("Gwynne Place" "490007613N" "KINGS CROSS ROAD" 
+            (-0.1150726 51.5273579)) 
+        ("Gwynne Place" "490007613S" "KING'S CROSS ROAD" 
+            (-0.114792 51.5273417)) 
+        ("Waterson Street" "490007625V" "KINGSLAND ROAD" 
+            (-0.07801 51.5284323)) 
+        ("Holborn Circus / Fetter Lane" "490008275D" "HOLBORN" 
+            (-0.1094403 51.5180453)) 
+        ("Holborn Circus / Fetter Lane" "490008275G" "HOLBORN" 
+            (-0.1087507 51.5177487)) 
+        ("Holborn Circus / Fetter Lane" "490008275J" "HOLBORN" 
+            (-0.1092368 51.5180222)) 
+        ("Holborn Circus" "490008275K" "HOLBORN VIADUCT" 
+            (-0.1060007 51.5175746)) 
+        ("Red Lion Street" "490007834F" "THEOBALD'S ROAD" 
+            (-0.118458 51.5201151)) 
+        ("Haverfield Green / Grove Road" "490007914W" "ROMAN ROAD" 
+            (-0.0412623 51.5305135)) 
+        ("Jamaica Street" "490008535E" "STEPNEY WAY" 
+            (-0.0488803 51.5168863)) 
+        ("Jamaica Street" "490008535W1" "STEPNEY WAY" 
+            (-0.0492451 51.5167828)) 
+        ("Hermitage Wall" "490008089E" "VAUGHAN WAY" 
+            (-0.0648455 51.5051702)) 
+        ("Hermitage Wall" "490008089W" "VAUGHAN WAY" 
+            (-0.0646953 51.5050368)) 
+        ("Heron Quays" "490008097E" "MARSH WALL" 
+            (-0.0251184 51.5031014)) 
+        ("Heygate Street" "490008122N" "WALWORTH ROAD" 
+            (-0.0979698 51.4916508)) 
+        ("High Holborn / Chancery Lane Station" "490008165C" "GRAY'S INN ROAD" 
+            (-0.1118608 51.519267)) 
+        ("Horseferry Road" "490008374N" "MARSHAM STREET" 
+            (-0.1292704 51.495546)) 
+        ("Horseferry Road" "490008374S" "MARSHAM STREET" 
+            (-0.1291098 51.495641)) 
+        ("Horse Guards Avenue" "490008376E" "HORSE GUARDS AVENUE" 
+            (-0.1254769 51.5049871)) 
+        ("Houndsditch" "490008386M" "HOUNDSDITCH" 
+            (-0.07970869999999999 51.5160329)) 
+        ("Kennington Road / Imperial War Museum" "490008473E" "KENNINGTON ROAD" 
+            (-0.1112079 51.4957586)) 
+        ("Kennington Road / Imperial War Museum" "490008473F" "KENNINGTON ROAD" 
+            (-0.1112981 51.4960059)) 
+        ("St George's Road / Imperial War Museum" "490008473M" "ST GEORGES ROAD" 
+            (-0.1066339 51.4967952)) 
+        ("St George's Road / Imperial War Museum" "490008473N" "ST GEORGE'S ROAD" 
+            (-0.1062906 51.4966249)) 
+        ("Kennington Road / Imperial War Museum" "490008473S" "KENNINGTON ROAD" 
+            (-0.1107323 51.4947166)) 
+        ("John Silkin Lane" "490008572S" "TRUNDLEY'S ROAD" 
+            (-0.0446663 51.4895944)) 
+        ("Musbury Street" "490008584H" "JUBILEE STREET" 
+            (-0.0532094 51.5153866)) 
+        ("Musbury Street" "490008584S1" "JUBILEE STREET" 
+            (-0.0529954 51.5158623)) 
+        ("Kennington Lane" "490008643KE" "KENNINGTON ROAD" 
+            (-0.111094 51.4898218)) 
+        ("Kennington Lane" "490008643KH" "KENNINGTON ROAD" 
+            (-0.1112884 51.4900268)) 
+        ("Kennington Road" "490008646KC" "KENNINGTON LANE" 
+            (-0.109097 51.4894295)) 
+        ("Kennington Road" "490008646KD" "KENNINGTON LANE" 
+            (-0.1104078 51.489168)) 
+        ("Lambeth Road / Kennington Road" "490008647W" "LAMBETH ROAD" 
+            (-0.1121011 51.4962474)) 
+        ("Temple Avenue" "490008263E" "VICTORIA EMBANKMENT" 
+            (-0.109334 51.5110991)) 
+        ("Kings Reach Building" "490008808SE" "STAMFORD STREET" 
+            (-0.106407 51.5071084)) 
+        ("Kings Reach Building" "490008808SF" "STAMFORD STREET" 
+            (-0.10693 51.5071936)) 
+        ("Kirby Estate" "490008847G" "SOUTHWARK PARK ROAD" 
+            (-0.0604517 51.4981178)) 
+        ("Kirby Estate" "490008847N" "SOUTHWARK PARK ROAD" 
+            (-0.0604867 51.4973763)) 
+        ("King & Queen Wharf" "490008730E" "ROTHERHITHE STREET" 
+            (-0.0433764 51.5065922)) 
+        ("King Edward Memorial Park" "490008736N" "GLAMIS ROAD" 
+            (-0.0506864 51.5092473)) 
+        ("King Edward Memorial Park" "490008736S" "GLAMIS ROAD" 
+            (-0.0505764 51.5089936)) 
+        ("King Edward Street / St Paul's Station" "490008743V" "KING EDWARD STREET" 
+            (-0.0986455 51.5165565)) 
+        ("Percival Street" "490009099S" "GOSWELL ROAD" 
+            (-0.1002324 51.5270913)) 
+        ("Tolpuddle Street / Islington Police Station" "490008516E" "TOLPUDDLE STREET" 
+            (-0.1103995 51.5342137)) 
+        ("Penton Street / Islington Police Station" "490008516W" "TOLPUDDLE STREET" 
+            (-0.1105585 51.5340787)) 
+        ("Lower Marsh" "490009420E" "WESTMINSTER BRIDGE ROAD" 
+            (-0.1146728 51.500128)) 
+        ("Ludgate Hill / Old Bailey" "490009443G" "LUDGATE HILL" 
+            (-0.1019452 51.5139424)) 
+        ("Lynton Road" "490009480S" "DUNTON ROAD" 
+            (-0.07566829999999999 51.4908436)) 
+        ("Lynton Road" "490009482S" "GALLEYWALL ROAD" 
+            (-0.0598594 51.4905754)) 
+        ("British Library" "490009498W" "EUSTON ROAD" 
+            (-0.1282807 51.5281577)) 
+        ("Shipwright Road" "490008899N" "SALTER ROAD" 
+            (-0.0360774 51.4987997)) 
+        ("Shipwright Road" "490008899S" "REDRIFF ROAD" 
+            (-0.0368008 51.4980406)) 
+        ("Lambeth Bridge" "490008916E" "ALBERT EMBANKMENT" 
+            (-0.1214378 51.4934906)) 
+        ("Lambeth Bridge" "490008916S" "ALBERT EMBANKMENT" 
+            (-0.1212971 51.4931878)) 
+        ("Lambeth Palace" "490008917E1" "LAMBETH ROAD" 
+            (-0.1189617 51.494871)) 
+        ("Lambeth Palace" "490008917E2" "LAMBETH ROAD" 
+            (-0.119073 51.4948579)) 
+        ("Lambeth Palace" "490008917N" "LAMBETH PALACE ROAD" 
+            (-0.1208821 51.495109)) 
+        ("Lambeth Palace" "490008917S" "LAMBETH PALACE ROAD" 
+            (-0.1207239 51.4952953)) 
+        ("Lambeth Palace" "490008917W" "LAMBETH ROAD" 
+            (-0.1199022 51.4943869)) 
+        ("Lambeth Road" "490008918N" "LAMBETH ROAD" 
+            (-0.1065243 51.4976046)) 
+        ("Larcom Street" "490008975A" "WALWORTH ROAD" 
+            (-0.0971939 51.4908075)) 
+        ("Larcom Street" "490008975S" "WALWORTH ROAD" 
+            (-0.09695230000000001 51.4904468)) 
+        ("Lavington Street" "490009011SQ" "SOUTHWARK STREET" 
+            (-0.09881 51.5053565)) 
+        ("Burdett Road" "490009158E" "COMMERCIAL ROAD" 
+            (-0.0298074 51.5124471)) 
+        ("Liverpool Road / Chapel Market" "490009225W" "TOLPUDDLE STREET" 
+            (-0.1081989 51.5344736)) 
+        ("Monument Station" "490009267D" "KING WILLIAM STREET" 
+            (-0.0873094 51.509521)) 
+        ("Monument Station" "490009267E" "KING WILLIAM STREET" 
+            (-0.08699800000000001 51.5094616)) 
+        ("London College Of Communication" "490009270Z" "ST GEORGE'S ROAD" 
+            (-0.1022321 51.4952884)) 
+        ("London Eye" "490009275E" "WESTMINSTER BRIDGE ROAD" 
+            (-0.1194447 51.5008617)) 
+        ("London Eye" "490009275Y" "CHICHELEY STREET" 
+            (-0.1174123 51.5028274)) 
+        ("Elephant & Castle / London Road" "490009281A" "LONDON ROAD" 
+            (-0.1016028 51.4960825)) 
+        ("Elephant & Castle / London Road" "490009281B" "LONDON ROAD" 
+            (-0.1013974 51.4958979)) 
+        ("Elephant & Castle / London Road" "490009281C" "LONDON ROAD" 
+            (-0.1018546 51.4965007)) 
+        ("Elephant & Castle / London Road" "490009281D" "LONDON ROAD" 
+            (-0.1015937 51.4962887)) 
+        ("Elephant & Castle / London Road" "490009281E" "LONDON ROAD" 
+            (-0.1012887 51.4960218)) 
+        ("Marshalsea Road" "490009693N" "SOUTHWARK BRIDGE ROAD" 
+            (-0.0975138 51.502514)) 
+        ("Marshalsea Road" "490009693S" "SOUTHWARK BRIDGE ROAD" 
+            (-0.0964694 51.5027709)) 
+        ("Marsham Street" "490009694E" "HORSEFERRY ROAD" 
+            (-0.1301077 51.494915)) 
+        ("Marsham Street" "490009694W" "HORSEFERRY ROAD" 
+            (-0.1309531 51.4948227)) 
+        ("Byng Street" "490009545N" "WESTFERRY ROAD" 
+            (-0.0261128 51.5004184)) 
+        ("Cuba Street" "490009545S" "WESTFERRY ROAD" 
+            (-0.0259062 51.5012433)) 
+        ("Mansell Street" "490009606S" "MANSELL STREET" 
+            (-0.0733002 51.5128246)) 
+        ("Mintern Street" "490009942N" "NEW NORTH ROAD" 
+            (-0.0872132 51.5325798)) 
+        ("Mintern Street" "490009942S" "NEW NORTH ROAD" 
+            (-0.0868091 51.5321676)) 
+        ("London Wall" "490009290N" "MOORGATE" 
+            (-0.08943479999999999 51.515584)) 
+        ("The East London Mosque" "490010249K" "WHITECHAPEL ROAD" 
+            (-0.0649293 51.5178276)) 
+        ("The East London Mosque" "490010258J" "WHITECHAPEL ROAD" 
+            (-0.0644948 51.5180889)) 
+        ("St James's Park Station" "490010260SC" "VICTORIA STREET" 
+            (-0.1344199 51.4977832)) 
+        ("St James's Park Station" "490010260SD" "VICTORIA STREET" 
+            (-0.1347428 51.4975802)) 
+        ("Medway Road" "490009786E" "ROMAN ROAD" 
+            (-0.0355483 51.5318392)) 
+        ("Temple Avenue" "490009853W" "VICTORIA EMBANKMENT" 
+            (-0.1102178 51.5110107)) 
+        ("Cambridge Heath Road" "490009873E" "WHITECHAPEL ROAD" 
+            (-0.057459 51.519709)) 
+        ("Mile End Road" "490009874N" "WHITE HORSE LANE" 
+            (-0.0450487 51.521028)) 
+        ("Mile End Road" "490009874S" "WHITE HORSE LANE" 
+            (-0.0453304 51.5217288)) 
+        ("Millbank" "490009881Z" "HORSEFERRY ROAD" 
+            (-0.127345 51.4949059)) 
+        ("Millbank" "490009881W" "HORSEFERRY ROAD" 
+            (-0.1265699 51.4947768)) 
+        ("Moorfields Eye Hospital" "490010012E" "CITY ROAD" 
+            (-0.09086859999999999 51.5280577)) 
+        ("Moorfields Eye Hospital" "490010012N" "CITY ROAD" 
+            (-0.09045060000000001 51.5278088)) 
+        ("Mount Pleasant" "490010085N1" "ROSEBERY AVENUE" 
+            (-0.1113283 51.5237717)) 
+        ("Mount Pleasant" "490010085S1" "ROSEBERY AVENUE" 
+            (-0.1103936 51.5254281)) 
+        ("Mount Pleasant" "490010085S2" "ROSEBERY AVENUE" 
+            (-0.1102984 51.5256075)) 
+        ("Shoreditch Town Hall" "490010585X" "OLD STREET" 
+            (-0.0794038 51.5272995)) 
+        ("Onega Gate" "490010596E" "REDRIFF ROAD" 
+            (-0.0393713 51.4966633)) 
+        ("Onega Gate" "490010596W" "REDRIFF ROAD" 
+            (-0.0389833 51.4967007)) 
+        ("Great Titchfield Street / Oxford Circus Station" "490010689KB" "OXFORD STREET" 
+            (-0.1399445 51.5154495)) 
+        ("Pageant Steps" "490010720S" "ROTHERHITHE STREET" 
+            (-0.0346294 51.5060539)) 
+        ("Pageant Steps" "490010720W" "ROTHERHITHE STREET" 
+            (-0.0359423 51.506428)) 
+        ("Page Street" "490010723N" "MARSHAM STREET" 
+            (-0.1290412 51.493816)) 
+        ("Page Street" "490010723S" "MARSHAM STREET" 
+            (-0.1288929 51.4941747)) 
+        ("Rosebery Avenue / Mount Pleasant" "490010089N" "FARRINGDON ROAD" 
+            (-0.109717 51.5242637)) 
+        ("Rosebery Avenue / Mount Pleasant" "490010089S" "FARRINGDON ROAD" 
+            (-0.1111586 51.5254498)) 
+        ("Old Street Station" "490010108C" "CITY ROAD" 
+            (-0.0882324 51.5271269)) 
+        ("Old Street Roundabout" "490010109E" "CITY ROAD" 
+            (-0.0880166 51.526449)) 
+        ("Bevenden Street" "490010126N" "EAST ROAD" 
+            (-0.0866639 51.5300321)) 
+        ("London Wall" "490010130E" "LONDON WALL" 
+            (-0.0951951 51.5175768)) 
+        ("Museum of London" "490010130N" "ALDERSGATE STREET" 
+            (-0.0972387 51.5188725)) 
+        ("London Wall" "490010130W" "LONDON WALL" 
+            (-0.0951159 51.5174023)) 
+        ("Museum Street" "490010131SA" "NEW OXFORD STREET" 
+            (-0.1245769 51.5173861)) 
+        ("Great Winchester Street" "490010159N" "OLD BROAD STREET" 
+            (-0.0842733 51.5156242)) 
+        ("Neathouse Place" "490010164K" "VAUXHALL BRIDGE ROAD" 
+            (-0.1411833 51.4943867)) 
+        ("Neathouse Place" "490010164L" "VAUXHALL BRIDGE ROAD" 
+            (-0.1418481 51.495312)) 
+        ("Neptune Street / St Olaves Estate" "490010176N" "LOWER ROAD" 
+            (-0.054024 51.4974551)) 
+        ("Neptune Street / St Olaves Estate" "490010176S" "LOWER ROAD" 
+            (-0.0542745 51.4979831)) 
+        ("Great Winchester Street" "490010177S" "OLD BROAD STREET" 
+            (-0.0844124 51.5153073)) 
+        ("Nesham Street" "490010178S" "VAUGHAN WAY" 
+            (-0.06657730000000001 51.5069163)) 
+        ("New Change / Cannon Street" "490010199E" "NEW CHANGE" 
+            (-0.0962691 51.5134935)) 
+        ("Newington Butts" "490010223N" "NEWINGTON BUTTS" 
+            (-0.1027609 51.4917777)) 
+        ("Newington Butts" "490010223S1" "NEWINGTON BUTTS" 
+            (-0.1022412 51.4918577)) 
+        ("Newington Butts" "490010223S2" "NEWINGTON BUTTS" 
+            (-0.1019659 51.4920732)) 
+        ("Bancroft Road / Ocean Estate" "490010513E" "MILE END ROAD" 
+            (-0.0446371 51.5222078)) 
+        ("Ocean Estate" "490010513W" "MILE END ROAD" 
+            (-0.0425584 51.5222978)) 
+        ("Old Bond Street / Royal Academy" "490010526G" "PICCADILLY" 
+            (-0.1394928 51.5080737)) 
+        ("Old Broad Street" "490010527E" "THREADNEEDLE STREET" 
+            (-0.0852149 51.5142602)) 
+        ("Old Broad Street" "490010527W" "THREADNEEDLE STREET" 
+            (-0.08557049999999999 51.5141087)) 
+        ("Victoria Park" "490010554S1" "GROVE ROAD" 
+            (-0.0417948 51.5337827)) 
+        ("Old Ford Road" "490010554S2" "GROVE ROAD" 
+            (-0.0411079 51.5322706)) 
+        ("Old Ford Road" "490010555G" "CAMBRIDGE HEATH ROAD" 
+            (-0.0560788 51.5296992)) 
+        ("Old Ford Road" "490010555H" "CAMBRIDGE HEATH ROAD" 
+            (-0.0559381 51.5299071)) 
+        ("Bank Station / Princes Street" "490011218A" "PRINCES STREET" 
+            (-0.0896183 51.5142474)) 
+        ("Bank Station / Princes Street" "490011218B" "PRINCES STREET" 
+            (-0.0892554 51.5140077)) 
+        ("Pritchard's Road" "490011243E" "HACKNEY ROAD" 
+            (-0.0607575 51.5320536)) 
+        ("Shadwell Basin" "490011246N" "WAPPING WALL" 
+            (-0.0509288 51.5077659)) 
+        ("Moorfields Eye Hospital" "490011249A" "PROVOST STREET" 
+            (-0.0887751 51.5280307)) 
+        ("Clegg Street" "490011250E" "PRUSOM STREET" 
+            (-0.0570312 51.5055323)) 
+        ("Lavender Road" "490011252E" "ROTHERHITHE STREET" 
+            (-0.0368424 51.5066668)) 
+        ("Penton Place" "490010925N" "KENNINGTON PARK ROAD" 
+            (-0.1043344 51.4900142)) 
+        ("Penton Place" "490010925S" "KENNINGTON PARK ROAD" 
+            (-0.1040585 51.4901453)) 
+        ("Penton Rise" "490010926S" "PENTON RISE" 
+            (-0.1147565 51.5306406)) 
+        ("Penton Street" "490010928E" "PENTONVILLE ROAD" 
+            (-0.1117664 51.5316076)) 
+        ("Percival Street" "490010935N" "GOSWELL ROAD" 
+            (-0.09999420000000001 51.5260591)) 
+        ("Pear Tree Street" "490010935S" "GOSWELL ROAD" 
+            (-0.0993243 51.5248966)) 
+        ("Peter Hills School" "490010964W" "SALTER ROAD" 
+            (-0.0407965 51.50558)) 
+        ("Pimlico Academy & Library" "490011004N1" "LUPUS STREET" 
+            (-0.1377949 51.4882909)) 
+        ("Pimlico Academy & Library" "490011004W" "LUPUS STREET" 
+            (-0.1373058 51.4882728)) 
+        ("Pixley Street" "490011031N" "BURDETT ROAD" 
+            (-0.028761 51.515141)) 
+        ("Pixley Street" "490011031S" "BURDETT ROAD" 
+            (-0.0284856 51.5150873)) 
+        ("Rood Lane" "490011049E" "FENCHURCH STREET" 
+            (-0.08263810000000001 51.5116195)) 
+        ("Rood Lane" "490011049W" "FENCHURCH STREET" 
+            (-0.082162 51.511561)) 
+        ("Brunswick Quay" "490011302W" "REDRIFF ROAD" 
+            (-0.0431054 51.4954969)) 
+        ("Queen Mary / University of London" "490011315E" "MILE END ROAD" 
+            (-0.0407509 51.5228229)) 
+        ("Queen Mary / University of London" "490011315W" "MILE END ROAD" 
+            (-0.0392156 51.5231507)) 
+        ("Queen Street Place" "490011362S" "QUEEN STREET PLACE" 
+            (-0.09331490000000001 51.5099713)) 
+        ("Vauxhall Bridge Road" "490011094T" "MILLBANK" 
+            (-0.128105 51.4894859)) 
+        ("Chelsea College of Arts" "490011094U" "JOHN ISLIP STREET" 
+            (-0.1297573 51.4901714)) 
+        ("Ponsonby Terrace" "490011095S" "JOHN ISLIP STREET" 
+            (-0.1305495 51.4896646)) 
+        ("Pratt Walk" "490011169E" "LAMBETH ROAD" 
+            (-0.1167952 51.4952437)) 
+        ("Pratt Walk" "490011169W" "LAMBETH ROAD" 
+            (-0.1166416 51.495165)) 
+        ("Primrose Street" "490011187N" "BISHOPSGATE" 
+            (-0.0791298 51.5199522)) 
+        ("Tinworth Street" "490011192N" "ALBERT EMBANKMENT" 
+            (-0.122699 51.4904386)) 
+        ("Regent Street / St James's" "490011516Y" "REGENT STREET" 
+            (-0.1340613 51.5088467)) 
+        ("Renfrew Road" "490011521W" "KENNINGTON LANE" 
+            (-0.1065689 51.4904496)) 
+        ("Copperfield Road" "490011545E" "RHODESWELL ROAD" 
+            (-0.0338923 51.5179682)) 
+        ("Copperfield Road" "490011545W" "RHODESWELL ROAD" 
+            (-0.0341271 51.5179802)) 
+        ("Riverside Youth Club" "490011605N" "GROVE STREET" 
+            (-0.0346292 51.4889455)) 
+        ("Riverside Youth Club" "490011605W" "GROVE STREET" 
+            (-0.0344518 51.4888793)) 
+        ("Rochester Row" "490011617E" "VAUXHALL BRIDGE ROAD" 
+            (-0.1390598 51.4933164)) 
+        ("Rochester Row" "490011617N" "VAUXHALL BRIDGE ROAD" 
+            (-0.1374075 51.4923903)) 
+        ("Roman Road" "490011653S" "GROVE ROAD" 
+            (-0.0405366 51.5316415)) 
+        ("Roman Road Market" "490011654N" "PARNELL ROAD" 
+            (-0.0261001 51.5333007)) 
+        ("The Royal Courts of Justice" "490011757L" "STRAND" 
+            (-0.1143704 51.5132422)) 
+        ("The Royal Courts of Justice" "490011757P" "STRAND" 
+            (-0.1134677 51.5129392)) 
+        ("Trocadero / Haymarket" "490011791K" "SHAFTESBURY AVENUE" 
+            (-0.1334337 51.5111269)) 
+        ("Bedford Place" "490011815K" "BEDFORD PLACE" 
+            (-0.1248385 51.5208084)) 
+        ("Montague Street" "490011816N" "MONTAGUE STREET" 
+            (-0.1260176 51.5202087)) 
+        ("Russia Dock Road" "490011817N" "SALTER ROAD" 
+            (-0.0358925 51.5029225)) 
+        ("Russia Dock Road" "490011817S" "SALTER ROAD" 
+            (-0.0357672 51.5028594)) 
+        ("Sadler's Wells Theatre" "490011849RA" "ROSEBERY AVENUE" 
+            (-0.1062108 51.5291192)) 
+        ("Sadler's Wells Theatre" "490011849RB" "ROSEBERY AVENUE" 
+            (-0.1060896 51.52901)) 
+        ("Salamanca Street" "490011858N" "ALBERT EMBANKMENT" 
+            (-0.1220921 51.4917302)) 
+        ("Salamanca Street" "490011858S" "ALBERT EMBANKMENT" 
+            (-0.1221117 51.4912295)) 
+        ("Sandell Street / Waterloo Station" "490011890E" "SANDELL STREET" 
+            (-0.1106794 51.5036878)) 
+        ("Ravey Street" "490011448Z" "GREAT EASTERN STREET" 
+            (-0.0824662 51.5254116)) 
+        ("Raymouth Road" "490011450N" "SOUTHWARK PARK ROAD" 
+            (-0.0589418 51.4925856)) 
+        ("Raymouth Road" "490011450S" "SOUTHWARK PARK ROAD" 
+            (-0.0580826 51.4927101)) 
+        ("Red Lion Square" "490011487G" "DRAKE STREET" 
+            (-0.1194735 51.5188921)) 
+        ("Ludgate Circus" "490012105HA" "FLEET STREET" 
+            (-0.1053369 51.5142493)) 
+        ("Shoe Lane" "490012105HB" "FLEET STREET" 
+            (-0.1066769 51.5141426)) 
+        ("Savoy Street" "490011938U" "STRAND" 
+            (-0.120458 51.5107924)) 
+        ("Stockholm Way" "490012021N" "VAUGHAN WAY" 
+            (-0.0665676 51.5060561)) 
+        ("Rosebery Avenue" "490011686E" "ROSEBERY AVENUE" 
+            (-0.111676 51.5229927)) 
+        ("Warndon Street" "490011722Q" "ROTHERHITHE NEW ROAD" 
+            (-0.0490853 51.491135)) 
+        ("Rotherhithe Police Station" "490011723E" "LOWER ROAD" 
+            (-0.0505258 51.4949993)) 
+        ("Rotherhithe Police Station" "490011723P" "LOWER ROAD" 
+            (-0.051246 51.495444)) 
+        ("Rotherhithe Tunnel" "490011724N" "BRUNEL ROAD" 
+            (-0.0542777 51.4995872)) 
+        ("Rotherhithe Tunnel" "490011724W" "BRUNEL ROAD" 
+            (-0.0544372 51.4994897)) 
+        ("St Leonard's Hospital" "490012445S" "KINGSLAND ROAD" 
+            (-0.0769908 51.5337758)) 
+        ("St Paul's Church" "490012457E" "THE HIGHWAY" 
+            (-0.0531164 51.5097489)) 
+        ("Alice Lane" "490012461N" "ST STEPHEN'S ROAD" 
+            (-0.0334934 51.5340544)) 
+        ("Acton Street" "490012149N" "GRAY'S INN ROAD" 
+            (-0.1187106 51.5276371)) 
+        ("Sidney Street" "490012153F" "MILE END ROAD" 
+            (-0.0553075 51.5199452)) 
+        ("Doubletree Docklands / Nelson Dock Pier" "490012165N" "ROTHERHITHE STREET" 
+            (-0.0341021 51.5040241)) 
+        ("Sir John McDougall Gardens" "490012181N" "WESTFERRY ROAD" 
+            (-0.025874 51.4970349)) 
+        ("Sir John McDougall Gardens" "490012181S" "WESTFERRY ROAD" 
+            (-0.0256808 51.4965373)) 
+        ("Smith Close" "490012208E" "SALTER ROAD" 
+            (-0.046514 51.5039966)) 
+        ("Smith Close" "490012208W" "SALTER ROAD" 
+            (-0.0461772 51.5041144)) 
+        ("Stamford Street" "490012526SC" "BLACKFRIARS ROAD" 
+            (-0.1043367 51.5059714)) 
+        ("Stamford Street" "490012526SD" "BLACKFRIARS ROAD" 
+            (-0.1045115 51.5065642)) 
+        ("Stanford Street" "490012542S" "VAUXHALL BRIDGE ROAD" 
+            (-0.134903 51.4913699)) 
+        ("St Barnabas Church" "490012633N" "GROVE ROAD" 
+            (-0.0399036 51.5304152)) 
+        ("St Bartholomew's Hospital" "490012637S" "WEST SMITHFIELD" 
+            (-0.1012598 51.5174843)) 
+        ("Fleet Street / City Thameslink" "490012640L" "FARRINGDON STREET" 
+            (-0.104359 51.5148933)) 
+        ("Coborn Road" "490012648L" "BOW ROAD" 
+            (-0.0291807 51.5263626)) 
+        ("Chancery Lane Station" "490000044E" "HIGH HOLBORN" 
+            (-0.1121335 51.5183085)) 
+        ("Chancery Lane Station" "490000044F" "HIGH HOLBORN" 
+            (-0.1122349 51.5182021)) 
+        ("Tanner Street" "490013154B" "TANNER STREET" 
+            (-0.07539800000000001 51.5002182)) 
+        ("Sutton Street" "490013158G" "TARLING STREET" 
+            (-0.0541106 51.5130247)) 
+        ("Tate Britain" "490013160L" "JOHN ISLIP STREET" 
+            (-0.1287647 51.4915616)) 
+        ("Tate Britain" "490013160M" "JOHN ISLIP STREET" 
+            (-0.1281347 51.4920715)) 
+        ("Tate Britain / Millbank Millennium Pier" "490013160R" "MILLBANK" 
+            (-0.1261086 51.4907769)) 
+        ("Tavistock Square" "490013170N" "TAVISTOCK SQUARE" 
+            (-0.1287477 51.5253881)) 
+        ("Threadneedle Street" "490012823W" "OLD BROAD STREET" 
+            (-0.0857468 51.5144954)) 
+        ("Upper Woburn Place / Euston Road" "490012867L" "UPPER WOBURN PLACE" 
+            (-0.1305923 51.5270507)) 
+        ("St Paul's Cathedral" "490012873B" "ST PAUL'S CHURCHYARD" 
+            (-0.0994993 51.5132676)) 
+        ("Strutton Ground" "490012941S" "HORSEFERRY ROAD" 
+            (-0.1334526 51.4961915)) 
+        ("Strutton Ground" "490012941W" "HORSEFERRY ROAD" 
+            (-0.1336861 51.4962996)) 
+        ("St Dunstan's Church" "490012653E" "STEPNEY WAY" 
+            (-0.0433474 51.5167478)) 
+        ("St Dunstan's Church" "490012653W" "STEPNEY WAY" 
+            (-0.0448271 51.5166436)) 
+        ("Stepney Green School" "490012667N" "WHITE HORSE LANE" 
+            (-0.0431994 51.518121)) 
+        ("Stepney Green School" "490012667S" "WHITE HORSE LANE" 
+            (-0.043093 51.5189779)) 
+        ("Stepney Methodist Church" "490012669W" "COMMERCIAL ROAD" 
+            (-0.0434209 51.5131113)) 
+        ("St George's Circus" "490012693D" "WESTMINSTER BRIDGE ROAD" 
+            (-0.1078931 51.4984889)) 
+        ("St George's Circus" "490012693N1" "WATERLOO ROAD" 
+            (-0.1071598 51.4997699)) 
+        ("St George's Circus" "490012693S2" "WATERLOO ROAD" 
+            (-0.1063337 51.499289)) 
+        ("St George's Square / Pimlico Station" "490012708F" "ST GEORGE'S SQUARE" 
+            (-0.1353604 51.4889603)) 
+        ("St George's Square / Pimlico Station" "490012708G" "ST GEORGE'S SQUARE" 
+            (-0.135351 51.4890836)) 
+        ("St James's Road" "490012729W" "JAMAICA ROAD" 
+            (-0.0677789 51.4979916)) 
+        ("St Katharine Cree" "490012755E" "LEADENHALL STREET" 
+            (-0.07886899999999999 51.5132904)) 
+        ("St Katharine Cree" "490012755W" "LEADENHALL STREET" 
+            (-0.0791395 51.5132404)) 
+        ("St Mary's & St Michael's Church" "490012782E" "COMMERCIAL ROAD" 
+            (-0.0522466 51.5141801)) 
+        ("St Mary's & St Michael's Church" "490012782W" "COMMERCIAL ROAD" 
+            (-0.0525994 51.5140229)) 
+        ("Southwark Street / Southwark Bridge Road" "490012348E" "SOUTHWARK STREET" 
+            (-0.09468890000000001 51.504893)) 
+        ("Southwark Bridge Road" "490012348W2" "SOUTHWARK STREET" 
+            (-0.09473910000000001 51.5047626)) 
+        ("Southwark Park" "490012349C" "JAMAICA ROAD" 
+            (-0.0574014 51.4988714)) 
+        ("Southwark Park" "490012349F" "JAMAICA ROAD" 
+            (-0.0570043 51.4990621)) 
+        ("Southwark Park Road / St James's Road" "490012353E" "SOUTHWARK PARK ROAD" 
+            (-0.0656158 51.4923525)) 
+        ("St James's Road / Southwark Park Road" "490012353N" "ST JAMES'S ROAD" 
+            (-0.0653262 51.4918882)) 
+        ("Southwark Park Road / St James's Road" "490012353W" "SOUTHWARK PARK ROAD" 
+            (-0.06462080000000001 51.4921621)) 
+        ("Inner London Crown Court" "490012354N" "NEWINGTON CAUSEWAY" 
+            (-0.0978135 51.4985444)) 
+        ("Southwark Street" "490012356S" "SOUTHWARK BRIDGE ROAD" 
+            (-0.0956171 51.5045004)) 
+        ("Great Guildford Street" "490012356W1" "SOUTHWARK STREET" 
+            (-0.0964488 51.5049588)) 
+        ("Spa Road" "490012367W" "GRANGE ROAD" 
+            (-0.0776637 51.4953553)) 
+        ("St Andrew Street" "490012429S" "ST ANDREW STREET" 
+            (-0.1067355 51.5168513)) 
+        ("Tower Bridge" "490013744L" "TOWER BRIDGE ROAD" 
+            (-0.0767172 51.5036408)) 
+        ("Tower Bridge" "490013744P" "TOWER BRIDGE ROAD" 
+            (-0.0768301 51.5031686)) 
+        ("Boss Street" "490013745S" "TOOLEY STREET" 
+            (-0.07645680000000001 51.5017304)) 
+        ("Boss Street" "490013745T" "TOOLEY STREET" 
+            (-0.077248 51.5021086)) 
+        ("Tower Bridge Road" "490013746D" "DRUID STREET" 
+            (-0.0786705 51.5014768)) 
+        ("Tower Bridge Road" "490013746K" "TOOLEY STREET" 
+            (-0.07798579999999999 51.5027505)) 
+        ("Trafalgar Square / Charing Cross Station" "490013766E" "STRAND" 
+            (-0.1265164 51.5081322)) 
+        ("Trafalgar Square / Charing Cross Station" "490013766F" "STRAND" 
+            (-0.1262415 51.5082824)) 
+        ("Charing Cross Station" "490013766H" "STRAND" 
+            (-0.1254004 51.5085068)) 
+        ("Trafalgar Square / Charing Cross Station" "490013767A" "COCKSPUR STREET" 
+            (-0.1298307 51.5077007)) 
+        ("Trafalgar Square" "490013767B" "COCKSPUR STREET" 
+            (-0.1291428 51.5076239)) 
+        ("Trafalgar Square / Charing Cross Station" "490013767C" "TRAFALGAR SQUARE" 
+            (-0.1273376 51.5082427)) 
+        ("Trafalgar Square" "490013767S" "COCKSPUR STREET" 
+            (-0.1293775 51.5074628)) 
+        ("Northumberland Avenue / Trafalgar Square" "490013767W" "NORTHUMBERLAND AVENUE" 
+            (-0.1264778 51.5072987)) 
+        ("Northumberland Avenue / Trafalgar Square" "490013767X" "NORTHUMBERLAND AVENUE" 
+            (-0.1266991 51.5072211)) 
+        ("St Thomas' Hospital" "490012954B" "LAMBETH PALACE ROAD" 
+            (-0.1171921 51.4985144)) 
+        ("St Thomas' Hospital / A & E Department" "490012954C" "LAMBETH PALACE ROAD" 
+            (-0.1170031 51.4994863)) 
+        ("Surrey Quays Leisure Park" "490013040F" "SURREY QUAYS ROAD" 
+            (-0.04598 51.4956776)) 
+        ("Surrey Quays Leisure Park" "490013040G" "SURREY QUAYS ROAD" 
+            (-0.0457415 51.4955847)) 
+        ("Surrey Quays Road" "490013041T" "LOWER ROAD" 
+            (-0.0529375 51.496876)) 
+        ("Surrey Quays Shopping Centre" "490013042H" "DEAL PORTERS WAY" 
+            (-0.0469915 51.4939123)) 
+        ("Surrey Quays Shopping Centre" "490013042J" "DEAL PORTERS WAY" 
+            (-0.0462498 51.494017)) 
+        ("Surrey Quays Shopping Centre" "490013042K" "DEAL PORTERS WAY" 
+            (-0.045953 51.4940025)) 
+        ("Martha Street" "490013086S2" "SUTTON STREET" 
+            (-0.0535203 51.5124549)) 
+        ("Burgess Street" "490013470W" "ST PAUL'S WAY" 
+            (-0.0253012 51.5181931)) 
+        ("Theobalds Road / Clerkenwell Road" "490013476N1" "GRAY'S INN ROAD" 
+            (-0.1131246 51.5210912)) 
+        ("Gray's Inn Road / Theobalds Road" "490013476S2" "GRAY'S INN ROAD" 
+            (-0.1129026 51.521053)) 
+        ("Theobald's Road" "490013477A" "SOUTHAMPTON ROW" 
+            (-0.1217783 51.5196498)) 
+        ("Southampton Row / Theobald's Road" "490013477Y" "SOUTHAMPTON ROW" 
+            (-0.1218324 51.5194913)) 
+        ("The Old Vic" "490013485N" "WATERLOO ROAD" 
+            (-0.1089675 51.5012559)) 
+        ("The Old Vic" "490013485S1" "WATERLOO ROAD" 
+            (-0.1086346 51.5011694)) 
+        ("Colebert Avenue" "490013509N" "GLOBE ROAD" 
+            (-0.0487832 51.5245999)) 
+        ("Colebert Avenue" "490013509S" "GLOBE ROAD" 
+            (-0.0488456 51.5249555)) 
+        ("Portman Place" "490013516N" "GLOBE ROAD" 
+            (-0.0501873 51.526021)) 
+        ("Portman Place" "490013516S" "GLOBE ROAD" 
+            (-0.0504184 51.5266622)) 
+        ("Lichfield Road" "490013517S" "GROVE ROAD" 
+            (-0.0363897 51.5271549)) 
+        ("Whitechapel Station / Royal London Hospital" "490013541A" "WHITECHAPEL ROAD" 
+            (-0.0604921 51.51889)) 
+        ("Stalham Street" "490013562N" "SOUTHWARK PARK ROAD" 
+            (-0.0597243 51.4952019)) 
+        ("Stalham Street" "490013562S" "SOUTHWARK PARK ROAD" 
+            (-0.0586319 51.4946936)) 
+        ("Tower of London" "490013573W" "TOWER HILL" 
+            (-0.07574740000000001 51.5096989)) 
+        ("Tower of London" "490013573WB" "TOWER HILL" 
+            (-0.075137 51.5096956)) 
+        ("Tower of London" "490013573X" "TOWER HILL" 
+            (-0.0754464 51.5096211)) 
+        ("Swinton Street" "490013117O" "SWINTON STREET" 
+            (-0.1185165 51.5287823)) 
+        ("Clerkenwell Road" "490014092W" "ROSEBERY AVENUE" 
+            (-0.1116289 51.5226601)) 
+        ("Trinity Street / The Roebuck" "490013809N" "GREAT DOVER STREET" 
+            (-0.0907879 51.4983446)) 
+        ("Union Street" "490013910G" "BOROUGH HIGH STREET" 
+            (-0.0919691 51.5029929)) 
+        ("Union Street" "490013910H" "BOROUGH HIGH STREET" 
+            (-0.0921266 51.5025526)) 
+        ("Three Colts Lane" "490013648T" "CAMBRIDGE HEATH ROAD" 
+            (-0.0549 51.5250472)) 
+        ("East Street / Thurlow Street" "490013658E" "EAST STREET" 
+            (-0.0860887 51.4894871)) 
+        ("East Street" "490013658N1" "THURLOW STREET" 
+            (-0.0866376 51.4891879)) 
+        ("East Street" "490013658S1" "FLINT STREET" 
+            (-0.08728669999999999 51.4901499)) 
+        ("East Street / Thurlow Street" "490013658W" "EAST STREET" 
+            (-0.0855146 51.4895161)) 
+        ("Tobacco Dock" "490013687E" "THE HIGHWAY" 
+            (-0.0594845 51.5096131)) 
+        ("Tobacco Dock" "490013687J" "WAPPING LANE" 
+            (-0.0586521 51.5092357)) 
+        ("Tobacco Dock" "490013687K" "WAPPING LANE" 
+            (-0.0588607 51.5093605)) 
+        ("Wapping Station" "490014208E" "WAPPING HIGH STREET" 
+            (-0.0566767 51.5040112)) 
+        ("Wapping Health Centre" "490014209N" "WAPPING LANE" 
+            (-0.0585969 51.5057425)) 
+        ("Wapping Health Centre" "490014209S" "WAPPING LANE" 
+            (-0.0585568 51.5063809)) 
+        ("Sampson Street" "490014210E" "WAPPING HGH STREET" 
+            (-0.06374920000000001 51.5038207)) 
+        ("Sampson Street" "490014210W" "WAPPING HIGH STREET" 
+            (-0.0632379 51.5036665)) 
+        ("Monza Street" "490014211E" "WAPPING WALL" 
+            (-0.0533535 51.5063469)) 
+        ("Wapping Wall" "490014211S" "HIGH STREET" 
+            (-0.0543432 51.5055555)) 
+        ("Wardour Street" "490014214HE" "OXFORD STREET" 
+            (-0.1354132 51.5159259)) 
+        ("Warndon Street" "490014228E" "ROTHERHITHE NEW ROAD" 
+            (-0.0505483 51.4911097)) 
+        ("Warwick Way" "490014259N" "WILTON ROAD" 
+            (-0.140966 51.4929971)) 
+        ("Warwick Way" "490014259S" "WILTON ROAD" 
+            (-0.1405082 51.492825)) 
+        ("Royal Festival Hall" "490014270Q" "BELVEDERE ROAD" 
+            (-0.115117 51.505952)) 
+        ("Royal Festival Hall" "490014270S" "BELVEDERE ROAD" 
+            (-0.1154602 51.5056255)) 
+        ("Weavers Fields" "490014330SF" "VALLANCE ROAD" 
+            (-0.0642852 51.5249843)) 
+        ("Blackfriars Station / South Entrance" "490013934N" "BLACKFRIARS BRIDGE" 
+            (-0.1045118 51.5088324)) 
+        ("Blackfriars Station / South Entrance" "490013934S" "BLACKFRIARS BRIDGE" 
+            (-0.1042773 51.5084261)) 
+        ("Weavers Fields" "490013996S" "VALLANCE ROAD" 
+            (-0.0642066 51.5251766)) 
+        ("The Highway" "490014016N" "VAUGHAN WAY" 
+            (-0.06673320000000001 51.5077354)) 
+        ("The Highway" "490014016S" "VAUGHAN WAY" 
+            (-0.0674018 51.5086715)) 
+        ("Vauxhall Cross" "490014020P" "ALBERT EMBANKMENT" 
+            (-0.1233595 51.4879011)) 
+        ("St Katharine Docks" "490014944E" "EAST SMITHFIELD" 
+            (-0.0715899 51.5084283)) 
+        ("St Katharine Docks" "490014944W" "EAST SMITHFIELD" 
+            (-0.0707439 51.5083137)) 
+        ("Yeoman Street" "490015001E" "PLOUGH WAY" 
+            (-0.0409642 51.4926851)) 
+        ("Yeoman Street" "490015001W" "PLOUGH WAY" 
+            (-0.0411144 51.492528)) 
+        ("York Hall" "490015009JX" "OLD FORD ROAD" 
+            (-0.0551287 51.52957)) 
+        ("Windsor Terrace" "490014780E" "CITY ROAD" 
+            (-0.093363 51.5287647)) 
+        ("Windsor Terrace" "490014780W" "CITY ROAD" 
+            (-0.0933778 51.5286187)) 
+        ("Tavistock Square" "490014799N" "WOBURN PLACE" 
+            (-0.127202 51.5239679)) 
+        ("Hampstead Road / Drummond Street" "490015042T" "HAMPSTEAD ROAD" 
+            (-0.1386888 51.5260159)) 
+        ("Euston Road" "490015042U" "HAMPSTEAD ROAD" 
+            (-0.1384367 51.52575)) 
+        ("Chancery Lane" "490015067W" "FLEET STREET" 
+            (-0.1104331 51.513857)) 
+        ("Tower Hill / Tower Gateway Station" "490015074Z" "MANSELL STREET" 
+            (-0.0732516 51.5096788)) 
+        ("Bishopsgate" "490015079E" "CORNHILL" 
+            (-0.08499329999999999 51.5134486)) 
+        ("Holborn Circus" "490015096L" "HOLBORN VIADUCT" 
+            (-0.1065289 51.5175173)) 
+        ("Clerkenwell Road" "490015104Z" "FARRINGDON ROAD" 
+            (-0.1075742 51.5226311)) 
+        ("Goswell Road / Great Sutton Street" "490015105N" "GOSWELL ROAD" 
+            (-0.0991843 51.5240703)) 
+        ("Clerkenwell Road" "490015105S" "GOSWELL ROAD" 
+            (-0.0987941 51.5237042)) 
+        ("City University" "490015107N" "GOSWELL ROAD" 
+            (-0.1008684 51.5280368)) 
+        ("City University" "490015107S" "GOSWELL ROAD" 
+            (-0.1007315 51.5282561)) 
+        ("Angel Station" "490015108S" "PENTONVILLE ROAD" 
+            (-0.1076435 51.5318938)) 
+        ("Bread Street" "490015124Z" "CHEAPSIDE" 
+            (-0.09497949999999999 51.5141957)) 
+        ("St George's Circus" "490015140N" "BLACKFRIARS ROAD" 
+            (-0.1047704 51.4998113)) 
+        ("Worship Street" "490015152E" "WORSHIP STREET" 
+            (-0.0806378 51.521799)) 
+        ("Eldon Street" "490015153V" "ELDON STREET" 
+            (-0.0848767 51.5184533)) 
+        ("Holborn Station" "490015239K" "HIGH HOLBORN" 
+            (-0.1184183 51.5176953)) 
+        ("Old Street Station" "490015195N" "CITY ROAD" 
+            (-0.08752749999999999 51.5238842)) 
+        ("Finsbury Square" "490015209C" "FINSBURY SQUARE" 
+            (-0.08729720000000001 51.5209528)) 
+        ("Finsbury Square" "490015209D" "FINSBURY SQUARE" 
+            (-0.08721420000000001 51.5211925)) 
+        ("Finsbury Square / Moorgate" "490015209K" "FINSBURY PAVEMENT" 
+            (-0.0873285 51.5200271)) 
+        ("Lower Marsh" "490015221S" "BAYLIS ROAD" 
+            (-0.1106809 51.5007342)) 
+        ("Canada Street" "490015602N" "SURREY QUAYS ROAD" 
+            (-0.0457729 51.4973805)) 
+        ("Usher Road" "490015683E" "TREDEGAR ROAD" 
+            (-0.0260047 51.5320334)) 
+        ("Usher Road" "490015683W" "TREDEGAR ROAD" 
+            (-0.0258329 51.5319971)) 
+        ("Shetland Road" "490015684W" "TREDEGAR ROAD" 
+            (-0.0289787 51.5304174)) 
+        ("Antill Road" "490015685E" "ST STEPHENS ROAD" 
+            (-0.0305114 51.5302129)) 
+        ("British Library" "490015700C" "EUSTON ROAD" 
+            (-0.1268809 51.5289752)) 
+        ("Imperial War Museum" "490015351W" "LAMBETH ROAD" 
+            (-0.1106595 51.49659)) 
+        ("Larcom Street" "490015379S" "RODNEY ROAD" 
+            (-0.0911257 51.491709)) 
+        ("Oxo Tower" "490015760S" "BROADWALL" 
+            (-0.1084194 51.507521)) 
+        ("Oxo Tower" "490015760W" "UPPER GROUND" 
+            (-0.1090124 51.5076332)) 
+        ("Covent Garden / Catherine Street" "490015764C" "CATHERINE STREET" 
+            (-0.1194043 51.512288)) 
+        ("St Martin's Place" "490016161S" "CHARING CROSS ROAD" 
+            (-0.1279183 51.5098658)) 
+        ("Shoreditch Church" "490016267N" "SHOREDITCH HIGH STREET" 
+            (-0.0779885 51.5259784)) 
+        ("Hotspur Street" "490016269W" "BLACK PRINCE ROAD" 
+            (-0.1120261 51.4894629)) 
+        ("Mary Lee Way" "490016270N" "BLACK PRINCE ROAD" 
+            (-0.1138508 51.4898097)) 
+        ("Mary Lee Way" "490016270W" "BLACK PRINCE ROAD" 
+            (-0.1149601 51.4901043)) 
+        ("Tyers Street" "490016271E" "BLACK PRINCE ROAD" 
+            (-0.1176779 51.4913055)) 
+        ("Tyers Street" "490016271W" "BLACK PRINCE ROAD" 
+            (-0.117562 51.491158)) 
+        ("Eric Street" "490016348E" "BOW COMMON LANE" 
+            (-0.0317268 51.5216175)) 
+        ("Eric Street" "490016348W" "BOW COMMON LANE" 
+            (-0.0320594 51.5215625)) 
+        ("Ackroyd Drive" "490016349E" "BOW COMMON LANE" 
+            (-0.0263309 51.520435)) 
+        ("Ackroyd Drive" "490016349X" "BOW COMMON LANE" 
+            (-0.0261022 51.5202351)) 
+        ("Kingsland Road" "490016357W" "WHISTON ROAD" 
+            (-0.0755009 51.5345067)) 
+        ("Andrews Road" "490016362W" "ANDREWS ROAD" 
+            (-0.0602057 51.5344201)) 
+        ("St John Street / Goswell Road" "490013229M" "ST JOHN STREET" 
+            (-0.1059412 51.5310638)) 
+        ("St John Street / Goswell Road" "490013229P" "ST JOHN STREET" 
+            (-0.1062002 51.5313082)) 
+        ("Humphrey Street" "490013339S" "HUMPHREY STREET" 
+            (-0.0756126 51.4883164)) 
+        ("Shoreditch Police Station" "490016371N" "SHEPHERDESS WALK" 
+            (-0.09213739999999999 51.5291119)) 
+        ("Shoreditch Town Hall" "490016408W" "OLD STREET" 
+            (-0.0795164 51.5271654)) 
+        ("Gerrard Place / Chinatown" "490016425WA" "SHAFTESBURY AVENUE" 
+            (-0.1303118 51.5126793)) 
+        ("Millennium Bridge" "490016494E" "QUEEN VICTORIA STREET" 
+            (-0.0992195 51.5120528)) 
+        ("Millennium Bridge" "490016494W" "QUEEN VICTORIA STREET" 
+            (-0.0979594 51.5118786)) 
+        ("Appold Street" "490016576AP" "APPOLD STREET" 
+            (-0.08117920000000001 51.5217635)) 
+        ("Peel Grove" "490013399K" "OLD FORD ROAD" 
+            (-0.0530327 51.5301747)) 
+        ("Peel Grove" "490013399L" "OLD FORD ROAD" 
+            (-0.0535088 51.5299236)) 
+        ("The Hop Exchange" "490013424E" "SOUTHWARK STREET" 
+            (-0.09151769999999999 51.504756)) 
+        ("The Hop Exchange" "490013424F" "SOUTHWARK STREET" 
+            (-0.09114410000000001 51.5046554)) 
+        ("Grove Street / Plough Way" "490016665N" "GROVE STREET" 
+            (-0.0345215 51.4922241)) 
+        ("Grove Street / Plough Way" "490016665S" "GROVE STREET" 
+            (-0.0343624 51.4921302)) 
+        ("Gray's Inn Road / Rosebery Avenue" "490015447N" "GRAY'S INN ROAD" 
+            (-0.1138373 51.5220515)) 
+        ("Clerkenwell Road / Rosebery Avenue" "490015447S" "GRAY'S INN ROAD" 
+            (-0.1137797 51.5221988)) 
+        ("Westferry Circus / Canary Wharf Pier" "490014457B" "WESTFERRY CIRCUS" 
+            (-0.0268082 51.5053835)) 
+        ("Limehouse Police Station" "490014484N" "WEST INDIA DOCK ROAD" 
+            (-0.0278171 51.5111745)) 
+        ("Westminster Abbey" "490014495R" "VICTORIA STREET" 
+            (-0.1309145 51.4990281)) 
+        ("Westminster Abbey" "490014495S" "VICTORIA STREET" 
+            (-0.1305258 51.4991695)) 
+        ("Westminster Abbey" "490014495T" "VICTORIA STREET" 
+            (-0.1316987 51.4986036)) 
+        ("Westminster Abbey" "490014495W" "GREAT SMITH STREET" 
+            (-0.1299819 51.498657)) 
+        ("Westminster Abbey" "490014495X" "GREAT SMITH STREET" 
+            (-0.1297336 51.4989102)) 
+        ("Westminster Station / Westminster Pier" "490014498S" "BRIDGE STREET" 
+            (-0.1252382 51.5010202)) 
+        ("Whitehall / Trafalgar Square" "490014585N" "WHITEHALL" 
+            (-0.127022 51.5063126)) 
+        ("Whitehall / Horseguards Avenue" "490014585P" "WHITEHALL" 
+            (-0.1264376 51.505263)) 
+        ("Baltic Street West" "490003573S" "GOSWELL ROAD" 
+            (-0.0973996 51.522208)) 
+        ("Waterloo Station / Tenison Way" "490000254K" "TENISON WAY" 
+            (-0.1135632 51.5043279)) 
+        ("Waterloo Station / Tenison Way" "490000254J" "TENISON WAY" 
+            (-0.1131312 51.5042461)) 
+        ("Southampton Street / Covent Garden" "490012247A" "STRAND" 
+            (-0.1218468 51.5104197)) 
+        ("Baron Street / Chapel Market" "490003650T" "BARON STREET" 
+            (-0.1092786 51.5323898)) 
+        ("White Lion Street" "490014603U" "WHITE LION STREET" 
+            (-0.1071272 51.5328517)) 
+        ("St Leonard's Hospital" "490012445N" "KINGSLAND ROAD" 
+            (-0.0771115 51.5339788)) 
+        ("King's Cross / Caledonian Road" "490001172X" "PENTONVILLE ROAD" 
+            (-0.1204623 51.5308026)) 
+        ("Penton Street / Chapel Market" "490010928W" "PENTONVILLE ROAD" 
+            (-0.1103638 51.5316495)) 
+        ("Limehouse Station" "490001180W" "COMMERCIAL ROAD" 
+            (-0.0404591 51.5126933)) 
+        ("Limehouse Station" "490001180E" "COMMERCIAL ROAD" 
+            (-0.0400692 51.5128519)) 
+        ("Liverpool Street Station" "490000138L" "BISHOPSGATE" 
+            (-0.0799749 51.5178534)) 
+        ("Moorgate Station" "490015208N" "LONDON WALL" 
+            (-0.08999459999999999 51.5174341)) 
+        ("London Wall / Moorgate Station" "490015208A" "LONDON WALL" 
+            (-0.08975039999999999 51.5176057)) 
+        ("City Thameslink Station / Ludgate Circus" "490009443F" "LUDGATE HILL" 
+            (-0.1036255 51.5140986)) 
+        ("Elephant & Castle Station" "490000073S" "ELEPHANT & CASTLE" 
+            (-0.100777 51.4939245)) 
+        ("Elephant & Castle Station" "490000073T" "ELEPHANT & CASTLE" 
+            (-0.1008202 51.4941425)) 
+        ("Trafalgar Square" "490013767T" "COCKSPUR STREET" 
+            (-0.1298806 51.5075223)) 
+        ("St Paul's Way" "490012881S" "BURDETT ROAD" 
+            (-0.0298271 51.5176578)) 
+        ("Shadwell Basin" "490011246W" "WAPPING WALL" 
+            (-0.0508724 51.5076607)) 
+        ("Stepney Methodist Church" "490012669E" "COMMERCIAL ROAD" 
+            (-0.0446362 51.5132946)) 
+        ("Lancaster Place" "490008932T" "LANCASTER PLACE" 
+            (-0.1188039 51.5105197)) 
+        ("Tottenham Court Road Station / New Oxford Street" "490000235P" "NEW OXFORD STREET" 
+            (-0.128289 51.5167338)) 
+        ("Rodney Place" "490011632BA" "NEW KENT ROAD" 
+            (-0.0947388 51.4942547)) 
+        ("Rodney Place" "490011632BT" "NEW KENT ROAD" 
+            (-0.0949055 51.4941372)) 
+        ("Bricklayer's Arms / New Kent Road" "490003658BC" "NEW KENT ROAD" 
+            (-0.0873978 51.4943441)) 
+        ("Bricklayer's Arms" "490004315BQ" "OLD KENT ROAD" 
+            (-0.0851233 51.4935609)) 
+        ("Bricklayer's Arms" "490004315S2" "OLD KENT ROAD" 
+            (-0.0843092 51.4935476)) 
+        ("Bricklayer's Arms" "490004315BP" "OLD KENT ROAD" 
+            (-0.08446620000000001 51.4931876)) 
+        ("Bricklayer's Arms" "490004315BK" "OLD KENT ROAD" 
+            (-0.0837769 51.4930725)) 
+        ("Warren Street Station" "490000252KA" "EUSTON ROAD" 
+            (-0.1393963 51.5249495)) 
+        ("University College Hospital / Warren Street Station" "490013914W" "GRAFTON WAY" 
+            (-0.1367342 51.5251963)) 
+        ("Euston Station" "490000077AZ" "EUSTON ROAD" 
+            (-0.1327335 51.5267597)) 
+        ("Central Street" "490004937W" "CITY ROAD" 
+            (-0.0993634 51.5301341)) 
+        ("Horse Guards Parade" "490008376S" "WHITEHALL" 
+            (-0.1260597 51.5042181)) 
+        ("Horse Guards Parade" "490008376N" "WHITEHALL" 
+            (-0.1263668 51.504037)) 
+        ("Westminster Station / Parliament Square" "490015048T" "PARLIAMENT STREET" 
+            (-0.1258953 51.5024693)) 
+        ("Westminster Station / Parliament Square" "490015048A" "PARLIAMENT STREET" 
+            (-0.1263132 51.5018164)) 
+        ("Westminster Station / Parliament Square" "490015048G" "PARLIAMENT STREET" 
+            (-0.125981 51.5015327)) 
+        ("Embankment Station" "490000075F" "VICTORIA EMBANKMENT" 
+            (-0.1206538 51.5086435)) 
+        ("Barbican Station" "490000014A" "ALDERSGATE STREET" 
+            (-0.09757440000000001 51.5204571)) 
+        ("Barbican Station" "490000014B" "ALDERSGATE STREET" 
+            (-0.0973156 51.5208745)) 
+        ("Museum of London" "490010130S" "ALDERSGATE STREET" 
+            (-0.0968434 51.518369)) 
+        ("Camomile Street" "490004043S" "BISHOPSGATE" 
+            (-0.0822292 51.5154649)) 
+        ("King David Lane" "490008734W" "CABLE STREET" 
+            (-0.0528709 51.5107566)) 
+        ("Elephant & Castle Station" "490000073V" "ELEPHANT & CASTLE" 
+            (-0.1008373 51.4944649)) 
+        ("Brick Lane" "490004313SB" "BETHNAL GREEN ROAD" 
+            (-0.07094590000000001 51.5251739)) 
+        ("Old Bond Street / Royal Academy" "490011748H" "PICCADILLY" 
+            (-0.1391789 51.5084092)) 
+        ("Murray Grove / Provost Estate" "490016369W" "MURRAY GROVE" 
+            (-0.0874578 51.5310269)) 
+        ("Tanner Street" "490013154A" "TOOLEY STREET" 
+            (-0.0747501 51.5007121)) 
+        ("City Thameslink Station" "490001067N" "HOLBORN VIADUCT" 
+            (-0.1025248 51.5163906)) 
+        ("Elephant Park" "490008122Y" "WALWORTH ROAD" 
+            (-0.0969429 51.4922362)) 
+        ("Pocock Street" "490011082N" "BLACKFRIARS ROAD" 
+            (-0.1046471 51.502764)) 
+        ("Coley Street" "490007598S" "GRAY'S INN ROAD" 
+            (-0.1150842 51.5237049)) 
+        ("Coley Street" "490007598N" "GRAY'S INN ROAD" 
+            (-0.1149605 51.5234484))))

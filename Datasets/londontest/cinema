@@ -1,0 +1,59 @@
+
+(OBJECT cinema 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (GeoData point)))) 
+    (
+        ("Barbican Centre (Cinema)" 
+            (-0.09375559999999999 51.5197763)) 
+        ("Odeon Mezzanine" 
+            (-0.1290844 51.5102139)) 
+        ("Cineworld Leicester Square" 
+            (-0.1304091 51.5109335)) 
+        ("Vue Leicester Square" 
+            (-0.1293677 51.5112449)) 
+        ("Odeon Luxe Haymarket" 
+            (-0.1312249 51.5095663)) 
+        ("Curzon Soho" 
+            (-0.1306078 51.5126577)) 
+        ("Vue Islington" 
+            (-0.1058269 51.5343822)) 
+        ("Rich Mix Cinema" 
+            (-0.0730953 51.5243518)) 
+        ("The Arzner" 
+            (-0.0807865 51.4976739)) 
+        ("Regent Street Cinema" 
+            (-0.1428506 51.5168155)) 
+        ("Cineworld Shaftesbury Avenue" 
+            (-0.1332939 51.5110076)) 
+        ("Barbican Cinemas 2 & 3" 
+            (-0.0928567 51.5210215)) 
+        ("Curzon" 
+            (-0.1365788 51.4975349)) 
+        ("Vue" 
+            (-0.1343413 51.508942)) 
+        ("Electric Cinema" 
+            (-0.0739235 51.5244086)) 
+        ("Picturehouse Central" 
+            (-0.1336442 51.5106337)) 
+        ("Close-Up Film Centre" 
+            (-0.07199990000000001 51.5236118)) 
+        ("Curzon Aldgate" 
+            (-0.0689221 51.5138199)) 
+        ("Everyman" 
+            (-0.0846045 51.5196469)) 
+        ("London Dock - Residents Cinema" 
+            (-0.066645 51.5083106)) 
+        ("Curzon Hoxton" 
+            (-0.083797 51.5288806)) 
+        ("Odeon Luxe West End" 
+            (-0.1302154 51.5099104)) 
+        ("Rooftop Film Club" 
+            (-0.08104160000000001 51.5223614)) 
+        ("Everyman" 
+            (-0.0922029 51.5056351)) 
+        ("ICA Cinema" 
+            (-0.1311127 51.5061096))))

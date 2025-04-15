@@ -1,0 +1,66 @@
+
+(OBJECT college 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (Street string) 
+                (Email string) 
+                (Phone string) 
+                (GeoData point)))) 
+    (
+        ("White Lion Centre" undefined undefined undefined 
+            (-0.1105285 51.5326193)) 
+        ("Grafton College" "Oxford Street" undefined undefined 
+            (-0.1361893 51.5157056)) 
+        ("UK College of English" "Soho Street" undefined "+44 20 7287 8188" 
+            (-0.1325885 51.516109)) 
+        ("Scott's College" "Oxford Street" undefined undefined 
+            (-0.1322701 51.5161509)) 
+        ("EC" undefined undefined undefined 
+            (-0.1234335 51.5161885)) 
+        ("The British School of Osteopathy" undefined undefined undefined 
+            (-0.0989164 51.5007848)) 
+        ("Islington Music Workshop" "Peartree st" undefined undefined 
+            (-0.097481 51.525342)) 
+        ("ICON College" "Adler Street" undefined undefined 
+            (-0.0675299 51.5155203)) 
+        ("Royal Drawing School" "Charlotte Road" undefined undefined 
+            (-0.0812967 51.5256916)) 
+        ("The Prince's School of Traditional Arts" "Charlotte Road" undefined undefined 
+            (-0.0813958 51.5257433)) 
+        ("Global Knowledge" "Old Broad Street" undefined undefined 
+            (-0.0850972 51.5150095)) 
+        ("London School of Osteopathy" "Cambridge Heath Road" undefined undefined 
+            (-0.0558109 51.5297671)) 
+        ("Prince's Foundation for Building Community" "Charlotte Road" undefined "+44 20 7613 8500" 
+            (-0.08129939999999999 51.5257408)) 
+        ("London College of Clinical Hypnosis" undefined undefined undefined 
+            (-0.1283927 51.5188846)) 
+        ("Ady Centre / DeRose Method Soho" "Ramillies Place" undefined "+44 7984 331 920" 
+            (-0.1396407 51.5148338)) 
+        ("Development Planning Unit, UCL" "Tavistock Square" "dpu@ucl.ac.uk" "+44 20 7679 1111" 
+            (-0.1298413 51.5248878)) 
+        ("Bishopsgate Institute" "Bishopsgate" undefined undefined 
+            (-0.0793195 51.5187253)) 
+        ("London College of Beauty Therapy" "Ramillies Street" undefined undefined 
+            (-0.1387356 51.5148735)) 
+        ("Brit College" "Commercial Road" undefined undefined 
+            (-0.0363576 51.5122789)) 
+        ("London School of Beauty & Make-Up" "Long Lane" undefined "+44 20 7776 9766" 
+            (-0.09905079999999999 51.5196915)) 
+        ("Department of Mathematics" "Gordon Street" undefined undefined 
+            (-0.1334341 51.5255523)) 
+        ("Hult International Business School - Graduate Campus" undefined undefined "+44 20 7636 5667" 
+            (-0.1151514 51.5212901)) 
+        ("DLD College London" "Westminster Bridge Road" undefined undefined 
+            (-0.116294 51.5001489)) 
+        ("C Block" undefined undefined undefined 
+            (-0.1282687 51.4903132)) 
+        ("B Block" undefined undefined undefined 
+            (-0.1277323 51.4901974)) 
+        ("A Block" undefined undefined undefined 
+            (-0.1273531 51.4900361)) 
+        ("The Art Academy London" "Mermaid Court" undefined undefined 
+            (-0.0915174 51.5026055))))

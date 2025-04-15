@@ -1,0 +1,32 @@
+
+( OBJECT  artscentre 
+   ()
+   ( rel 
+      ( tuple 
+         (
+            ( Name  string )
+            ( Street  string )
+            ( GeoData  point ))))
+   (
+      ( "diorama"  undefined 
+         ( -0.1403557  51.5258142 ))
+      ( "Nursery Gallery"  undefined 
+         ( -0.1022482  51.4950031 ))
+      ( "Arts Catalyst Centre for Arts, Science, and Tech"  "Cromer Street" 
+         ( -0.1216561  51.5280014 ))
+      ( "St James's Market Pavilion"  undefined 
+         ( -0.1330091  51.5089278 ))
+      ( "Creative Sparkworks"  "Lambeth Walk" 
+         ( -0.1169604  51.4923619 ))
+      ( "Institute of Contemporary Arts"  "The Mall" 
+         ( -0.1309517  51.5061576 ))
+      ( "The Africa Centre"  "Old Union Yard Arches" 
+         ( -0.1016493  51.5028873 ))
+      ( "Studio Yukari"  "Mile End Road" 
+         ( -0.049274  51.5214592 ))
+      ( "Delight"  undefined 
+         ( -0.0922522  51.5070718 ))
+      ( "The NOW Building"  undefined 
+         ( -0.1298469  51.5157176 ))
+      ( "NOW Trending"  undefined 
+         ( -0.1295331  51.5157961 ))))

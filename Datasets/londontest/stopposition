@@ -1,0 +1,2916 @@
+
+(OBJECT stopposition 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (Canbus string) 
+                (GeoData point)))) 
+    (
+        ("Rotherhithe Tunnel" "yes" 
+            (-0.0544337 51.4995342)) 
+        ("Buckingham Palace" "yes" 
+            (-0.1427649 51.4994913)) 
+        ("Monument Station" "yes" 
+            (-0.0870901 51.5094651)) 
+        ("Epworth Street" "yes" 
+            (-0.0871484 51.5225824)) 
+        ("Canada Street" "yes" 
+            (-0.0465659 51.4985074)) 
+        ("St John Street / Goswell Road" "yes" 
+            (-0.1061206 51.5313169)) 
+        ("Borough Station" "yes" 
+            (-0.0942283 51.5005944)) 
+        ("Cephas Street" "yes" 
+            (-0.0549431 51.5231749)) 
+        ("Mile End" undefined 
+            (-0.0334206 51.5253233)) 
+        ("London Bridge" undefined 
+            (-0.0853385 51.5049224)) 
+        ("Pimlico Academy & Library" "yes" 
+            (-0.13732 51.4883236)) 
+        ("Monument" undefined 
+            (-0.0860638 51.5106943)) 
+        ("Farringdon" undefined 
+            (-0.1044865 51.5196918)) 
+        ("Stepney Green" undefined 
+            (-0.0467219 51.5216851)) 
+        ("Waterloo Station / Upper Taxi Road" "yes" 
+            (-0.1130508 51.5037706)) 
+        ("Tottenham Court Road" undefined 
+            (-0.1302418 51.5156503)) 
+        ("Cannon Street Station" "yes" 
+            (-0.0901807 51.5103278)) 
+        ("Ludgate Hill / Old Bailey" "yes" 
+            (-0.1019664 51.5139025)) 
+        ("Windlass Place" "yes" 
+            (-0.0342704 51.4905674)) 
+        ("Green Park" undefined 
+            (-0.1415305 51.505721)) 
+        ("Shoreditch Church" "yes" 
+            (-0.077932 51.5259947)) 
+        ("Holborn" undefined 
+            (-0.1193216 51.5176447)) 
+        ("Warren Street" undefined 
+            (-0.1377493 51.5246057)) 
+        ("Covent Garden" undefined 
+            (-0.1244469 51.5130521)) 
+        ("Chancery Lane" undefined 
+            (-0.1139691 51.518101)) 
+        ("Bethnal Green" undefined 
+            (-0.0544557 51.5271395)) 
+        ("Bermondsey" undefined 
+            (-0.0641945 51.4975933)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.1243426 51.5307113)) 
+        ("The Highway" "yes" 
+            (-0.0666771 51.5077495)) 
+        ("London Bridge City Pier" undefined 
+            (-0.0846373 51.5069462)) 
+        ("Tower Hill" undefined 
+            (-0.0766367 51.5098716)) 
+        ("Cannon Street" undefined 
+            (-0.09032279999999999 51.5113654)) 
+        ("Mansion House" undefined 
+            (-0.0952117 51.5118216)) 
+        ("Embankment" undefined 
+            (-0.1229841 51.5066338)) 
+        ("Tottenham Court Road" undefined 
+            (-0.130051 51.5156861)) 
+        ("Leicester Square" undefined 
+            (-0.1283486 51.5119071)) 
+        ("London St Pancras" undefined 
+            (-0.1280587 51.5334428)) 
+        ("Surrey Quays Leisure Park" "yes" 
+            (-0.0459063 51.4956984)) 
+        ("Old Jamaica Road" "yes" 
+            (-0.0709434 51.498386)) 
+        ("Mornington Crescent" undefined 
+            (-0.1385393 51.5343579)) 
+        ("Charing Cross" undefined 
+            (-0.1285434 51.5074869)) 
+        ("Waterloo" undefined 
+            (-0.1125462 51.5025368)) 
+        ("Barbican" undefined 
+            (-0.0987297 51.5202012)) 
+        ("Great Eastern Street" "yes" 
+            (-0.0834018 51.5265496)) 
+        ("Great Eastern Street" "yes" 
+            (-0.082367 51.5266662)) 
+        ("Oxford Circus" undefined 
+            (-0.1420167 51.5156556)) 
+        ("Onega Gate" "yes" 
+            (-0.0390322 51.4967482)) 
+        ("Waterloo Station / Upper Taxi Road" "yes" 
+            (-0.1134409 51.5038545)) 
+        ("King Edward Street / St Paul's Station" "yes" 
+            (-0.0985492 51.5165643)) 
+        ("Millbank Millennium Pier" undefined 
+            (-0.1246974 51.4917769)) 
+        ("Poultry / Bank Station" "yes" 
+            (-0.09104810000000001 51.513635)) 
+        ("Bread Street" "yes" 
+            (-0.0949721 51.5142512)) 
+        ("Doubletree Docklands / Nelson Dock Pier" "yes" 
+            (-0.0340578 51.5040403)) 
+        ("Edinburgh Court" "yes" 
+            (-0.0446488 51.5059339)) 
+        ("Burgess Street" "yes" 
+            (-0.0253143 51.518254)) 
+        ("Surrey Quays Shopping Centre" "yes" 
+            (-0.0463042 51.4939331)) 
+        ("Tanner Street" "yes" 
+            (-0.07542889999999999 51.5002606)) 
+        ("Salamanca Street" "yes" 
+            (-0.1220001 51.4917206)) 
+        ("Canary Wharf" undefined 
+            (-0.0287643 51.505199)) 
+        ("Horse Guards Parade" "yes" 
+            (-0.1263071 51.5041611)) 
+        ("Tolpuddle Street / Islington Police Station" "yes" 
+            (-0.1103669 51.5341658)) 
+        ("Southwark" undefined 
+            (-0.1058902 51.5041113)) 
+        ("King's Cross Station" "yes" 
+            (-0.1216225 51.5305411)) 
+        ("Conduit Street / Savile Row" "yes" 
+            (-0.1419632 51.512168)) 
+        ("Holborn Station" "yes" 
+            (-0.1201831 51.5171203)) 
+        ("Angel Station" "yes" 
+            (-0.1055072 51.5336649)) 
+        ("Pentonville Road / Baron Street" "yes" 
+            (-0.1077717 51.5318372)) 
+        ("Angel Station" "yes" 
+            (-0.1054621 51.5339329)) 
+        ("Angel Station" "yes" 
+            (-0.1052123 51.534217)) 
+        ("Barbican Station" "yes" 
+            (-0.0974942 51.5204592)) 
+        ("Barbican Station" "yes" 
+            (-0.0974011 51.5208829)) 
+        ("Euston Station" "yes" 
+            (-0.1326653 51.5267078)) 
+        ("Tottenham Court Road Station / New Oxford Street" "yes" 
+            (-0.1282758 51.5167103)) 
+        ("Tottenham Court Road Station" "yes" 
+            (-0.1283181 51.5155887)) 
+        ("Warren Street Station" "yes" 
+            (-0.1393377 51.5249021)) 
+        ("King's Cross / Caledonian Road" "yes" 
+            (-0.1204636 51.5308685)) 
+        ("Aldgate Bus Station" "yes" 
+            (-0.0752022 51.5138488)) 
+        ("Limehouse Station" "yes" 
+            (-0.0400579 51.512802)) 
+        ("Limehouse Station" "yes" 
+            (-0.0404838 51.5127387)) 
+        ("Westminster Pier" "yes" 
+            (-0.1240619 51.5015951)) 
+        ("Barnet Grove" "yes" 
+            (-0.0667126 51.526215)) 
+        ("Baron Street / Chapel Market" "yes" 
+            (-0.1091953 51.5323987)) 
+        ("Bricklayer's Arms / New Kent Road" "yes" 
+            (-0.0874021 51.4942965)) 
+        ("Brick Lane" "yes" 
+            (-0.0709708 51.5252014)) 
+        ("Bricklayer's Arms" "yes" 
+            (-0.08381180000000001 51.493045)) 
+        ("Bricklayer's Arms" "yes" 
+            (-0.0843801 51.4932366)) 
+        ("Bricklayer's Arms" "yes" 
+            (-0.0850827 51.4936173)) 
+        ("Bricklayer's Arms" "yes" 
+            (-0.0843811 51.4935124)) 
+        ("Horse Guards Parade" "yes" 
+            (-0.1262846 51.5040491)) 
+        ("Horse Guards Parade" "yes" 
+            (-0.1261389 51.5041998)) 
+        ("Banqueting House" "yes" 
+            (-0.1260865 51.5037854)) 
+        ("Lancaster Place" "yes" 
+            (-0.1187244 51.5105475)) 
+        ("Henriques Street" "yes" 
+            (-0.06659959999999999 51.5148666)) 
+        ("Henriques Street" "yes" 
+            (-0.0653238 51.5148186)) 
+        ("Museum of London" "yes" 
+            (-0.09693010000000001 51.5183634)) 
+        ("Penton Street / Chapel Market" "yes" 
+            (-0.1103898 51.5317089)) 
+        ("Rodney Place" "yes" 
+            (-0.0947592 51.4941829)) 
+        ("Rodney Place" "yes" 
+            (-0.0948552 51.4941976)) 
+        ("Old Bond Street / Royal Academy" "yes" 
+            (-0.1391095 51.5083314)) 
+        ("Silverdale" "yes" 
+            (-0.1386673 51.5301921)) 
+        ("Silverdale" "yes" 
+            (-0.1386608 51.530751)) 
+        ("St Paul's Way" "yes" 
+            (-0.02992 51.5176831)) 
+        ("Ackroyd Drive" "yes" 
+            (-0.0301783 51.5179394)) 
+        ("University College Hospital / Warren Street Station" "yes" 
+            (-0.136789 51.5252398)) 
+        ("Waterloo Bridge / South Bank" "yes" 
+            (-0.1148728 51.5062471)) 
+        ("Westminster Station / Parliament Square" "yes" 
+            (-0.1262393 51.5018272)) 
+        ("Westminster Station / Parliament Square" "yes" 
+            (-0.1262793 51.5015583)) 
+        ("Westminster Station / Parliament Square" "yes" 
+            (-0.125983 51.502474)) 
+        ("Westminster Station / Parliament Square" "yes" 
+            (-0.126088 51.5015633)) 
+        ("Murray Grove / Provost Estate" "yes" 
+            (-0.08747919999999999 51.5310801)) 
+        ("White Lion Street" "yes" 
+            (-0.107118 51.5327966)) 
+        ("Waterloo" undefined 
+            (-0.1125395 51.5033992)) 
+        ("London Bridge" undefined 
+            (-0.0850475 51.5050293)) 
+        ("London Bridge" undefined 
+            (-0.08307970000000001 51.5036863)) 
+        ("Neptune Street / St Olaves Estate" "yes" 
+            (-0.053912 51.4975452)) 
+        ("Queensbridge Road" "yes" 
+            (-0.07034 51.5309925)) 
+        ("Surrey Quays" undefined 
+            (-0.0481307 51.4938462)) 
+        ("Elephant & Castle Station" "yes" 
+            (-0.09832440000000001 51.4923368)) 
+        ("Greenland Pier" undefined 
+            (-0.0317396 51.4947389)) 
+        ("Embankment" undefined 
+            (-0.1213363 51.5069774)) 
+        ("London Eye - Waterloo Pier" undefined 
+            (-0.1204713 51.5034484)) 
+        ("Bankside Pier" undefined 
+            (-0.0967972 51.5087709)) 
+        ("Euston Bus Station" "yes" 
+            (-0.1323075 51.5275434)) 
+        ("Euston Station" "yes" 
+            (-0.1326527 51.5275004)) 
+        ("Piccadilly Circus" "yes" 
+            (-0.1357763 51.5098943)) 
+        ("Mile End" undefined 
+            (-0.033369 51.5252369)) 
+        ("Tower Hill" undefined 
+            (-0.07661850000000001 51.5097755)) 
+        ("Tower Hill" undefined 
+            (-0.0766274 51.5098382)) 
+        ("London Bridge" undefined 
+            (-0.08289870000000001 51.5035335)) 
+        ("Euston Station" "yes" 
+            (-0.1323881 51.5276169)) 
+        ("Festival Pier" undefined 
+            (-0.1177967 51.5070011)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.08267770000000001 51.518052)) 
+        ("Westminster Pier" undefined 
+            (-0.1231427 51.5017374)) 
+        ("Trafalgar Square / Charing Cross Station" "yes" 
+            (-0.1262276 51.5085981)) 
+        ("Acton Street" "yes" 
+            (-0.1169946 51.5286247)) 
+        ("Farringdon" undefined 
+            (-0.1052085 51.5208236)) 
+        ("Westminster" undefined 
+            (-0.1252151 51.501157)) 
+        ("Westminster" undefined 
+            (-0.1254663 51.5009502)) 
+        ("Euston" undefined 
+            (-0.1340079 51.5282784)) 
+        ("Euston" undefined 
+            (-0.1327972 51.5284457)) 
+        ("Euston" undefined 
+            (-0.1322216 51.5285438)) 
+        ("Euston" undefined 
+            (-0.131945 51.5284038)) 
+        ("Euston" undefined 
+            (-0.1324887 51.5287875)) 
+        ("London Euston" undefined 
+            (-0.1354868 51.5285343)) 
+        ("London Euston" undefined 
+            (-0.1337099 51.5288019)) 
+        ("London Euston" undefined 
+            (-0.1344777 51.5284628)) 
+        ("London Euston" undefined 
+            (-0.1332175 51.5286218)) 
+        ("London Euston" undefined 
+            (-0.1335836 51.5283889)) 
+        ("London Euston" undefined 
+            (-0.1335123 51.5284103)) 
+        ("London Euston" undefined 
+            (-0.1331268 51.5291226)) 
+        ("London Euston" undefined 
+            (-0.1342485 51.5287401)) 
+        ("London Euston" undefined 
+            (-0.1339457 51.5281965)) 
+        ("London Euston" undefined 
+            (-0.1338843 51.5282241)) 
+        ("London Euston" undefined 
+            (-0.1344769 51.5279966)) 
+        ("London Euston" undefined 
+            (-0.1343565 51.5280535)) 
+        ("London Euston" undefined 
+            (-0.1341841 51.5287566)) 
+        ("London Euston" undefined 
+            (-0.1336584 51.528819)) 
+        ("London Euston" undefined 
+            (-0.1331386 51.5286452)) 
+        ("London Euston" undefined 
+            (-0.1331883 51.5291049)) 
+        ("London Euston" undefined 
+            (-0.1343145 51.5280673)) 
+        ("London Euston" undefined 
+            (-0.1344486 51.528476)) 
+        ("Kennington" undefined 
+            (-0.1056501 51.4887057)) 
+        ("London St Pancras" undefined 
+            (-0.127134 51.5321849)) 
+        ("London St Pancras" undefined 
+            (-0.1270902 51.5321961)) 
+        ("London St Pancras" undefined 
+            (-0.1269571 51.5322336)) 
+        ("London King's Cross" undefined 
+            (-0.1235571 51.5311615)) 
+        ("London King's Cross" undefined 
+            (-0.123396 51.5311581)) 
+        ("London King's Cross" undefined 
+            (-0.123123 51.5310593)) 
+        ("London King's Cross" undefined 
+            (-0.1227385 51.531138)) 
+        ("London King's Cross" undefined 
+            (-0.1233477 51.531159)) 
+        ("London King's Cross" undefined 
+            (-0.1231719 51.5310592)) 
+        ("London King's Cross" undefined 
+            (-0.1229561 51.5310473)) 
+        ("London King's Cross" undefined 
+            (-0.123603 51.5311598)) 
+        ("London King's Cross" undefined 
+            (-0.1229143 51.5310517)) 
+        ("London King's Cross" undefined 
+            (-0.1241105 51.532425)) 
+        ("London King's Cross" undefined 
+            (-0.1242788 51.5324494)) 
+        ("London St Pancras" undefined 
+            (-0.1263882 51.5327521)) 
+        ("London St Pancras" undefined 
+            (-0.1265475 51.5327067)) 
+        ("London St Pancras" undefined 
+            (-0.127105 51.5312861)) 
+        ("Farringdon" undefined 
+            (-0.1052548 51.5208186)) 
+        ("Farringdon" undefined 
+            (-0.1060171 51.5214556)) 
+        ("London Liverpool Street" undefined 
+            (-0.0807691 51.5178099)) 
+        ("London Liverpool Street" undefined 
+            (-0.082164 51.5180809)) 
+        ("London Liverpool Street" undefined 
+            (-0.0805319 51.5177601)) 
+        ("London Liverpool Street" undefined 
+            (-0.08195280000000001 51.518048)) 
+        ("London Liverpool Street" undefined 
+            (-0.0823203 51.51811)) 
+        ("London Liverpool Street" undefined 
+            (-0.081401 51.5179412)) 
+        ("London Liverpool Street" undefined 
+            (-0.08165169999999999 51.5179917)) 
+        ("London Liverpool Street" undefined 
+            (-0.0823805 51.5181231)) 
+        ("London Liverpool Street" undefined 
+            (-0.0817232 51.5180068)) 
+        ("London Liverpool Street" undefined 
+            (-0.0821231 51.5180736)) 
+        ("London Liverpool Street" undefined 
+            (-0.0807268 51.5177975)) 
+        ("London Liverpool Street" undefined 
+            (-0.08189399999999999 51.5180384)) 
+        ("London Liverpool Street" undefined 
+            (-0.0814636 51.5179578)) 
+        ("City Thameslink" undefined 
+            (-0.1036221 51.5160618)) 
+        ("City Thameslink" undefined 
+            (-0.1035023 51.5145181)) 
+        ("Cannon Street" undefined 
+            (-0.0902558 51.5109523)) 
+        ("Cannon Street" undefined 
+            (-0.090795 51.5109111)) 
+        ("Cannon Street" undefined 
+            (-0.09029189999999999 51.5109585)) 
+        ("Cannon Street" undefined 
+            (-0.0906256 51.5108863)) 
+        ("Cannon Street" undefined 
+            (-0.090404 51.5109794)) 
+        ("Cannon Street" undefined 
+            (-0.0904399 51.5109856)) 
+        ("Cannon Street" undefined 
+            (-0.0906647 51.5108941)) 
+        ("London Charing Cross" undefined 
+            (-0.1244949 51.5076009)) 
+        ("London Charing Cross" undefined 
+            (-0.1243215 51.5077388)) 
+        ("London Charing Cross" undefined 
+            (-0.1240691 51.5078844)) 
+        ("London Charing Cross" undefined 
+            (-0.1243522 51.5077155)) 
+        ("London Charing Cross" undefined 
+            (-0.1241858 51.5078218)) 
+        ("London Charing Cross" undefined 
+            (-0.1241611 51.5078422)) 
+        ("Charing Cross" undefined 
+            (-0.1259828 51.5088609)) 
+        ("Charing Cross" undefined 
+            (-0.1285671 51.5073911)) 
+        ("London Bridge" undefined 
+            (-0.08543820000000001 51.5038965)) 
+        ("London Bridge" undefined 
+            (-0.0854505 51.50408)) 
+        ("London Bridge" undefined 
+            (-0.0854794 51.5040615)) 
+        ("London Bridge" undefined 
+            (-0.0856037 51.5037567)) 
+        ("London Bridge" undefined 
+            (-0.0854678 51.503882)) 
+        ("London Bridge" undefined 
+            (-0.0855799 51.5037717)) 
+        ("London Bridge" undefined 
+            (-0.0879751 51.5049296)) 
+        ("Chelsea College of Arts" "yes" 
+            (-0.1298125 51.4902088)) 
+        ("Moorgate" undefined 
+            (-0.08799319999999999 51.518685)) 
+        ("Moorgate" undefined 
+            (-0.0891531 51.5183795)) 
+        ("Moorgate" undefined 
+            (-0.08806799999999999 51.5184864)) 
+        ("Euston Square Station" "yes" 
+            (-0.1366719 51.525601)) 
+        ("Holborn Circus" "yes" 
+            (-0.1060042 51.517522)) 
+        ("St John Street" "yes" 
+            (-0.1037729 51.5225503)) 
+        ("Jamaica Road / Abbey Street" "yes" 
+            (-0.0707039 51.4989796)) 
+        ("Rotherhithe" undefined 
+            (-0.0521806 51.5010163)) 
+        ("Rotherhithe Tunnel" "yes" 
+            (-0.0542717 51.4995462)) 
+        ("Wapping" undefined 
+            (-0.0563521 51.5048772)) 
+        ("Tower Gateway Platform 1" undefined 
+            (-0.0741792 51.5106217)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.1229228 51.5310661)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.1216069 51.5309643)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.124545 51.5295915)) 
+        ("London Bridge" undefined 
+            (-0.0884974 51.5058524)) 
+        ("Shoreditch High Street" undefined 
+            (-0.0736728 51.5232591)) 
+        ("Bethnal Green" undefined 
+            (-0.058857 51.5240267)) 
+        ("Oxford Circus" undefined 
+            (-0.1407785 51.5153611)) 
+        ("Oxford Circus" undefined 
+            (-0.1408111 51.5154617)) 
+        ("Chancery Lane" undefined 
+            (-0.1122305 51.5181175)) 
+        ("Holborn" undefined 
+            (-0.119335 51.5176949)) 
+        ("St. Paul's" undefined 
+            (-0.09913039999999999 51.5155459)) 
+        ("Bethnal Green" undefined 
+            (-0.0544895 51.527328)) 
+        ("Mile End" undefined 
+            (-0.0335219 51.5254588)) 
+        ("Bank" undefined 
+            (-0.08894539999999999 51.5132557)) 
+        ("Goodge Street" undefined 
+            (-0.1343582 51.520515)) 
+        ("Piccadilly Circus" undefined 
+            (-0.1347066 51.5097206)) 
+        ("The Royal Courts of Justice" "yes" 
+            (-0.1135009 51.5130182)) 
+        ("Elephant & Castle" undefined 
+            (-0.1013036 51.4958111)) 
+        ("Elephant & Castle" undefined 
+            (-0.1005484 51.4949204)) 
+        ("Liverpool Road / Chapel Market" "yes" 
+            (-0.1081471 51.5344279)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.1246817 51.5297729)) 
+        ("Barbican" undefined 
+            (-0.098727 51.5201801)) 
+        ("Moorgate" undefined 
+            (-0.0908535 51.5187071)) 
+        ("Monument" undefined 
+            (-0.0860248 51.5107151)) 
+        ("Cannon Street" undefined 
+            (-0.09032320000000001 51.5113913)) 
+        ("Westminster" undefined 
+            (-0.1247269 51.5015014)) 
+        ("Cambridge Heath Platform 1" undefined 
+            (-0.0570151 51.5310456)) 
+        ("Green Park" undefined 
+            (-0.1418986 51.5071603)) 
+        ("Mile End" undefined 
+            (-0.0334449 51.5253563)) 
+        ("Stepney Green" undefined 
+            (-0.0467282 51.5217146)) 
+        ("Green Park" undefined 
+            (-0.1410125 51.5076664)) 
+        ("Oxford Circus" undefined 
+            (-0.1417687 51.5156576)) 
+        ("Oxford Circus" undefined 
+            (-0.1422817 51.515625)) 
+        ("Westferry Platform 2" undefined 
+            (-0.0273103 51.5096533)) 
+        ("Shadwell Platform 2" undefined 
+            (-0.0559908 51.5116668)) 
+        ("Shadwell Platform 1" undefined 
+            (-0.054987 51.51181)) 
+        ("Victoria" undefined 
+            (-0.1427545 51.4971415)) 
+        ("Pimlico" undefined 
+            (-0.1342221 51.489205)) 
+        ("Elephant & Castle" undefined 
+            (-0.0985145 51.4943257)) 
+        ("Wapping" undefined 
+            (-0.0558997 51.5043221)) 
+        ("Rotherhithe" undefined 
+            (-0.0516937 51.5005412)) 
+        ("Whitechapel" undefined 
+            (-0.0598698 51.5196154)) 
+        ("Whitechapel" undefined 
+            (-0.0609664 51.5202593)) 
+        ("Charing Cross" undefined 
+            (-0.1249705 51.5085011)) 
+        ("Westminster" undefined 
+            (-0.1253399 51.5009565)) 
+        ("Green Park" undefined 
+            (-0.1401175 51.5062958)) 
+        ("Green Park" undefined 
+            (-0.1414112 51.5061124)) 
+        ("Green Park" undefined 
+            (-0.142581 51.5066493)) 
+        ("Embankment" undefined 
+            (-0.1222323 51.5070444)) 
+        ("Warren Street" undefined 
+            (-0.1380159 51.5245174)) 
+        ("Warren Street" undefined 
+            (-0.1388072 51.5244929)) 
+        ("Canada Water" undefined 
+            (-0.0502771 51.4978101)) 
+        ("Tottenham Court Road" undefined 
+            (-0.1313917 51.5163525)) 
+        ("Euston" undefined 
+            (-0.1342045 51.5285152)) 
+        ("Mornington Crescent" undefined 
+            (-0.1383723 51.5344326)) 
+        ("Leicester Square" undefined 
+            (-0.1276346 51.5116078)) 
+        ("Leicester Square" undefined 
+            (-0.1285118 51.5118987)) 
+        ("Waterloo" undefined 
+            (-0.1148666 51.5033423)) 
+        ("Waterloo" undefined 
+            (-0.1143104 51.5035706)) 
+        ("Lambeth North" undefined 
+            (-0.1109346 51.4984249)) 
+        ("Waterloo" undefined 
+            (-0.1145223 51.5035244)) 
+        ("Piccadilly Circus" undefined 
+            (-0.1344303 51.5099549)) 
+        ("Borough" undefined 
+            (-0.093406 51.5010936)) 
+        ("Shoreditch High Street Station" undefined 
+            (-0.0760735 51.5232497)) 
+        ("Hoxton" undefined 
+            (-0.0756308 51.5311367)) 
+        ("Hoxton" undefined 
+            (-0.075686 51.531862)) 
+        ("Goodge Street" undefined 
+            (-0.1342306 51.5205525)) 
+        ("Holborn Circus / Fetter Lane" "yes" 
+            (-0.1087398 51.5177988)) 
+        ("Tower of London" "yes" 
+            (-0.0757167 51.509645)) 
+        ("Shoreditch Town Hall" "yes" 
+            (-0.0795413 51.5272408)) 
+        ("London Eye" "yes" 
+            (-0.115731 51.5031949)) 
+        ("Aldgate" undefined 
+            (-0.07559399999999999 51.5142891)) 
+        ("Kennington" undefined 
+            (-0.1057708 51.4887485)) 
+        ("St John Street / Goswell Road" "yes" 
+            (-0.1060355 51.5310411)) 
+        ("Red Lion Street" "yes" 
+            (-0.1190504 51.5200208)) 
+        ("Tower Millennium Pier" undefined 
+            (-0.0788908 51.5072719)) 
+        ("Doubletree Docklands Nelson Dock" undefined 
+            (-0.031702 51.5045007)) 
+        ("Saint Katharine's Pier" undefined 
+            (-0.07351630000000001 51.5059721)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.1233187 51.5311558)) 
+        ("Tottenham Court Road" undefined 
+            (-0.1342055 51.5150066)) 
+        ("Farringdon" undefined 
+            (-0.1053264 51.5193158)) 
+        ("Liverpool Street" undefined 
+            (-0.08797199999999999 51.5177539)) 
+        ("Liverpool Street" undefined 
+            (-0.08497200000000001 51.5176229)) 
+        ("Whitechapel" undefined 
+            (-0.0608987 51.5199552)) 
+        ("Whitechapel" undefined 
+            (-0.0563802 51.5205782)) 
+        ("Surrey Quays" undefined 
+            (-0.0473758 51.4930468)) 
+        ("London Euston" undefined 
+            (-0.1344274 51.5280119)) 
+        ("Elephant & Castle" undefined 
+            (-0.1011026 51.495876)) 
+        ("Pimlico" undefined 
+            (-0.1362384 51.4890837)) 
+        ("Surrey Quays Shopping Centre" "yes" 
+            (-0.046899 51.4938697)) 
+        ("Surrey Quays Shopping Centre" "yes" 
+            (-0.0459589 51.4939344)) 
+        ("Surrey Quays Station" "yes" 
+            (-0.0460543 51.4934677)) 
+        ("St Paul's Cathedral" "yes" 
+            (-0.09943349999999999 51.5133253)) 
+        ("St Paul's Station" "yes" 
+            (-0.0983977 51.515299)) 
+        ("King David Lane" "yes" 
+            (-0.0528729 51.5108057)) 
+        ("Holborn" undefined 
+            (-0.1204668 51.5174178)) 
+        ("Holborn" undefined 
+            (-0.1205074 51.5170029)) 
+        ("Piccadilly Circus" undefined 
+            (-0.1346705 51.5096667)) 
+        ("Leicester Square" undefined 
+            (-0.1275681 51.5115348)) 
+        ("Covent Garden" undefined 
+            (-0.1240887 51.5131374)) 
+        ("Whitechapel" undefined 
+            (-0.0610484 51.519362)) 
+        ("Whitechapel" undefined 
+            (-0.0611763 51.5195689)) 
+        ("Canada Water" undefined 
+            (-0.0500405 51.4980112)) 
+        ("Canada Water" undefined 
+            (-0.0499525 51.4979293)) 
+        ("Borough Road" "yes" 
+            (-0.1000548 51.4982576)) 
+        ("Burdett Road" "yes" 
+            (-0.0272729 51.5117437)) 
+        ("Euston Bus Station" "yes" 
+            (-0.1323543 51.5271301)) 
+        ("Waterloo East" undefined 
+            (-0.1096978 51.5039056)) 
+        ("Waterloo East" undefined 
+            (-0.1066539 51.5042854)) 
+        ("Tower of London" "yes" 
+            (-0.0754708 51.5097071)) 
+        ("Waterloo Station / Waterloo Road" "yes" 
+            (-0.1109396 51.5030815)) 
+        ("Clerkenwell Green" "yes" 
+            (-0.1056375 51.5223081)) 
+        ("St. Paul's" undefined 
+            (-0.0991571 51.5154842)) 
+        ("London Bridge Station" "yes" 
+            (-0.08667179999999999 51.50509)) 
+        ("London Bridge Station" "yes" 
+            (-0.0875715 51.5050919)) 
+        ("London Bridge Station" "yes" 
+            (-0.08659360000000001 51.5051466)) 
+        ("London Bridge Station" "yes" 
+            (-0.08652029999999999 51.5052006)) 
+        ("London Bridge Station" "yes" 
+            (-0.0871813 51.5055509)) 
+        ("Gwynne Place" "yes" 
+            (-0.114863 51.5273054)) 
+        ("King's Cross Station / York Way" "yes" 
+            (-0.1225038 51.5314015)) 
+        ("King's Cross Station" "yes" 
+            (-0.1232052 51.5304127)) 
+        ("King's Cross Station" "yes" 
+            (-0.1228482 51.5305543)) 
+        ("Hardwick Street" "yes" 
+            (-0.1074798 51.5276686)) 
+        ("Sadler's Wells Theatre" "yes" 
+            (-0.1061733 51.5290453)) 
+        ("Sadler's Wells Theatre" "yes" 
+            (-0.1061398 51.5290772)) 
+        ("Margaret Street / Oxford Circus" "yes" 
+            (-0.1422974 51.5161223)) 
+        ("Oxford Circus Station / Margaret Street" "yes" 
+            (-0.1421651 51.5159662)) 
+        ("Elephant & Castle Station" "yes" 
+            (-0.1007469 51.4944696)) 
+        ("Aldgate" undefined 
+            (-0.07582319999999999 51.5142097)) 
+        ("Aldgate" undefined 
+            (-0.0757317 51.5142427)) 
+        ("Aldgate" undefined 
+            (-0.07570440000000001 51.5142527)) 
+        ("Bank" undefined 
+            (-0.0890314 51.5134183)) 
+        ("Liverpool Street" undefined 
+            (-0.0825554 51.5171842)) 
+        ("Liverpool Street" undefined 
+            (-0.08254350000000001 51.5172123)) 
+        ("Mansion House" undefined 
+            (-0.09522559999999999 51.5118962)) 
+        ("Mansion House" undefined 
+            (-0.0952257 51.511929)) 
+        ("Temple" undefined 
+            (-0.114223 51.5109669)) 
+        ("Temple" undefined 
+            (-0.1142341 51.5109925)) 
+        ("London St Pancras" undefined 
+            (-0.1257534 51.5307598)) 
+        ("London St Pancras" undefined 
+            (-0.125602 51.5308075)) 
+        ("London St Pancras" undefined 
+            (-0.1255723 51.5308164)) 
+        ("London St Pancras" undefined 
+            (-0.1254187 51.530867)) 
+        ("London St Pancras" undefined 
+            (-0.1253973 51.5308753)) 
+        ("London St Pancras" undefined 
+            (-0.125221 51.5309283)) 
+        ("Tavistock Square" "yes" 
+            (-0.1282513 51.5250476)) 
+        ("Tavistock Square" "yes" 
+            (-0.1286647 51.5254166)) 
+        ("Bank" undefined 
+            (-0.0875952 51.5117032)) 
+        ("Bank" undefined 
+            (-0.0882346 51.5120279)) 
+        ("Euston Square" undefined 
+            (-0.1351367 51.5258278)) 
+        ("Euston Square" undefined 
+            (-0.1352346 51.525829)) 
+        ("Angel Station" "yes" 
+            (-0.1076599 51.5318411)) 
+        ("King's Cross Road" "yes" 
+            (-0.1185648 51.5310518)) 
+        ("Penton Rise" "yes" 
+            (-0.1156368 51.5312837)) 
+        ("Penton Rise" "yes" 
+            (-0.1153033 51.5312528)) 
+        ("Penton Street" "yes" 
+            (-0.1117241 51.5315588)) 
+        ("Euston Bus Station" "yes" 
+            (-0.1319048 51.5276207)) 
+        ("Euston Bus Station" "yes" 
+            (-0.1316859 51.5278072)) 
+        ("Aldgate Station" "yes" 
+            (-0.0751305 51.5135285)) 
+        ("St Bartholomew's Hospital" "yes" 
+            (-0.101342 51.5175072)) 
+        ("Millbank" "yes" 
+            (-0.1265531 51.4948249)) 
+        ("Gray's Inn Road" "yes" 
+            (-0.1140354 51.5213195)) 
+        ("Bethnal Green Road / Shoreditch High Street Station" "yes" 
+            (-0.0763949 51.5236404)) 
+        ("Trafalgar Square / Charing Cross Station" "yes" 
+            (-0.1263773 51.5080437)) 
+        ("Trafalgar Square / Charing Cross Station" "yes" 
+            (-0.126478 51.5080928)) 
+        ("Trafalgar Square / Charing Cross Station" "yes" 
+            (-0.1261746 51.5082354)) 
+        ("Charing Cross Station" "yes" 
+            (-0.1254619 51.5085391)) 
+        ("Shoreditch High Street Station" "yes" 
+            (-0.07511370000000001 51.5209573)) 
+        ("Shoreditch High Street Station" "yes" 
+            (-0.0760059 51.5236403)) 
+        ("Aldwych" "yes" 
+            (-0.1187414 51.5124367)) 
+        ("The Royal Courts of Justice" "yes" 
+            (-0.1141126 51.5132376)) 
+        ("Fetter Lane" "yes" 
+            (-0.1087453 51.5141792)) 
+        ("Ludgate Circus" "yes" 
+            (-0.1053388 51.5142126)) 
+        ("St Paul's Cathedral" "yes" 
+            (-0.0988087 51.5132698)) 
+        ("Camomile Street" "yes" 
+            (-0.0820222 51.5158062)) 
+        ("Primrose Street" "yes" 
+            (-0.079038 51.5201492)) 
+        ("Shoreditch High Street Station" "yes" 
+            (-0.0780107 51.5223117)) 
+        ("Shoreditch High Street / Bethnal Green Road" "yes" 
+            (-0.07726479999999999 51.5244739)) 
+        ("Hoxton Station" "yes" 
+            (-0.0743477 51.5300035)) 
+        ("Warner Place" "yes" 
+            (-0.0643553 51.5314363)) 
+        ("Cambridge Heath Station" "yes" 
+            (-0.0578795 51.5324951)) 
+        ("Pritchard's Road" "yes" 
+            (-0.0607407 51.5320172)) 
+        ("Cambridge Heath Station" "yes" 
+            (-0.0581142 51.5324564)) 
+        ("Pritchard's Road" "yes" 
+            (-0.0620471 51.5317858)) 
+        ("Warner Place" "yes" 
+            (-0.06506670000000001 51.5313672)) 
+        ("Queensbridge Road" "yes" 
+            (-0.0707091 51.530972)) 
+        ("Hoxton Station" "yes" 
+            (-0.0750806 51.5291813)) 
+        ("Shoreditch Church" "yes" 
+            (-0.0768851 51.5274917)) 
+        ("Commercial Street / Worship Street" "yes" 
+            (-0.07817490000000001 51.5219908)) 
+        ("Shoreditch High Street Station" "yes" 
+            (-0.0782294 51.5218825)) 
+        ("Primrose Street" "yes" 
+            (-0.0789902 51.5197987)) 
+        ("St Paul's Churchyard" "yes" 
+            (-0.0974303 51.5130899)) 
+        ("Shoe Lane" "yes" 
+            (-0.1066656 51.5141892)) 
+        ("Fetter Lane" "yes" 
+            (-0.1083946 51.5141947)) 
+        ("Chancery Lane" "yes" 
+            (-0.1104465 51.5139086)) 
+        ("Waterloo Bridge / South Bank" "yes" 
+            (-0.1153773 51.5069557)) 
+        ("Waterloo Station / Waterloo Road" "yes" 
+            (-0.1113961 51.5034911)) 
+        ("Stephen Street" "yes" 
+            (-0.1316581 51.5179826)) 
+        ("Museum Street" "yes" 
+            (-0.1242798 51.5175842)) 
+        ("Procter Street" "yes" 
+            (-0.1192321 51.5182266)) 
+        ("Brownlow Street" "yes" 
+            (-0.1151676 51.5181303)) 
+        ("Chancery Lane Station" "yes" 
+            (-0.1121548 51.5182441)) 
+        ("Holborn Circus / Fetter Lane" "yes" 
+            (-0.1094742 51.5179936)) 
+        ("King Edward Street" "yes" 
+            (-0.0999512 51.5156936)) 
+        ("St Paul's Station" "yes" 
+            (-0.0957158 51.5143805)) 
+        ("British Library" "yes" 
+            (-0.1268494 51.5289236)) 
+        ("St Pancras International Station" "yes" 
+            (-0.1253555 51.5293695)) 
+        ("St Pancras International Station" "yes" 
+            (-0.1251997 51.5294319)) 
+        ("Bank Station / Poultry" "yes" 
+            (-0.0916305 51.5137222)) 
+        ("Cambridge Heath Platform 2" undefined 
+            (-0.0576288 51.5324273)) 
+        ("Brick Lane" "yes" 
+            (-0.0723033 51.5245956)) 
+        ("Barnet Grove" "yes" 
+            (-0.0673318 51.5261326)) 
+        ("Pollard Row" "yes" 
+            (-0.0635116 51.5265755)) 
+        ("Wilmot Street" "yes" 
+            (-0.0599897 51.526961)) 
+        ("Bethnal Green Station" "yes" 
+            (-0.0567294 51.5273687)) 
+        ("Burnham Street" "yes" 
+            (-0.0524873 51.5276952)) 
+        ("Bonner Street" "yes" 
+            (-0.0466036 51.5292158)) 
+        ("Smart Street" "yes" 
+            (-0.0444189 51.5297986)) 
+        ("Roman Road / Grove Road" "yes" 
+            (-0.0395577 51.5310065)) 
+        ("Medway Road" "yes" 
+            (-0.0355385 51.5318115)) 
+        ("Alice Lane" "yes" 
+            (-0.0334 51.5340595)) 
+        ("Waterloo Road" "yes" 
+            (-0.1125739 51.505263)) 
+        ("Waterloo Road" "yes" 
+            (-0.1121538 51.5054192)) 
+        ("London Eye" "yes" 
+            (-0.1173756 51.5029009)) 
+        ("Sandell Street / Waterloo Station" "yes" 
+            (-0.1106382 51.5036758)) 
+        ("Waterloo Station / Mepham Street" "yes" 
+            (-0.1132425 51.5039349)) 
+        ("Waterloo Station / Tenison Way" "yes" 
+            (-0.1126991 51.5042006)) 
+        ("Waterloo Station / Tenison Way" "yes" 
+            (-0.113512 51.5043695)) 
+        ("Waterloo Station / Upper Taxi Road" "yes" 
+            (-0.1126995 51.5037129)) 
+        ("Waterloo Station / Waterloo Road" "yes" 
+            (-0.1108086 51.5029777)) 
+        ("Waterloo Station / Waterloo Road" "yes" 
+            (-0.1114216 51.5035133)) 
+        ("Waterloo Station / York Road" "yes" 
+            (-0.1152412 51.5035537)) 
+        ("Waterloo Station" "yes" 
+            (-0.1157862 51.5029937)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.0826298 51.5181332)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.0825472 51.5182734)) 
+        ("Ford Road" "yes" 
+            (-0.0329107 51.5322809)) 
+        ("Alice Lane" "yes" 
+            (-0.0337904 51.5345942)) 
+        ("Roman Road Market" "yes" 
+            (-0.0259876 51.5333224)) 
+        ("Medway Road" "yes" 
+            (-0.0362221 51.5316817)) 
+        ("Haverfield Green / Grove Road" "yes" 
+            (-0.041322 51.5305838)) 
+        ("Brownlow Street" "yes" 
+            (-0.1150249 51.5181465)) 
+        ("Cannon Street Station" "yes" 
+            (-0.0889607 51.5113542)) 
+        ("City Thameslink Station" "yes" 
+            (-0.1024923 51.5164357)) 
+        ("Chancery Lane Station" "yes" 
+            (-0.112222 51.5182516)) 
+        ("Holborn Circus" "yes" 
+            (-0.1064848 51.5176242)) 
+        ("Kingsway / Holborn Station" "yes" 
+            (-0.1199298 51.5168403)) 
+        ("Monument Station" "yes" 
+            (-0.08722240000000001 51.509503)) 
+        ("New Change / Cannon Street" "yes" 
+            (-0.0964873 51.5138982)) 
+        ("Cannon Street Station" "yes" 
+            (-0.091117 51.5117863)) 
+        ("St Pancras International Station" "yes" 
+            (-0.1272753 51.5314592)) 
+        ("Camomile Street" "yes" 
+            (-0.08233310000000001 51.5155153)) 
+        ("Lambeth North" undefined 
+            (-0.1120769 51.4986724)) 
+        ("Moorfields Eye Hospital" "yes" 
+            (-0.08870020000000001 51.528028)) 
+        ("Old Street Station / Moorfields Eye Hospital" "yes" 
+            (-0.0879747 51.527379)) 
+        ("Old Street Station" "yes" 
+            (-0.08794780000000001 51.5271561)) 
+        ("Old Street Station" "yes" 
+            (-0.0883366 51.5270841)) 
+        ("Old Street Roundabout" "yes" 
+            (-0.08793670000000001 51.526474)) 
+        ("Old Street Station" "yes" 
+            (-0.0893461 51.525435)) 
+        ("Old Street Station" "yes" 
+            (-0.0855747 51.5261521)) 
+        ("Shoreditch Fire Station" "yes" 
+            (-0.08602509999999999 51.5260385)) 
+        ("Moorfields Eye Hospital" "yes" 
+            (-0.0908769 51.5280279)) 
+        ("Moorfields Eye Hospital" "yes" 
+            (-0.0903702 51.5279004)) 
+        ("City Road / Leonard Street" "yes" 
+            (-0.0874785 51.5242085)) 
+        ("Old Street Station" "yes" 
+            (-0.0874225 51.5238752)) 
+        ("Bow Common Lane" "yes" 
+            (-0.0339373 51.5221954)) 
+        ("Mile End Station" "yes" 
+            (-0.0343589 51.5236746)) 
+        ("Mile End Station" "yes" 
+            (-0.0345407 51.5243375)) 
+        ("Mile End Station" "yes" 
+            (-0.0337978 51.5253367)) 
+        ("Mile End Station" "yes" 
+            (-0.0331673 51.5253999)) 
+        ("Mile End Station" "yes" 
+            (-0.0324548 51.5255769)) 
+        ("Mile End Station / Mile End Road" "yes" 
+            (-0.0351922 51.5257941)) 
+        ("Mile End Station / Bow Road" "yes" 
+            (-0.0352189 51.5258447)) 
+        ("Mile End Station" "yes" 
+            (-0.0355356 51.5258187)) 
+        ("York Hall" "yes" 
+            (-0.0551004 51.5295184)) 
+        ("Peel Grove" "yes" 
+            (-0.0535484 51.529969)) 
+        ("Peel Grove" "yes" 
+            (-0.052999 51.5301104)) 
+        ("Bonner Road" "yes" 
+            (-0.050292 51.5318601)) 
+        ("Cambridge Heath Station" "yes" 
+            (-0.0572368 51.5331873)) 
+        ("Cambridge Heath Station" "yes" 
+            (-0.0569373 51.5321193)) 
+        ("Old Ford Road" "yes" 
+            (-0.0559942 51.5297118)) 
+        ("Old Ford Road" "yes" 
+            (-0.0560175 51.5297806)) 
+        ("Heron Quays" "yes" 
+            (-0.0251658 51.5030623)) 
+        ("Limehouse Police Station" "yes" 
+            (-0.0277485 51.5112112)) 
+        ("Limehouse Police Station" "yes" 
+            (-0.0274226 51.5111029)) 
+        ("Salter Street" "yes" 
+            (-0.0266848 51.5100773)) 
+        ("Westferry Station" "yes" 
+            (-0.0268219 51.5091841)) 
+        ("Westferry Station" "yes" 
+            (-0.0268171 51.5087229)) 
+        ("Westferry Circus / Canary Wharf Pier" "yes" 
+            (-0.0268444 51.5054319)) 
+        ("West India Avenue" "yes" 
+            (-0.0252976 51.5054971)) 
+        ("West India Avenue" "yes" 
+            (-0.0251621 51.5054818)) 
+        ("Marsh Wall / Heron Quay" "yes" 
+            (-0.025713 51.5031027)) 
+        ("Marsh Wall / Heron Quay" "yes" 
+            (-0.0258738 51.502344)) 
+        ("Cuba Street" "yes" 
+            (-0.0259838 51.5012516)) 
+        ("Byng Street" "yes" 
+            (-0.0260359 51.5004179)) 
+        ("Barkantine Clinic / Hutchings Street" "yes" 
+            (-0.0259259 51.4987457)) 
+        ("Barkantine Clinic / Hutchings Street" "yes" 
+            (-0.0258934 51.4983204)) 
+        ("Sir John McDougall Gardens" "yes" 
+            (-0.0257995 51.4970355)) 
+        ("Sir John McDougall Gardens" "yes" 
+            (-0.0257603 51.4965387)) 
+        ("Arnhem Wharf Primary School" "yes" 
+            (-0.0253822 51.4948877)) 
+        ("Trafalgar Square" "yes" 
+            (-0.1293502 51.5075414)) 
+        ("Trafalgar Square" "yes" 
+            (-0.1291712 51.5075234)) 
+        ("Northumberland Avenue / Trafalgar Square" "yes" 
+            (-0.1265101 51.5072502)) 
+        ("Trafalgar Square" "yes" 
+            (-0.1298835 51.5076042)) 
+        ("Trafalgar Square" "yes" 
+            (-0.1301246 51.5080213)) 
+        ("Trafalgar Square / Charing Cross Station" "yes" 
+            (-0.1298465 51.5075999)) 
+        ("Trafalgar Square / Charing Cross Station" "yes" 
+            (-0.1272353 51.508256)) 
+        ("Trafalgar Square / Charing Cross Station" "yes" 
+            (-0.1270964 51.508147)) 
+        ("Temple Station" "yes" 
+            (-0.1130359 51.5109549)) 
+        ("Temple Station" "yes" 
+            (-0.1128712 51.5109723)) 
+        ("Temple Avenue" "yes" 
+            (-0.109312 51.5110611)) 
+        ("Temple Avenue" "yes" 
+            (-0.1101848 51.5110653)) 
+        ("Blackfriars Station" "yes" 
+            (-0.1025151 51.5121745)) 
+        ("Blackfriars Station" "yes" 
+            (-0.1027901 51.5120783)) 
+        ("Millennium Bridge" "yes" 
+            (-0.0992275 51.5120171)) 
+        ("Millennium Bridge" "yes" 
+            (-0.0979835 51.5119209)) 
+        ("Mansion House Station" "yes" 
+            (-0.0948722 51.5125976)) 
+        ("Mansion House Station" "yes" 
+            (-0.09474779999999999 51.5121792)) 
+        ("Bank Station / Cornhill" "yes" 
+            (-0.087446 51.5133227)) 
+        ("Bank Station / Cornhill" "yes" 
+            (-0.0876055 51.5133236)) 
+        ("Bishopsgate" "yes" 
+            (-0.084963 51.5134061)) 
+        ("St Mary Axe" "yes" 
+            (-0.0827214 51.5134607)) 
+        ("St Mary Axe" "yes" 
+            (-0.0823908 51.5134724)) 
+        ("Burdett Road" "yes" 
+            (-0.0299078 51.5123765)) 
+        ("East India Dock Road" "yes" 
+            (-0.0278189 51.512893)) 
+        ("East India Dock Road" "yes" 
+            (-0.0277623 51.5122992)) 
+        ("Bonner Street" "yes" 
+            (-0.0464092 51.5292676)) 
+        ("Morpeth Street" "yes" 
+            (-0.0485322 51.5287393)) 
+        ("Globe Road" "yes" 
+            (-0.050218 51.5282229)) 
+        ("Bethnal Green Station" "yes" 
+            (-0.05552 51.5281437)) 
+        ("Bethnal Green Station" "yes" 
+            (-0.0548582 51.5273768)) 
+        ("Bethnal Green Station" "yes" 
+            (-0.0554459 51.5267928)) 
+        ("Wilmot Street" "yes" 
+            (-0.0586498 51.5271262)) 
+        ("St Paul's Way" "yes" 
+            (-0.0294504 51.5166809)) 
+        ("Mile End Park Leisure Centre" "yes" 
+            (-0.0308939 51.519281)) 
+        ("Eric Street" "yes" 
+            (-0.0317413 51.5215703)) 
+        ("Eric Street" "yes" 
+            (-0.0320564 51.5216082)) 
+        ("Eric Street" "yes" 
+            (-0.0332213 51.5212356)) 
+        ("Eric Street" "yes" 
+            (-0.0323545 51.5206429)) 
+        ("Pixley Street" "yes" 
+            (-0.0286573 51.5151647)) 
+        ("Pixley Street" "yes" 
+            (-0.0286044 51.5150591)) 
+        ("St Barnabas Church" "yes" 
+            (-0.0398292 51.5304497)) 
+        ("St Barnabas Church" "yes" 
+            (-0.0396763 51.5302764)) 
+        ("Arbery Road" "yes" 
+            (-0.0385531 51.529081)) 
+        ("Arbery Road" "yes" 
+            (-0.0380164 51.5285698)) 
+        ("Lichfield Road" "yes" 
+            (-0.0364722 51.5271267)) 
+        ("Lichfield Road" "yes" 
+            (-0.0361662 51.526834)) 
+        ("Limehouse Town Hall" "yes" 
+            (-0.0312008 51.5123199)) 
+        ("Salmon Lane" "yes" 
+            (-0.032698 51.5124084)) 
+        ("Lowell Street" "yes" 
+            (-0.034304 51.5124829)) 
+        ("Lowell Street" "yes" 
+            (-0.0346031 51.512496)) 
+        ("St Katharine Cree" "yes" 
+            (-0.07913539999999999 51.5132802)) 
+        ("St Katharine Cree" "yes" 
+            (-0.0788722 51.5132584)) 
+        ("St Botolph Street" "yes" 
+            (-0.07507809999999999 51.5148726)) 
+        ("Aldgate East Station" "yes" 
+            (-0.0731233 51.5147934)) 
+        ("Aldgate East Station" "yes" 
+            (-0.07224990000000001 51.5157652)) 
+        ("Aldgate East Station" "yes" 
+            (-0.072215 51.5157226)) 
+        ("Stepney Methodist Church" "yes" 
+            (-0.0434415 51.5131843)) 
+        ("Stepney Methodist Church" "yes" 
+            (-0.0446316 51.5131992)) 
+        ("Marion Richardson School" "yes" 
+            (-0.0459485 51.5131837)) 
+        ("Arbour Square" "yes" 
+            (-0.0479669 51.5134113)) 
+        ("Exmouth Estate" "yes" 
+            (-0.0493727 51.5136319)) 
+        ("St Mary's & St Michael's Church" "yes" 
+            (-0.0522814 51.5140922)) 
+        ("St Mary's & St Michael's Church" "yes" 
+            (-0.0525917 51.5141235)) 
+        ("Watney Market" "yes" 
+            (-0.056065 51.5143775)) 
+        ("Watney Market" "yes" 
+            (-0.0570534 51.5144944)) 
+        ("New Road" "yes" 
+            (-0.0608994 51.5147378)) 
+        ("New Road" "yes" 
+            (-0.06263589999999999 51.5147713)) 
+        ("Aldgate Station" "yes" 
+            (-0.0748206 51.5141983)) 
+        ("Pitfield Street" "yes" 
+            (-0.0829265 51.5257411)) 
+        ("Ravey Street" "yes" 
+            (-0.082384 51.5254724)) 
+        ("Cable Street" "yes" 
+            (-0.0418297 51.5119652)) 
+        ("Cable Street" "yes" 
+            (-0.0419698 51.5117622)) 
+        ("Free Trade Wharf" "yes" 
+            (-0.0454955 51.5102572)) 
+        ("Free Trade Wharf" "yes" 
+            (-0.0463551 51.5100779)) 
+        ("King Edward Memorial Park" "yes" 
+            (-0.050625 51.5092441)) 
+        ("King Edward Memorial Park" "yes" 
+            (-0.0506184 51.5089969)) 
+        ("Shadwell Basin" "yes" 
+            (-0.0508611 51.5077563)) 
+        ("Shadwell Basin" "yes" 
+            (-0.0509087 51.507677)) 
+        ("Monza Street" "yes" 
+            (-0.053323 51.5063193)) 
+        ("Wapping Wall" "yes" 
+            (-0.0544063 51.5055923)) 
+        ("Wapping Station" "yes" 
+            (-0.0553219 51.504972)) 
+        ("Wapping Station" "yes" 
+            (-0.0560417 51.5045271)) 
+        ("Wapping Station" "yes" 
+            (-0.0566178 51.5040029)) 
+        ("Wapping Health Centre" "yes" 
+            (-0.0584967 51.5057633)) 
+        ("Wapping Health Centre" "yes" 
+            (-0.058617 51.5063863)) 
+        ("Tobacco Dock" "yes" 
+            (-0.0594949 51.5095384)) 
+        ("Tobacco Dock" "yes" 
+            (-0.0598497 51.5095006)) 
+        ("Tobacco Dock" "yes" 
+            (-0.0587818 51.5093694)) 
+        ("Tobacco Dock" "yes" 
+            (-0.0587218 51.5092174)) 
+        ("St George's Town Hall / Shadwell Station" "yes" 
+            (-0.0587109 51.5110851)) 
+        ("St George's Town Hall / Shadwell Station" "yes" 
+            (-0.0585719 51.5110881)) 
+        ("Shadwell Station" "yes" 
+            (-0.0564623 51.512048)) 
+        ("Shadwell Station" "yes" 
+            (-0.0556082 51.5110989)) 
+        ("Curtain Road" "yes" 
+            (-0.0802957 51.5248256)) 
+        ("Curtain Road" "yes" 
+            (-0.07970629999999999 51.5239798)) 
+        ("Shoreditch High Street Station" "yes" 
+            (-0.07978929999999999 51.5240342)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.07992059999999999 51.5180464)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.0800517 51.5178914)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.080535 51.5174137)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.0806398 51.5172882)) 
+        ("Houndsditch" "yes" 
+            (-0.0797711 51.5159857)) 
+        ("Chapman Street" "yes" 
+            (-0.0611806 51.5118494)) 
+        ("Chapman Street" "yes" 
+            (-0.0612623 51.5121994)) 
+        ("Commercial Road" "yes" 
+            (-0.061664 51.5137903)) 
+        ("Commercial Road" "yes" 
+            (-0.0617773 51.5142574)) 
+        ("Royal London Hospital" "yes" 
+            (-0.0623442 51.5167638)) 
+        ("Royal London Hospital" "yes" 
+            (-0.0625483 51.5175718)) 
+        ("Old Montague Street" "yes" 
+            (-0.0635695 51.5199714)) 
+        ("Underwood Road" "yes" 
+            (-0.0641523 51.5211717)) 
+        ("Fakruddin Street" "yes" 
+            (-0.0642954 51.5225101)) 
+        ("Fakruddin Street" "yes" 
+            (-0.0641819 51.5230091)) 
+        ("Weavers Fields" "yes" 
+            (-0.0642148 51.524991)) 
+        ("Weavers Fields" "yes" 
+            (-0.06428159999999999 51.5251966)) 
+        ("Roman Road" "yes" 
+            (-0.0406206 51.5316193)) 
+        ("Old Ford Road" "yes" 
+            (-0.0410263 51.5322945)) 
+        ("Victoria Park" "yes" 
+            (-0.041847 51.5337661)) 
+        ("Victoria Park" "yes" 
+            (-0.0421209 51.5343371)) 
+        ("Bishopsgate" "yes" 
+            (-0.0811226 51.5159583)) 
+        ("Blackfriars Station" "yes" 
+            (-0.1021668 51.5114789)) 
+        ("Embankment Station" "yes" 
+            (-0.1208007 51.508419)) 
+        ("Embankment Station" "yes" 
+            (-0.1210984 51.5081286)) 
+        ("Sutton Street" "yes" 
+            (-0.0540999 51.5129596)) 
+        ("Martha Street" "yes" 
+            (-0.0535752 51.512456)) 
+        ("Musbury Street" "yes" 
+            (-0.0531427 51.5153931)) 
+        ("Musbury Street" "yes" 
+            (-0.0530889 51.5159073)) 
+        ("Jamaica Street" "yes" 
+            (-0.0488759 51.5168576)) 
+        ("Jamaica Street" "yes" 
+            (-0.0492394 51.5168618)) 
+        ("St Dunstan's Church" "yes" 
+            (-0.0448021 51.5166815)) 
+        ("St Dunstan's Church" "yes" 
+            (-0.0433389 51.5167127)) 
+        ("Harford Street" "yes" 
+            (-0.0395768 51.518024)) 
+        ("Harford Street" "yes" 
+            (-0.0392596 51.5180536)) 
+        ("Dongola Road" "yes" 
+            (-0.0387108 51.5188271)) 
+        ("Dongola Road" "yes" 
+            (-0.0387577 51.5191096)) 
+        ("Ernest Street" "yes" 
+            (-0.0392512 51.5219334)) 
+        ("Ernest Street" "yes" 
+            (-0.0392619 51.5219801)) 
+        ("Regents Canal" "yes" 
+            (-0.0370284 51.5242473)) 
+        ("Regents Canal" "yes" 
+            (-0.0367195 51.5243626)) 
+        ("Queen Mary / University of London" "yes" 
+            (-0.0392208 51.5232271)) 
+        ("Shipwright Road" "yes" 
+            (-0.0359501 51.4987559)) 
+        ("Ford Road" "yes" 
+            (-0.0334437 51.5321821)) 
+        ("Antill Road" "yes" 
+            (-0.0305781 51.5302018)) 
+        ("Shetland Road" "yes" 
+            (-0.0290527 51.5304725)) 
+        ("Usher Road" "yes" 
+            (-0.0260044 51.5320013)) 
+        ("Usher Road" "yes" 
+            (-0.0259039 51.5320485)) 
+        ("Duke's Place" "yes" 
+            (-0.0785262 51.5146114)) 
+        ("Aldgate East Station" "yes" 
+            (-0.0711836 51.5155197)) 
+        ("Ocean Estate" "yes" 
+            (-0.0425827 51.52237)) 
+        ("Queen Mary / University of London" "yes" 
+            (-0.0407663 51.5227464)) 
+        ("Aldgate East Station" "yes" 
+            (-0.0702702 51.5152932)) 
+        ("The Royal Courts of Justice" "yes" 
+            (-0.1143319 51.5131944)) 
+        ("Bedford Street" "yes" 
+            (-0.1231786 51.5097201)) 
+        ("Southampton Street / Covent Garden" "yes" 
+            (-0.1217815 51.5103773)) 
+        ("Aldwych / Drury Lane" "yes" 
+            (-0.1184583 51.512723)) 
+        ("Aldwych / Kingsway" "yes" 
+            (-0.1178866 51.5130503)) 
+        ("Mansell Street" "yes" 
+            (-0.0732129 51.5127425)) 
+        ("Tower of London" "yes" 
+            (-0.0751986 51.5097857)) 
+        ("Great Tower Street" "yes" 
+            (-0.0814266 51.5099848)) 
+        ("Great Tower Street" "yes" 
+            (-0.0813091 51.5099407)) 
+        ("Monument Station" "yes" 
+            (-0.0851753 51.5107254)) 
+        ("Monument Station" "yes" 
+            (-0.0849004 51.5107362)) 
+        ("St Paul's Cathedral" "yes" 
+            (-0.1010537 51.5137964)) 
+        ("City Thameslink Station / Ludgate Circus" "yes" 
+            (-0.1035977 51.5141475)) 
+        ("London Bridge" "yes" 
+            (-0.08754339999999999 51.5096917)) 
+        ("King William Street / Monument Station" "yes" 
+            (-0.0872304 51.5114013)) 
+        ("Gracechurch Street / Monument Station" "yes" 
+            (-0.0854929 51.5113436)) 
+        ("Fenchurch Street" "yes" 
+            (-0.08489679999999999 51.5122213)) 
+        ("Fenchurch Street" "yes" 
+            (-0.0854748 51.5113741)) 
+        ("Tower Gateway Station" "yes" 
+            (-0.0750688 51.5108077)) 
+        ("Tower Gateway Station" "yes" 
+            (-0.07497570000000001 51.5104636)) 
+        ("Tower Hill / Tower Gateway Station" "yes" 
+            (-0.07333099999999999 51.509717)) 
+        ("Aldwych" "yes" 
+            (-0.1189772 51.5119203)) 
+        ("Lancaster Place / Somerset House" "yes" 
+            (-0.1185343 51.5105762)) 
+        ("Kings Reach Building" "yes" 
+            (-0.1064116 51.5071607)) 
+        ("Kings Reach Building" "yes" 
+            (-0.1069011 51.5071485)) 
+        ("Blackfriars Road" "yes" 
+            (-0.1038904 51.5069214)) 
+        ("Blackfriars Road" "yes" 
+            (-0.103572 51.5067824)) 
+        ("Lavington Street" "yes" 
+            (-0.0987784 51.5054341)) 
+        ("Lavington Street" "yes" 
+            (-0.0981225 51.5053144)) 
+        ("Great Guildford Street" "yes" 
+            (-0.0964356 51.5050192)) 
+        ("Southwark Street / Southwark Bridge Road" "yes" 
+            (-0.0947233 51.5048362)) 
+        ("Southwark Bridge Road" "yes" 
+            (-0.0949246 51.5048537)) 
+        ("The Hop Exchange" "yes" 
+            (-0.0915425 51.5046985)) 
+        ("The Hop Exchange" "yes" 
+            (-0.09116539999999999 51.504708)) 
+        ("London Bridge Station" "yes" 
+            (-0.0859944 51.5057708)) 
+        ("Hay's Galleria" "yes" 
+            (-0.0841177 51.5050281)) 
+        ("Abbots Lane" "yes" 
+            (-0.0816674 51.5040995)) 
+        ("Unicorn Theatre" "yes" 
+            (-0.0799528 51.5034957)) 
+        ("City Hall" "yes" 
+            (-0.0779207 51.5029533)) 
+        ("Unicorn Theatre" "yes" 
+            (-0.08029890000000001 51.5035827)) 
+        ("Tower Bridge Road" "yes" 
+            (-0.0780685 51.5027345)) 
+        ("Tower Bridge" "yes" 
+            (-0.07663250000000001 51.5036301)) 
+        ("Tower Bridge" "yes" 
+            (-0.07692160000000001 51.5031896)) 
+        ("Westminster Cathedral" "yes" 
+            (-0.1399154 51.4968616)) 
+        ("Westminster Cathedral / Victoria Station" "yes" 
+            (-0.1411175 51.4966866)) 
+        ("Westminster City Hall" "yes" 
+            (-0.1378155 51.4971664)) 
+        ("Westminster City Hall" "yes" 
+            (-0.1367529 51.4973224)) 
+        ("Rochester Row" "yes" 
+            (-0.1391057 51.4932799)) 
+        ("Rochester Row" "yes" 
+            (-0.1373536 51.4924294)) 
+        ("Strutton Ground" "yes" 
+            (-0.1336194 51.4963282)) 
+        ("Strutton Ground" "yes" 
+            (-0.1335412 51.4962055)) 
+        ("Marsham Street" "yes" 
+            (-0.1309397 51.4948776)) 
+        ("Lambeth Palace" "yes" 
+            (-0.12078 51.4953019)) 
+        ("Lambeth Palace" "yes" 
+            (-0.1208434 51.495109)) 
+        ("Lambeth Palace" "yes" 
+            (-0.1208607 51.494969)) 
+        ("Lambeth Palace" "yes" 
+            (-0.119995 51.4944539)) 
+        ("Lambeth Palace" "yes" 
+            (-0.1190755 51.4947813)) 
+        ("Lambeth Palace" "yes" 
+            (-0.1189295 51.4948037)) 
+        ("St Thomas' Hospital / Evelina London" "yes" 
+            (-0.1183888 51.4978728)) 
+        ("St Thomas' Hospital" "yes" 
+            (-0.1172571 51.4985881)) 
+        ("St Thomas' Hospital / A & E Department" "yes" 
+            (-0.1168991 51.4994656)) 
+        ("County Hall" "yes" 
+            (-0.1165668 51.5022378)) 
+        ("County Hall" "yes" 
+            (-0.1166825 51.5020232)) 
+        ("London Eye" "yes" 
+            (-0.118025 51.5007255)) 
+        ("St Thomas' Hospital / County Hall" "yes" 
+            (-0.1195068 51.5007917)) 
+        ("St Thomas' Hospital / County Hall" "yes" 
+            (-0.1179655 51.5007982)) 
+        ("Waterloo Station / Tenison Way" "yes" 
+            (-0.1130838 51.5043015)) 
+        ("London Bridge" "yes" 
+            (-0.08821279999999999 51.5067393)) 
+        ("London Bridge" "yes" 
+            (-0.0880803 51.5066737)) 
+        ("Minories" "yes" 
+            (-0.0756107 51.5127759)) 
+        ("Aldgate Station" "yes" 
+            (-0.07474989999999999 51.5142237)) 
+        ("Embankment Station" "yes" 
+            (-0.1205865 51.508613)) 
+        ("Bricklayer's Arms / New Kent Road" "yes" 
+            (-0.08868760000000001 51.4942682)) 
+        ("Old Street" undefined 
+            (-0.0876724 51.525513)) 
+        ("Warren Street" undefined 
+            (-0.1390144 51.5245087)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.121758 51.5311084)) 
+        ("Tottenham Court Road" undefined 
+            (-0.1313998 51.5162451)) 
+        ("London St Pancras" undefined 
+            (-0.1273579 51.5322607)) 
+        ("London St Pancras" undefined 
+            (-0.1272687 51.5323457)) 
+        ("London St Pancras" undefined 
+            (-0.1272263 51.5323606)) 
+        ("London Blackfriars" undefined 
+            (-0.1031791 51.5088466)) 
+        ("London Blackfriars" undefined 
+            (-0.1031784 51.5107985)) 
+        ("Elephant & Castle" undefined 
+            (-0.0987418 51.4943434)) 
+        ("Elephant & Castle" undefined 
+            (-0.0987253 51.4935903)) 
+        ("Elephant & Castle" undefined 
+            (-0.0989336 51.4936143)) 
+        ("Piccadilly Circus" "yes" 
+            (-0.1373579 51.5099316)) 
+        ("Canada Water Bus Station" "yes" 
+            (-0.0499105 51.4982124)) 
+        ("Canada Water Bus Station" "yes" 
+            (-0.0500856 51.4984311)) 
+        ("Canada Water Bus Station" "yes" 
+            (-0.0502651 51.4981411)) 
+        ("Canada Water Bus Station" "yes" 
+            (-0.0500738 51.4978992)) 
+        ("Canada Water Bus Station" "yes" 
+            (-0.0499234 51.4976921)) 
+        ("Rotherhithe Police Station" "yes" 
+            (-0.0511947 51.4954542)) 
+        ("Rotherhithe Police Station" "yes" 
+            (-0.0506071 51.49497)) 
+        ("Coin Street" "yes" 
+            (-0.1095698 51.5063872)) 
+        ("Coin Street" "yes" 
+            (-0.1094254 51.5064459)) 
+        ("Tottenham Court Road" "yes" 
+            (-0.1287631 51.5162319)) 
+        ("Tottenham Court Road Station" "yes" 
+            (-0.1281314 51.5167329)) 
+        ("New Oxford Street" "yes" 
+            (-0.1265767 51.5165419)) 
+        ("New Oxford Street" "yes" 
+            (-0.1278492 51.5167759)) 
+        ("Museum Street" "yes" 
+            (-0.1246359 51.517434)) 
+        ("Holborn Station" "yes" 
+            (-0.1199931 51.5169368)) 
+        ("Drury Lane" "yes" 
+            (-0.1240715 51.5164687)) 
+        ("Lower Road / Surrey Quays Station" "yes" 
+            (-0.0455368 51.4922858)) 
+        ("Surrey Quays Station" "yes" 
+            (-0.0476867 51.4927737)) 
+        ("The Old Vic" "yes" 
+            (-0.1088763 51.5012911)) 
+        ("The Old Vic" "yes" 
+            (-0.1087112 51.5011352)) 
+        ("St George's Circus" "yes" 
+            (-0.104648 51.4998156)) 
+        ("St George's Circus" "yes" 
+            (-0.1046724 51.4994813)) 
+        ("St George's Circus" "yes" 
+            (-0.107891 51.4984353)) 
+        ("St George's Circus" "yes" 
+            (-0.1064126 51.4992717)) 
+        ("St George's Circus" "yes" 
+            (-0.1070859 51.499801)) 
+        ("Elephant & Castle / London Road" "yes" 
+            (-0.1019239 51.4964586)) 
+        ("Elephant & Castle / London Road" "yes" 
+            (-0.101583 51.4962015)) 
+        ("Elephant & Castle / London Road" "yes" 
+            (-0.1013334 51.4960159)) 
+        ("Elephant & Castle / London Road" "yes" 
+            (-0.1012645 51.4959552)) 
+        ("Elephant & Castle / London Road" "yes" 
+            (-0.1014827 51.4961319)) 
+        ("Elephant & Castle / New Kent Road" "yes" 
+            (-0.0987299 51.4949991)) 
+        ("Elephant & Castle / New Kent Road" "yes" 
+            (-0.0978893 51.4948534)) 
+        ("Elephant & Castle / New Kent Road" "yes" 
+            (-0.0978526 51.4947771)) 
+        ("Elephant & Castle / New Kent Road" "yes" 
+            (-0.09881379999999999 51.4950119)) 
+        ("Bush Road" "yes" 
+            (-0.0450894 51.4910921)) 
+        ("Bestwood Street" "yes" 
+            (-0.0419777 51.4899137)) 
+        ("Bestwood Street" "yes" 
+            (-0.041295 51.4894583)) 
+        ("Warndon Street" "yes" 
+            (-0.0505713 51.4910511)) 
+        ("Warndon Street" "yes" 
+            (-0.0491317 51.4911591)) 
+        ("Corbetts Lane" "yes" 
+            (-0.0531359 51.4908987)) 
+        ("Corbetts Lane" "yes" 
+            (-0.0540004 51.4907012)) 
+        ("Beamish House" "yes" 
+            (-0.0563247 51.4895718)) 
+        ("Rotherhithe New Road / South Bermondsey Station" "yes" 
+            (-0.0573741 51.4889287)) 
+        ("Galleywall Road / South Bermondsey Station" "yes" 
+            (-0.0580609 51.4890247)) 
+        ("Lynton Road" "yes" 
+            (-0.0596615 51.4902333)) 
+        ("Lynton Road" "yes" 
+            (-0.0599349 51.4905675)) 
+        ("Anchor Street" "yes" 
+            (-0.0606645 51.4917492)) 
+        ("Anchor Street" "yes" 
+            (-0.0610491 51.4921259)) 
+        ("Bricklayer's Arms / New Kent Road" "yes" 
+            (-0.08990570000000001 51.4941048)) 
+        ("Bricklayer's Arms / Tower Bridge Road" "yes" 
+            (-0.08400680000000001 51.4951961)) 
+        ("Bricklayer's Arms / Tower Bridge Road" "yes" 
+            (-0.0834158 51.4955836)) 
+        ("St James's Road / Southwark Park Road" "yes" 
+            (-0.06523569999999999 51.4918854)) 
+        ("Southwark Park Road / St James's Road" "yes" 
+            (-0.0646043 51.4922248)) 
+        ("Southwark Park Road / St James's Road" "yes" 
+            (-0.06562270000000001 51.492311)) 
+        ("Reverdy Road" "yes" 
+            (-0.0694873 51.4927349)) 
+        ("Harris Academy" "yes" 
+            (-0.07105889999999999 51.4927282)) 
+        ("Alscot Road" "yes" 
+            (-0.0742969 51.4936117)) 
+        ("Alscot Road" "yes" 
+            (-0.0743475 51.4936364)) 
+        ("Spa Road" "yes" 
+            (-0.0762023 51.4947722)) 
+        ("Spa Road" "yes" 
+            (-0.0775801 51.4954172)) 
+        ("Fendall Street" "yes" 
+            (-0.0782572 51.4956409)) 
+        ("Griggs Place" "yes" 
+            (-0.0807027 51.4964069)) 
+        ("Grange Road / Caledonian Market" "yes" 
+            (-0.0811952 51.4969672)) 
+        ("Grange Road / Caledonian Market" "yes" 
+            (-0.0823224 51.4964472)) 
+        ("Grange Road / Caledonian Market" "yes" 
+            (-0.08241800000000001 51.4963818)) 
+        ("Deptford Park School" "yes" 
+            (-0.0390269 51.488274)) 
+        ("Deptford Park School" "yes" 
+            (-0.0385242 51.4880225)) 
+        ("Deptford Park School" "yes" 
+            (-0.0372316 51.4881056)) 
+        ("Deptford Park School" "yes" 
+            (-0.0370274 51.48824)) 
+        ("Euston Square Station" "yes" 
+            (-0.1351889 51.5257545)) 
+        ("Bow Road Station" "yes" 
+            (-0.0257734 51.527045)) 
+        ("Coborn Road" "yes" 
+            (-0.0291643 51.5262958)) 
+        ("Coborn Road" "yes" 
+            (-0.0295378 51.526217)) 
+        ("Stepney Green Station" "yes" 
+            (-0.0469325 51.5226083)) 
+        ("Stepney Green Station" "yes" 
+            (-0.0466715 51.5223371)) 
+        ("Stepney Green Station" "yes" 
+            (-0.0466699 51.5217614)) 
+        ("Stepney Green Station" "yes" 
+            (-0.0469368 51.5217111)) 
+        ("Stepney Green" "yes" 
+            (-0.0510687 51.5208545)) 
+        ("Stepney Green" "yes" 
+            (-0.0492242 51.5212359)) 
+        ("Booth Memorial" "yes" 
+            (-0.0541762 51.5202356)) 
+        ("Booth Memorial" "yes" 
+            (-0.0531754 51.5204243)) 
+        ("Cambridge Heath Road" "yes" 
+            (-0.0574101 51.5196341)) 
+        ("Whitechapel Station / Royal London Hospital" "yes" 
+            (-0.058823 51.5193318)) 
+        ("Whitechapel Station / Royal London Hospital" "yes" 
+            (-0.0604438 51.518958)) 
+        ("The East London Mosque" "yes" 
+            (-0.06446350000000001 51.5180278)) 
+        ("The East London Mosque" "yes" 
+            (-0.0649788 51.5178836)) 
+        ("Altab Ali Park" "yes" 
+            (-0.0678831 51.5169073)) 
+        ("Altab Ali Park" "yes" 
+            (-0.0684852 51.5166215)) 
+        ("Blackfriars Pier" undefined 
+            (-0.100943 51.5106366)) 
+        ("Warren Street Station" "yes" 
+            (-0.1375228 51.5241091)) 
+        ("Warren Street Station / Tottenham Court Road" "yes" 
+            (-0.1392608 51.5246014)) 
+        ("University College Hospital / Euston Road" "yes" 
+            (-0.1367298 51.5252617)) 
+        ("Euston Road" "yes" 
+            (-0.138542 51.5257415)) 
+        ("Hampstead Road / Drummond Street" "yes" 
+            (-0.1386037 51.5260192)) 
+        ("Hampstead Road / Drummond Street" "yes" 
+            (-0.138578 51.5258572)) 
+        ("Euston Station" "yes" 
+            (-0.1347754 51.5274826)) 
+        ("Euston Station" "yes" 
+            (-0.1329756 51.5264994)) 
+        ("Euston Station" "yes" 
+            (-0.1331381 51.5264419)) 
+        ("Euston Station" "yes" 
+            (-0.1320835 51.5284897)) 
+        ("Euston Station / Eversholt Street" "yes" 
+            (-0.1324735 51.5288481)) 
+        ("Great Portland Street Station / Euston Road" "yes" 
+            (-0.1429186 51.5239882)) 
+        ("British Library" "yes" 
+            (-0.1283226 51.5282064)) 
+        ("St Pancras International Station" "yes" 
+            (-0.1246235 51.529793)) 
+        ("Penton Rise" "yes" 
+            (-0.1148353 51.5306832)) 
+        ("Angel Islington / City Road" "yes" 
+            (-0.1047845 51.5316208)) 
+        ("Angel Islington" "yes" 
+            (-0.1048643 51.5315762)) 
+        ("Angel Islington" "yes" 
+            (-0.1041062 51.5308596)) 
+        ("Central Street" "yes" 
+            (-0.099345 51.5301918)) 
+        ("Central Street" "yes" 
+            (-0.0993025 51.5301811)) 
+        ("Windsor Terrace" "yes" 
+            (-0.0935449 51.5287202)) 
+        ("Windsor Terrace" "yes" 
+            (-0.0933349 51.5286675)) 
+        ("Victoria Station" "yes" 
+            (-0.1424226 51.4960353)) 
+        ("Vauxhall Bridge Road / Victoria Station" "yes" 
+            (-0.1421944 51.4956676)) 
+        ("Neathouse Place" "yes" 
+            (-0.1419347 51.4952903)) 
+        ("Neathouse Place" "yes" 
+            (-0.1411042 51.4944189)) 
+        ("Pimlico Station" "yes" 
+            (-0.1332518 51.4890024)) 
+        ("Pimlico Station" "yes" 
+            (-0.1330778 51.4889796)) 
+        ("Pimlico Station" "yes" 
+            (-0.1321347 51.4898613)) 
+        ("Pimlico Station" "yes" 
+            (-0.1330352 51.4903528)) 
+        ("Stanford Street" "yes" 
+            (-0.134946 51.4912851)) 
+        ("Vauxhall Bridge / Millbank" "yes" 
+            (-0.1285169 51.4882682)) 
+        ("Victoria Station" "yes" 
+            (-0.1427633 51.4951876)) 
+        ("St Pancras International Station" "yes" 
+            (-0.1275456 51.5319467)) 
+        ("St Pancras International & King's Cross Stations" "yes" 
+            (-0.1245342 51.5305045)) 
+        ("Great Titchfield Street / Oxford Circus Station" "yes" 
+            (-0.1399498 51.5154965)) 
+        ("Great Titchfield Street / Oxford Circus Station" "yes" 
+            (-0.1387603 51.515669)) 
+        ("Wardour Street" "yes" 
+            (-0.1351279 51.5160358)) 
+        ("Wardour Street" "yes" 
+            (-0.135428 51.5159562)) 
+        ("Tottenham Court Road Station" "yes" 
+            (-0.1317116 51.5163526)) 
+        ("High Holborn" "yes" 
+            (-0.1214866 51.5174495)) 
+        ("New Oxford Street / High Holborn" "yes" 
+            (-0.1235785 51.51725)) 
+        ("Oxford Circus Station" "yes" 
+            (-0.1418015 51.5144661)) 
+        ("Oxford Circus Station" "yes" 
+            (-0.141722 51.5145536)) 
+        ("Margaret Street / Oxford Circus" "yes" 
+            (-0.142585 51.5167648)) 
+        ("John Prince's Street / Oxford Circus" "yes" 
+            (-0.1428132 51.5154617)) 
+        ("John Prince's Street / Oxford Circus" "yes" 
+            (-0.1429661 51.515519)) 
+        ("Savile Row" "yes" 
+            (-0.141422 51.5125988)) 
+        ("Conduit Street / Hamleys Toy Store" "yes" 
+            (-0.1400671 51.5123938)) 
+        ("Conduit Street / Hamleys Toy Store" "yes" 
+            (-0.1398817 51.5123387)) 
+        ("Beak Street / Hamleys Toy Store" "yes" 
+            (-0.1391413 51.5113339)) 
+        ("Beak Street / Hamleys Toy Store" "yes" 
+            (-0.1389615 51.5112816)) 
+        ("Piccadilly Circus" "yes" 
+            (-0.1362469 51.5091867)) 
+        ("Piccadilly Circus" "yes" 
+            (-0.1362401 51.509282)) 
+        ("Piccadilly Circus" "yes" 
+            (-0.1367526 51.5098465)) 
+        ("Piccadilly Circus" "yes" 
+            (-0.1370922 51.509961)) 
+        ("Piccadilly Circus" "yes" 
+            (-0.1355926 51.5100084)) 
+        ("Regent Street / St James's" "yes" 
+            (-0.1339993 51.5088809)) 
+        ("Regent Street / St James's" "yes" 
+            (-0.1338008 51.5086522)) 
+        ("Charles II Street" "yes" 
+            (-0.1329243 51.5080551)) 
+        ("Haymarket / Jermyn Street" "yes" 
+            (-0.1327376 51.5095778)) 
+        ("Haymarket / Charles II Street" "yes" 
+            (-0.1321722 51.5089672)) 
+        ("Westminster Station / Westminster Pier" "yes" 
+            (-0.1252441 51.5009674)) 
+        ("Parliament Square / Westminster Abbey" "yes" 
+            (-0.1268156 51.5002252)) 
+        ("Whitehall" "yes" 
+            (-0.1273698 51.5067902)) 
+        ("Whitehall / Trafalgar Square" "yes" 
+            (-0.1272307 51.506483)) 
+        ("Whitehall / Trafalgar Square" "yes" 
+            (-0.127109 51.5062712)) 
+        ("Whitehall / Horseguards Avenue" "yes" 
+            (-0.1265213 51.5052456)) 
+        ("Horse Guards Avenue" "yes" 
+            (-0.1254576 51.5049407)) 
+        ("Parliament Square / Westminster Station" "yes" 
+            (-0.1275191 51.5006829)) 
+        ("Upper Woburn Place / Euston Road" "yes" 
+            (-0.1305161 51.5270797)) 
+        ("Upper Woburn Place" "yes" 
+            (-0.1301343 51.5267716)) 
+        ("Parliament Square" "yes" 
+            (-0.1257287 51.4978538)) 
+        ("Abingdon Street" "yes" 
+            (-0.1257076 51.4976476)) 
+        ("Abingdon Street" "yes" 
+            (-0.1256758 51.497388)) 
+        ("Horseferry Road" "yes" 
+            (-0.1291871 51.4955602)) 
+        ("Horseferry Road" "yes" 
+            (-0.1291999 51.4956434)) 
+        ("Horseferry Road" "yes" 
+            (-0.1253241 51.4957206)) 
+        ("Horseferry Road" "yes" 
+            (-0.1253018 51.4956361)) 
+        ("Horseferry Road" "yes" 
+            (-0.1252739 51.4955299)) 
+        ("Horseferry Road" "yes" 
+            (-0.1252133 51.495318)) 
+        ("Wharfdale Road / London Canal Museum" "yes" 
+            (-0.1213901 51.5335414)) 
+        ("King's Cross Station / Pentonville Road" "yes" 
+            (-0.1209134 51.5314849)) 
+        ("Killick Street" "yes" 
+            (-0.1182091 51.5339082)) 
+        ("Killick Street" "yes" 
+            (-0.1180817 51.5340044)) 
+        ("Theobald's Road" "yes" 
+            (-0.1218623 51.5196157)) 
+        ("Southampton Row / Theobald's Road" "yes" 
+            (-0.1217531 51.5195173)) 
+        ("Southampton Row" "yes" 
+            (-0.1235498 51.5210196)) 
+        ("Russell Square Station" "yes" 
+            (-0.1261871 51.5231662)) 
+        ("Russell Square" "yes" 
+            (-0.126282 51.5232514)) 
+        ("British Museum" "yes" 
+            (-0.1253766 51.5185322)) 
+        ("British Museum" "yes" 
+            (-0.123983 51.5191206)) 
+        ("Bancroft Road / Ocean Estate" "yes" 
+            (-0.0446515 51.5221378)) 
+        ("Colebert Avenue" "yes" 
+            (-0.0486778 51.5246497)) 
+        ("Colebert Avenue" "yes" 
+            (-0.048957 51.5249263)) 
+        ("Portman Place" "yes" 
+            (-0.0504895 51.5266572)) 
+        ("Portman Place" "yes" 
+            (-0.0501243 51.5260405)) 
+        ("Mile End Road" "yes" 
+            (-0.0454484 51.5216913)) 
+        ("Mile End Road" "yes" 
+            (-0.0449815 51.5210458)) 
+        ("Stepney Green School" "yes" 
+            (-0.0431559 51.5189871)) 
+        ("Stepney Green School" "yes" 
+            (-0.0431272 51.5181285)) 
+        ("Copperfield Road" "yes" 
+            (-0.0340951 51.5180108)) 
+        ("Copperfield Road" "yes" 
+            (-0.033953 51.5179389)) 
+        ("Ackroyd Drive" "yes" 
+            (-0.0262069 51.5203264)) 
+        ("Ackroyd Drive" "yes" 
+            (-0.026071 51.5202627)) 
+        ("Burdett Road / St Paul's Church" "yes" 
+            (-0.0282957 51.5175512)) 
+        ("Burdett Road / St Paul's Church" "yes" 
+            (-0.0284248 51.5175192)) 
+        ("Kennington Road" "yes" 
+            (-0.1103996 51.4891229)) 
+        ("Kennington Road" "yes" 
+            (-0.1091424 51.4894917)) 
+        ("Kennington Lane" "yes" 
+            (-0.1111269 51.4900261)) 
+        ("Kennington Lane" "yes" 
+            (-0.1111396 51.4898254)) 
+        ("Fitzalan Street" "yes" 
+            (-0.1109887 51.4921204)) 
+        ("Fitzalan Street" "yes" 
+            (-0.1109349 51.4928361)) 
+        ("Kennington Road / Imperial War Museum" "yes" 
+            (-0.1112201 51.4960283)) 
+        ("Kennington Road / Imperial War Museum" "yes" 
+            (-0.11108 51.495785)) 
+        ("Kennington Road / Imperial War Museum" "yes" 
+            (-0.1108558 51.4947241)) 
+        ("Lambeth Road / Kennington Road" "yes" 
+            (-0.1126488 51.4961974)) 
+        ("Lambeth Road / Kennington Road" "yes" 
+            (-0.1122812 51.4962864)) 
+        ("Pratt Walk" "yes" 
+            (-0.1167495 51.4951975)) 
+        ("Pratt Walk" "yes" 
+            (-0.1166752 51.4952154)) 
+        ("London Liverpool Street" undefined 
+            (-0.0804704 51.517747)) 
+        ("Northumberland Avenue / Trafalgar Square" "yes" 
+            (-0.1266637 51.5072767)) 
+        ("London Bridge Station" "yes" 
+            (-0.08699900000000001 51.5059289)) 
+        ("Museum of London" "yes" 
+            (-0.0971602 51.5188799)) 
+        ("London Wall" "yes" 
+            (-0.0951939 51.5175266)) 
+        ("London Wall" "yes" 
+            (-0.09511749999999999 51.5174499)) 
+        ("London Wall / Moorgate Station" "yes" 
+            (-0.0897623 51.5175532)) 
+        ("Moorgate Station" "yes" 
+            (-0.089958 51.5174779)) 
+        ("Moorgate Station" "yes" 
+            (-0.0884687 51.5177927)) 
+        ("Moorgate Station" "yes" 
+            (-0.0880652 51.5186156)) 
+        ("All Hallows Church" "yes" 
+            (-0.0848868 51.5166397)) 
+        ("Wormwood Street" "yes" 
+            (-0.08265740000000001 51.5162294)) 
+        ("Wormwood Street" "yes" 
+            (-0.0822167 51.5162566)) 
+        ("Clegg Street" "yes" 
+            (-0.0569388 51.5055096)) 
+        ("Garnet Street" "yes" 
+            (-0.0555668 51.506493)) 
+        ("St Paul's Church" "yes" 
+            (-0.0531023 51.5096795)) 
+        ("Glamis Place" "yes" 
+            (-0.0504714 51.5102215)) 
+        ("Wellclose Street" "yes" 
+            (-0.0650951 51.5093099)) 
+        ("Wellclose Street" "yes" 
+            (-0.0647543 51.5093038)) 
+        ("St Katharine Docks" "yes" 
+            (-0.07075770000000001 51.5083647)) 
+        ("St Katharine Docks" "yes" 
+            (-0.071614 51.5083869)) 
+        ("Dundee Street" "yes" 
+            (-0.0605477 51.5032511)) 
+        ("Dundee Street" "yes" 
+            (-0.0609423 51.5033276)) 
+        ("Sampson Street" "yes" 
+            (-0.0637717 51.5037812)) 
+        ("Sampson Street" "yes" 
+            (-0.063345 51.5037245)) 
+        ("Hermitage Wall" "yes" 
+            (-0.06491420000000001 51.5051408)) 
+        ("Hermitage Wall" "yes" 
+            (-0.0646615 51.5050735)) 
+        ("Stockholm Way" "yes" 
+            (-0.0665149 51.5060895)) 
+        ("Nesham Street" "yes" 
+            (-0.0666414 51.5069165)) 
+        ("Bank Station / King William Street" "yes" 
+            (-0.0879255 51.5122563)) 
+        ("Bank Station / Princes Street" "yes" 
+            (-0.0895412 51.5142739)) 
+        ("Bank Station / Princes Street" "yes" 
+            (-0.08933729999999999 51.5139807)) 
+        ("Threadneedle Street" "yes" 
+            (-0.0838522 51.5141146)) 
+        ("Threadneedle Street" "yes" 
+            (-0.0839704 51.5138536)) 
+        ("Elephant & Castle / Newington Causeway" "yes" 
+            (-0.0993474 51.4970213)) 
+        ("Elephant & Castle / Newington Causeway" "yes" 
+            (-0.0998006 51.496455)) 
+        ("Elephant & Castle / Newington Causeway" "yes" 
+            (-0.0998508 51.4963521)) 
+        ("Liverpool Street" undefined 
+            (-0.08231810000000001 51.5184395)) 
+        ("Liverpool Street" undefined 
+            (-0.0821607 51.5183579)) 
+        ("Elephant & Castle Station" "yes" 
+            (-0.1007259 51.4941547)) 
+        ("Elephant & Castle Station" "yes" 
+            (-0.1005481 51.4942497)) 
+        ("Elephant & Castle Station" "yes" 
+            (-0.1007104 51.493954)) 
+        ("Pocock Street" "yes" 
+            (-0.1045506 51.5027476)) 
+        ("Pocock Street" "yes" 
+            (-0.104582 51.5020407)) 
+        ("Southwark Station" "yes" 
+            (-0.104479 51.5045313)) 
+        ("Southwark Station" "yes" 
+            (-0.1045475 51.503227)) 
+        ("Stamford Street" "yes" 
+            (-0.1044317 51.5065656)) 
+        ("Stamford Street" "yes" 
+            (-0.1044289 51.5059786)) 
+        ("Blackfriars Station / South Entrance" "yes" 
+            (-0.1043935 51.5084221)) 
+        ("Blackfriars Station / South Entrance" "yes" 
+            (-0.1044597 51.5088188)) 
+        ("Blackfriars Station / North Entrance" "yes" 
+            (-0.104177 51.5122376)) 
+        ("Blackfriars Station / North Entrance" "yes" 
+            (-0.1042805 51.5106615)) 
+        ("Apothecary Street" "yes" 
+            (-0.1042487 51.5134944)) 
+        ("Eagle Wharf Road" "yes" 
+            (-0.0884973 51.5345039)) 
+        ("New Change / Cannon Street" "yes" 
+            (-0.0963347 51.5135056)) 
+        ("Little Britain" "yes" 
+            (-0.09802429999999999 51.5175619)) 
+        ("Angel Street" "yes" 
+            (-0.0975061 51.5160948)) 
+        ("St Paul's Station" "yes" 
+            (-0.0977662 51.5151437)) 
+        ("St Paul's Station" "yes" 
+            (-0.0971646 51.5155617)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.0827638 51.5179036)) 
+        ("Appold Street" "yes" 
+            (-0.0811335 51.5217653)) 
+        ("St Giles High Street" "yes" 
+            (-0.1272496 51.5156162)) 
+        ("City Thameslink Station" "yes" 
+            (-0.1037468 51.516872)) 
+        ("Dunton Road" "yes" 
+            (-0.0768546 51.4884635)) 
+        ("Dunton Road" "yes" 
+            (-0.07747859999999999 51.4886245)) 
+        ("Clerkenwell Road" "yes" 
+            (-0.107486 51.5226647)) 
+        ("Shoreditch" "yes" 
+            (-0.0776333 51.5255986)) 
+        ("Shoreditch High Street Station" "yes" 
+            (-0.0773329 51.524915)) 
+        ("London Eye" "yes" 
+            (-0.1194587 51.5007901)) 
+        ("Canada Street" "yes" 
+            (-0.0457347 51.4973682)) 
+        ("Embankment" undefined 
+            (-0.1218816 51.5075217)) 
+        ("Bank" undefined 
+            (-0.08815480000000001 51.5119749)) 
+        ("Bank" undefined 
+            (-0.0876995 51.5120856)) 
+        ("King's Cross St Pancras" undefined 
+            (-0.1243368 51.5305509)) 
+        ("Embankment" undefined 
+            (-0.1222939 51.5072768)) 
+        ("Embankment" undefined 
+            (-0.1223598 51.5072951)) 
+        ("Borough Station / Great Dover Street" "yes" 
+            (-0.0923882 51.5001201)) 
+        ("Westferry Platform 1" undefined 
+            (-0.0262292 51.5092747)) 
+        ("Limehouse Platform 4" undefined 
+            (-0.0398455 51.51235)) 
+        ("Limehouse Platform 3" undefined 
+            (-0.0388153 51.5123341)) 
+        ("Mount Pleasant" "yes" 
+            (-0.1103896 51.5256176)) 
+        ("Kirby Estate" "yes" 
+            (-0.0605683 51.4981226)) 
+        ("Green Park Station" "yes" 
+            (-0.1423614 51.5069841)) 
+        ("Green Park Station" "yes" 
+            (-0.1428458 51.5067498)) 
+        ("Green Park Station" "yes" 
+            (-0.1423155 51.5070063)) 
+        ("Conduit Street / New Bond Street" "yes" 
+            (-0.1426382 51.51163)) 
+        ("Southwark" undefined 
+            (-0.1058778 51.5043931)) 
+        ("Bermondsey" undefined 
+            (-0.0642636 51.4978308)) 
+        ("St Martin's Place" "yes" 
+            (-0.12805 51.5098763)) 
+        ("Leicester Square Station" "yes" 
+            (-0.1283973 51.5105651)) 
+        ("Leicester Square Station" "yes" 
+            (-0.1284044 51.5109927)) 
+        ("Leicester Square Station" "yes" 
+            (-0.1283762 51.511599)) 
+        ("Cambridge Circus" "yes" 
+            (-0.1292869 51.5135454)) 
+        ("Cambridge Circus" "yes" 
+            (-0.1285557 51.5136864)) 
+        ("Cambridge Circus" "yes" 
+            (-0.1286666 51.5124896)) 
+        ("Denmark Street" "yes" 
+            (-0.1296457 51.5143032)) 
+        ("Gerrard Place / Chinatown" "yes" 
+            (-0.1302552 51.5126533)) 
+        ("Dean Street / Chinatown" "yes" 
+            (-0.1311583 51.5123171)) 
+        ("Trocadero / Haymarket" "yes" 
+            (-0.1335087 51.5111594)) 
+        ("Trocadero / Haymarket" "yes" 
+            (-0.1340296 51.5105865)) 
+        ("London College Of Communication" "yes" 
+            (-0.1021262 51.495327)) 
+        ("St George's Road / Imperial War Museum" "yes" 
+            (-0.1062334 51.4966651)) 
+        ("St George's Road / Imperial War Museum" "yes" 
+            (-0.1065826 51.4968362)) 
+        ("Lambeth North Station" "yes" 
+            (-0.1121168 51.498106)) 
+        ("Lambeth North Station" "yes" 
+            (-0.1119456 51.4975161)) 
+        ("Lambeth North Station" "yes" 
+            (-0.1112003 51.4984678)) 
+        ("Lambeth North Station" "yes" 
+            (-0.1114484 51.4985364)) 
+        ("Lower Marsh" "yes" 
+            (-0.1137558 51.4995313)) 
+        ("Lower Marsh" "yes" 
+            (-0.1147084 51.5000494)) 
+        ("Imperial War Museum" "yes" 
+            (-0.1097651 51.4968717)) 
+        ("Imperial War Museum" "yes" 
+            (-0.1106965 51.4966451)) 
+        ("Lambeth Road" "yes" 
+            (-0.1065696 51.4976948)) 
+        ("Baylis Road / Lambeth North Station" "yes" 
+            (-0.1116195 51.4997142)) 
+        ("Lower Marsh" "yes" 
+            (-0.1107884 51.5006686)) 
+        ("Baylis Road / Lower Marsh" "yes" 
+            (-0.1105358 51.5012265)) 
+        ("Tottenham Court Road Station / Great Russell Street" "yes" 
+            (-0.130006 51.5172648)) 
+        ("Tottenham Court Road Station" "yes" 
+            (-0.1313562 51.5176704)) 
+        ("York Way / Kings Place" "yes" 
+            (-0.1223065 51.5344063)) 
+        ("Goodge Street Station" "yes" 
+            (-0.1348965 51.5211655)) 
+        ("Elephant & Castle" undefined 
+            (-0.1005974 51.4949545)) 
+        ("Bloomsbury Square" "yes" 
+            (-0.1220483 51.5185469)) 
+        ("Bloomsbury Square" "yes" 
+            (-0.1217949 51.5186575)) 
+        ("Red Lion Square" "yes" 
+            (-0.1195743 51.5188882)) 
+        ("Kennington Station" "yes" 
+            (-0.1055747 51.4886996)) 
+        ("Renfrew Road" "yes" 
+            (-0.1066367 51.4905072)) 
+        ("Renfrew Road" "yes" 
+            (-0.1056835 51.4908714)) 
+        ("Penton Place" "yes" 
+            (-0.104192 51.4900275)) 
+        ("Penton Place" "yes" 
+            (-0.1040631 51.4901575)) 
+        ("Newington Butts" "yes" 
+            (-0.1026203 51.4917605)) 
+        ("Newington Butts" "yes" 
+            (-0.1023058 51.4918891)) 
+        ("Aldgate East" undefined 
+            (-0.070814 51.5156136)) 
+        ("Aldgate East" undefined 
+            (-0.0708317 51.5156316)) 
+        ("Montague Street" "yes" 
+            (-0.1259587 51.5202382)) 
+        ("Bedford Place" "yes" 
+            (-0.1249082 51.5207719)) 
+        ("Russell Square" "yes" 
+            (-0.1266101 51.5235396)) 
+        ("Russell Square" "yes" 
+            (-0.1271549 51.5222458)) 
+        ("Russell Square" "yes" 
+            (-0.1255689 51.5208872)) 
+        ("Bedford Way" "yes" 
+            (-0.1277064 51.5231768)) 
+        ("Tavistock Square" "yes" 
+            (-0.1271365 51.5240136)) 
+        ("Canada Water" undefined 
+            (-0.0484821 51.4981041)) 
+        ("Bank" undefined 
+            (-0.0917442 51.5128052)) 
+        ("Bank" undefined 
+            (-0.0916482 51.5126917)) 
+        ("Farringdon" undefined 
+            (-0.0995101 51.5202383)) 
+        ("Clerkenwell Road" "yes" 
+            (-0.1067037 51.5217936)) 
+        ("Finsbury Square" "yes" 
+            (-0.0857252 51.5208478)) 
+        ("Finsbury Square" "yes" 
+            (-0.0871257 51.5211967)) 
+        ("Finsbury Square" "yes" 
+            (-0.0871907 51.5209058)) 
+        ("Farringdon Station" "yes" 
+            (-0.1059571 51.5205112)) 
+        ("Russell Square" undefined 
+            (-0.1242071 51.5230956)) 
+        ("Russell Square" undefined 
+            (-0.1242948 51.5230976)) 
+        ("Red Lion Street" "yes" 
+            (-0.1184947 51.520187)) 
+        ("Gray's Inn Road" "yes" 
+            (-0.1142987 51.5212563)) 
+        ("Gray's Inn Road" "yes" 
+            (-0.1124209 51.5201375)) 
+        ("Gray's Inn Road / Theobalds Road" "yes" 
+            (-0.1129918 51.5210284)) 
+        ("Theobalds Road / Clerkenwell Road" "yes" 
+            (-0.1129047 51.5208928)) 
+        ("Holborn Circus / Fetter Lane" "yes" 
+            (-0.1092758 51.5179691)) 
+        ("Holborn Circus / Fetter Lane" "yes" 
+            (-0.1093763 51.5178729)) 
+        ("Charterhouse Street" "yes" 
+            (-0.1062977 51.5182296)) 
+        ("Fleet Street / City Thameslink" "yes" 
+            (-0.1045536 51.5152219)) 
+        ("Fleet Street / City Thameslink" "yes" 
+            (-0.104506 51.5150352)) 
+        ("Snow Hill" "yes" 
+            (-0.1052407 51.5180312)) 
+        ("Snow Hill" "yes" 
+            (-0.1052229 51.5179625)) 
+        ("Farringdon Station" "yes" 
+            (-0.1058441 51.5202111)) 
+        ("Rosebery Avenue" "yes" 
+            (-0.1116381 51.5218528)) 
+        ("Rosebery Avenue" "yes" 
+            (-0.1115821 51.5218628)) 
+        ("Hatton Garden" "yes" 
+            (-0.1089149 51.5220468)) 
+        ("Swinton Street" "yes" 
+            (-0.1199994 51.5292745)) 
+        ("Swinton Street" "yes" 
+            (-0.1185449 51.5288321)) 
+        ("King's Cross Road / Pentonville Road" "yes" 
+            (-0.1182181 51.5306075)) 
+        ("Acton Street" "yes" 
+            (-0.115693 51.5285459)) 
+        ("Acton Street" "yes" 
+            (-0.1180524 51.5283836)) 
+        ("Acton Street" "yes" 
+            (-0.11865 51.5276435)) 
+        ("Gray's Inn Road / Rosebery Avenue" "yes" 
+            (-0.1137571 51.5220863)) 
+        ("Clerkenwell Road / Rosebery Avenue" "yes" 
+            (-0.1138324 51.5221934)) 
+        ("Guilford Street" "yes" 
+            (-0.1154719 51.5239696)) 
+        ("Guilford Street" "yes" 
+            (-0.1162502 51.5246571)) 
+        ("Heathcote Street" "yes" 
+            (-0.1173136 51.5256619)) 
+        ("Bowling Green Lane" "yes" 
+            (-0.1092259 51.5239887)) 
+        ("Rosebery Avenue / Mount Pleasant" "yes" 
+            (-0.1112238 51.5254239)) 
+        ("Rosebery Avenue / Mount Pleasant" "yes" 
+            (-0.1096653 51.5243066)) 
+        ("Calthorpe Street" "yes" 
+            (-0.1123825 51.5260956)) 
+        ("Gwynne Place" "yes" 
+            (-0.1149975 51.527395)) 
+        ("Clerkenwell Road" "yes" 
+            (-0.1117105 51.5226798)) 
+        ("Rosebery Avenue" "yes" 
+            (-0.111583 51.5229834)) 
+        ("Mount Pleasant" "yes" 
+            (-0.1112412 51.5237646)) 
+        ("Mount Pleasant" "yes" 
+            (-0.1104711 51.5254421)) 
+        ("Tysoe Street" "yes" 
+            (-0.1095345 51.526198)) 
+        ("Finsbury Town Hall" "yes" 
+            (-0.1080978 51.5271408)) 
+        ("London Bridge" undefined 
+            (-0.0835685 51.5035243)) 
+        ("London Bridge" undefined 
+            (-0.0857212 51.5049208)) 
+        ("London Bridge" undefined 
+            (-0.0859022 51.5048649)) 
+        ("London Bridge" undefined 
+            (-0.083428 51.5035718)) 
+        ("Shoreditch Town Hall" "yes" 
+            (-0.0793903 51.5272419)) 
+        ("Hackney Road / Columbia Road" "yes" 
+            (-0.0763644 51.5278436)) 
+        ("Shoreditch Church" "yes" 
+            (-0.0779755 51.5279093)) 
+        ("Waterson Street" "yes" 
+            (-0.0779358 51.5284316)) 
+        ("Clerkenwell Road / St John Street" "yes" 
+            (-0.1011272 51.5226613)) 
+        ("Goswell Road" "yes" 
+            (-0.0995765 51.5230989)) 
+        ("Goswell Road" "yes" 
+            (-0.09748229999999999 51.5236688)) 
+        ("Central Street" "yes" 
+            (-0.0966709 51.5239601)) 
+        ("St Luke's Music Education Centre" "yes" 
+            (-0.0935634 51.5247711)) 
+        ("St Luke's Music Education Centre" "yes" 
+            (-0.0925409 51.5249877)) 
+        ("Bunhill Row" "yes" 
+            (-0.0897984 51.5253877)) 
+        ("Angel Station" "yes" 
+            (-0.1057102 51.5334184)) 
+        ("Elder Street" "yes" 
+            (-0.07684539999999999 51.5223448)) 
+        ("Elder Street" "yes" 
+            (-0.0761048 51.5217703)) 
+        ("Brushfield Street" "yes" 
+            (-0.0744877 51.5188588)) 
+        ("Brushfield Street" "yes" 
+            (-0.0744734 51.5186917)) 
+        ("Folgate Street" "yes" 
+            (-0.07468959999999999 51.5205515)) 
+        ("Lolesworth Close" "yes" 
+            (-0.07384599999999999 51.5177226)) 
+        ("Lolesworth Close" "yes" 
+            (-0.0735088 51.5173168)) 
+        ("Falkirk Street" "yes" 
+            (-0.07746309999999999 51.5296766)) 
+        ("Hoxton Station / Museum of the Home" "yes" 
+            (-0.07702829999999999 51.531662)) 
+        ("Hoxton Station / Museum of the Home" "yes" 
+            (-0.07727779999999999 51.5302188)) 
+        ("Museum of the Home" "yes" 
+            (-0.0770682 51.5323231)) 
+        ("Pearson Street" "yes" 
+            (-0.0771361 51.5327768)) 
+        ("St Leonard's Hospital" "yes" 
+            (-0.0770407 51.5339804)) 
+        ("St Leonard's Hospital" "yes" 
+            (-0.07706349999999999 51.5337852)) 
+        ("Penton Street / Islington Police Station" "yes" 
+            (-0.1106037 51.5341264)) 
+        ("Chapel Market" "yes" 
+            (-0.1078821 51.5344788)) 
+        ("Inner London Crown Court" "yes" 
+            (-0.09777429999999999 51.498465)) 
+        ("Inner London Crown Court" "yes" 
+            (-0.0977259 51.4985068)) 
+        ("Borough Station" "yes" 
+            (-0.0940435 51.5006946)) 
+        ("Borough Station" "yes" 
+            (-0.0938142 51.5008293)) 
+        ("Union Street" "yes" 
+            (-0.09191000000000001 51.5029813)) 
+        ("Union Street" "yes" 
+            (-0.0922079 51.5025652)) 
+        ("Southwark Street" "yes" 
+            (-0.09104139999999999 51.5040303)) 
+        ("Bartholomew Street" "yes" 
+            (-0.0872889 51.4956381)) 
+        ("Bartholomew Street" "yes" 
+            (-0.0877848 51.4959652)) 
+        ("Blackhorse Court" "yes" 
+            (-0.0888424 51.4968101)) 
+        ("Trinity Street / The Roebuck" "yes" 
+            (-0.0906776 51.4983934)) 
+        ("Trinity Street / The Roebuck" "yes" 
+            (-0.09144960000000001 51.4990462)) 
+        ("Borough Station / Great Dover Street" "yes" 
+            (-0.09250419999999999 51.5002996)) 
+        ("Borough Road" "yes" 
+            (-0.099731 51.499517)) 
+        ("Great Suffolk Street" "yes" 
+            (-0.0983492 51.5012032)) 
+        ("Marshalsea Road" "yes" 
+            (-0.0973861 51.5025065)) 
+        ("Marshalsea Road" "yes" 
+            (-0.0964729 51.5028388)) 
+        ("Southwark Street" "yes" 
+            (-0.0956866 51.5045143)) 
+        ("Southwark Bridge / Bankside Pier" "yes" 
+            (-0.09501229999999999 51.5071453)) 
+        ("Shakespear's Globe Theatre" "yes" 
+            (-0.0947311 51.5077339)) 
+        ("Queen Street Place" "yes" 
+            (-0.0934039 51.5100013)) 
+        ("Abbey Street" "yes" 
+            (-0.07956489999999999 51.4981244)) 
+        ("Abbey Street" "yes" 
+            (-0.0791351 51.499041)) 
+        ("Druid Street" "yes" 
+            (-0.07833039999999999 51.5008028)) 
+        ("Druid Street" "yes" 
+            (-0.0778031 51.5018504)) 
+        ("Crucifix Lane" "yes" 
+            (-0.0813342 51.5021568)) 
+        ("Old Jamaica Road" "yes" 
+            (-0.0712641 51.4983342)) 
+        ("Maltby Street" "yes" 
+            (-0.0745055 51.4979486)) 
+        ("Maltby Street" "yes" 
+            (-0.0750638 51.4978924)) 
+        ("The Grange" "yes" 
+            (-0.0771618 51.4976813)) 
+        ("The Grange" "yes" 
+            (-0.0784633 51.497558)) 
+        ("Bermondsey Street" "yes" 
+            (-0.0805356 51.4978154)) 
+        ("Bermondsey Street" "yes" 
+            (-0.08221050000000001 51.4980698)) 
+        ("Staple Street" "yes" 
+            (-0.0875393 51.5000092)) 
+        ("Staple Street" "yes" 
+            (-0.0868568 51.4997029)) 
+        ("Tennis Street" "yes" 
+            (-0.0900058 51.5009233)) 
+        ("Tennis Street" "yes" 
+            (-0.09141870000000001 51.5010777)) 
+        ("Surrey Quays Road" "yes" 
+            (-0.0530057 51.4968612)) 
+        ("Neptune Street / St Olaves Estate" "yes" 
+            (-0.0543461 51.4979426)) 
+        ("Surrey Quays Leisure Park" "yes" 
+            (-0.0458209 51.4955526)) 
+        ("Southwark Park" "yes" 
+            (-0.0571317 51.4990078)) 
+        ("Southwark Park" "yes" 
+            (-0.0574081 51.4989046)) 
+        ("Drummond Road" "yes" 
+            (-0.061302 51.4984526)) 
+        ("Drummond Road" "yes" 
+            (-0.0624372 51.4983659)) 
+        ("Bermondsey Station" "yes" 
+            (-0.06485059999999999 51.4980415)) 
+        ("Bermondsey Station" "yes" 
+            (-0.0654807 51.4979787)) 
+        ("St James's Road" "yes" 
+            (-0.0675939 51.4980557)) 
+        ("Jamaica Road / Abbey Street" "yes" 
+            (-0.0694379 51.4985216)) 
+        ("Dockhead" "yes" 
+            (-0.0720155 51.4996645)) 
+        ("Dockhead" "yes" 
+            (-0.0730335 51.5001386)) 
+        ("Raymouth Road" "yes" 
+            (-0.0589236 51.4925529)) 
+        ("Raymouth Road" "yes" 
+            (-0.0579823 51.4928488)) 
+        ("Stalham Street" "yes" 
+            (-0.058699 51.4946532)) 
+        ("Stalham Street" "yes" 
+            (-0.0596492 51.495234)) 
+        ("Gataker Street" "yes" 
+            (-0.0601277 51.4962556)) 
+        ("Kirby Estate" "yes" 
+            (-0.0604111 51.4973925)) 
+        ("Riverside Youth Club" "yes" 
+            (-0.0345408 51.4889551)) 
+        ("Riverside Youth Club" "yes" 
+            (-0.0345392 51.4888901)) 
+        ("Windlass Place" "yes" 
+            (-0.0345903 51.4900271)) 
+        ("Grove Street / Plough Way" "yes" 
+            (-0.0344412 51.4921302)) 
+        ("Grove Street / Plough Way" "yes" 
+            (-0.0344605 51.4922417)) 
+        ("Dunnage Crescent" "yes" 
+            (-0.0357213 51.4925142)) 
+        ("Dunnage Crescent" "yes" 
+            (-0.0363186 51.492397)) 
+        ("Yeoman Street" "yes" 
+            (-0.0411431 51.4925793)) 
+        ("Yeoman Street" "yes" 
+            (-0.0409098 51.4926402)) 
+        ("Marsham Street" "yes" 
+            (-0.1301137 51.4948655)) 
+        ("London Bridge" undefined 
+            (-0.0830533 51.5034898)) 
+        ("Brunswick Quay" "yes" 
+            (-0.0431847 51.4955501)) 
+        ("Brunswick Quay" "yes" 
+            (-0.0422094 51.4959171)) 
+        ("Onega Gate" "yes" 
+            (-0.0393192 51.4966275)) 
+        ("Shipwright Road" "yes" 
+            (-0.0368975 51.4980821)) 
+        ("Smith Close" "yes" 
+            (-0.0464867 51.5039851)) 
+        ("Smith Close" "yes" 
+            (-0.0462129 51.5041409)) 
+        ("Rotherhithe Station" "yes" 
+            (-0.0525628 51.5003428)) 
+        ("Rotherhithe Station" "yes" 
+            (-0.0520228 51.500636)) 
+        ("Downtown Road" "yes" 
+            (-0.0353192 51.500174)) 
+        ("Downtown Road" "yes" 
+            (-0.0353203 51.5000726)) 
+        ("Russia Dock Road" "yes" 
+            (-0.0358362 51.5029294)) 
+        ("Russia Dock Road" "yes" 
+            (-0.0358252 51.5028655)) 
+        ("Bywater Place" "yes" 
+            (-0.0365365 51.5046681)) 
+        ("Bywater Place" "yes" 
+            (-0.0364468 51.5045678)) 
+        ("Peter Hills School" "yes" 
+            (-0.0418115 51.5055237)) 
+        ("Peter Hills School" "yes" 
+            (-0.0408049 51.5056239)) 
+        ("Bryan Road / Surrey Docks Farm" "yes" 
+            (-0.033335 51.5012784)) 
+        ("Bryan Road / Surrey Docks Farm" "yes" 
+            (-0.03432 51.5000671)) 
+        ("Doubletree Docklands / Nelson Dock Pier" "yes" 
+            (-0.0338603 51.5036301)) 
+        ("Pageant Steps" "yes" 
+            (-0.0359274 51.5064606)) 
+        ("Pageant Steps" "yes" 
+            (-0.0347082 51.5060319)) 
+        ("Lavender Road" "yes" 
+            (-0.0368604 51.5066311)) 
+        ("Essex House" "yes" 
+            (-0.0400483 51.5069387)) 
+        ("King & Queen Wharf" "yes" 
+            (-0.0433409 51.506554)) 
+        ("Great Swan Alley" "yes" 
+            (-0.08919820000000001 51.5160089)) 
+        ("London Wall" "yes" 
+            (-0.0893709 51.5155628)) 
+        ("Finsbury Square / Moorgate" "yes" 
+            (-0.0874134 51.5200372)) 
+        ("Finsbury Square / Moorgate" "yes" 
+            (-0.0862689 51.520391)) 
+        ("Finsbury Square" "yes" 
+            (-0.0858589 51.5214788)) 
+        ("Finsbury Square" "yes" 
+            (-0.085762 51.520682)) 
+        ("London Waterloo" undefined 
+            (-0.1118781 51.5023534)) 
+        ("Bevenden Street" "yes" 
+            (-0.0865759 51.5300217)) 
+        ("Bevenden Street" "yes" 
+            (-0.08676449999999999 51.5298474)) 
+        ("Mintern Street" "yes" 
+            (-0.087128 51.5326007)) 
+        ("Mintern Street" "yes" 
+            (-0.0868143 51.5321874)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.07958510000000001 51.5185388)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.0791848 51.5192588)) 
+        ("Old Kent Road / East Street" "yes" 
+            (-0.08214920000000001 51.4914468)) 
+        ("Buckingham Palace" "yes" 
+            (-0.1422867 51.4996645)) 
+        ("Bressenden Place / Victoria Station" "yes" 
+            (-0.1420724 51.4974996)) 
+        ("Tothill Street / St James's Park Station" "yes" 
+            (-0.1322901 51.499699)) 
+        ("St James's Park Station" "yes" 
+            (-0.1343723 51.497736)) 
+        ("St James's Park Station" "yes" 
+            (-0.1347698 51.4976329)) 
+        ("Great Smith Street / Westminster Abbey" "yes" 
+            (-0.1315159 51.4987361)) 
+        ("Westminster Abbey" "yes" 
+            (-0.1317558 51.4986474)) 
+        ("Westminster Abbey" "yes" 
+            (-0.1308534 51.4989858)) 
+        ("Westminster Abbey" "yes" 
+            (-0.1299173 51.4986548)) 
+        ("Westminster Abbey" "yes" 
+            (-0.1304723 51.4991262)) 
+        ("Westminster Abbey" "yes" 
+            (-0.1298431 51.4989232)) 
+        ("Westminster Abbey" "yes" 
+            (-0.1298949 51.4987402)) 
+        ("London Waterloo" undefined 
+            (-0.11175 51.5022788)) 
+        ("London Waterloo" undefined 
+            (-0.1119183 51.5023763)) 
+        ("London Waterloo" undefined 
+            (-0.1133034 51.5031651)) 
+        ("London Waterloo" undefined 
+            (-0.1132445 51.5031315)) 
+        ("London Waterloo" undefined 
+            (-0.1131168 51.5030588)) 
+        ("London Waterloo" undefined 
+            (-0.1130669 51.5030304)) 
+        ("London Waterloo" undefined 
+            (-0.1129392 51.5029577)) 
+        ("London Waterloo" undefined 
+            (-0.1129011 51.5029359)) 
+        ("London Waterloo" undefined 
+            (-0.112059 51.5024564)) 
+        ("London Waterloo" undefined 
+            (-0.1121309 51.5024974)) 
+        ("London Waterloo" undefined 
+            (-0.112252 51.5025663)) 
+        ("London Waterloo" undefined 
+            (-0.1122885 51.5025871)) 
+        ("London Waterloo" undefined 
+            (-0.1124354 51.5026708)) 
+        ("London Waterloo" undefined 
+            (-0.1124875 51.5027004)) 
+        ("London Waterloo" undefined 
+            (-0.1126826 51.5028116)) 
+        ("London Waterloo" undefined 
+            (-0.1126524 51.5027943)) 
+        ("Millbank" "yes" 
+            (-0.1273493 51.4948491)) 
+        ("London Waterloo" undefined 
+            (-0.113519 51.5032502)) 
+        ("London Waterloo" undefined 
+            (-0.1134702 51.5032267)) 
+        ("London Waterloo" undefined 
+            (-0.1142872 51.5034557)) 
+        ("London Waterloo" undefined 
+            (-0.1141566 51.5033926)) 
+        ("London Waterloo" undefined 
+            (-0.1140716 51.5033575)) 
+        ("London Waterloo" undefined 
+            (-0.1139149 51.5032798)) 
+        ("London Waterloo" undefined 
+            (-0.1138342 51.5032496)) 
+        ("Vauxhall Bridge Road" "yes" 
+            (-0.1280106 51.489468)) 
+        ("Vauxhall Bridge Road" "yes" 
+            (-0.1278506 51.4894446)) 
+        ("Tate Britain / Millbank Millennium Pier" "yes" 
+            (-0.1258299 51.4914172)) 
+        ("Tate Britain / Millbank Millennium Pier" "yes" 
+            (-0.1261978 51.4908153)) 
+        ("Millbank Tower" "yes" 
+            (-0.1251278 51.4935128)) 
+        ("Lambeth Bridge" "yes" 
+            (-0.125132 51.4935867)) 
+        ("Ponsonby Terrace" "yes" 
+            (-0.130488 51.4895906)) 
+        ("Tate Britain" "yes" 
+            (-0.128703 51.4915603)) 
+        ("Tate Britain" "yes" 
+            (-0.1282411 51.492118)) 
+        ("Page Street" "yes" 
+            (-0.1290061 51.4941825)) 
+        ("Page Street" "yes" 
+            (-0.128971 51.4938211)) 
+        ("Pimlico Academy & Library" "yes" 
+            (-0.1377721 51.4882429)) 
+        ("Alderney Street" "yes" 
+            (-0.1397225 51.4879595)) 
+        ("St George's Square / Pimlico Station" "yes" 
+            (-0.1353116 51.4890066)) 
+        ("St George's Square / Pimlico Station" "yes" 
+            (-0.1354132 51.4890536)) 
+        ("Belgrave Road" "yes" 
+            (-0.1387826 51.4906565)) 
+        ("Belgrave Road" "yes" 
+            (-0.1384965 51.4905216)) 
+        ("Warwick Way" "yes" 
+            (-0.1405929 51.4927951)) 
+        ("Warwick Way" "yes" 
+            (-0.1408911 51.4930353)) 
+        ("Holborn Station" "yes" 
+            (-0.1184294 51.5177638)) 
+        ("Old Kent Road / East Street" "yes" 
+            (-0.08185290000000001 51.4913585)) 
+        ("Dunton Road" "yes" 
+            (-0.07744819999999999 51.4887539)) 
+        ("Humphrey Street" "yes" 
+            (-0.0757154 51.4883857)) 
+        ("Dunton Road / Old Kent Road" "yes" 
+            (-0.0770546 51.489635)) 
+        ("Lynton Road" "yes" 
+            (-0.0750929 51.4916254)) 
+        ("Lynton Road" "yes" 
+            (-0.07574309999999999 51.4908605)) 
+        ("Longfield Estate" "yes" 
+            (-0.0743785 51.4925178)) 
+        ("Longfield Estate" "yes" 
+            (-0.0741247 51.4928354)) 
+        ("Waterloo Station" "yes" 
+            (-0.1154266 51.5035021)) 
+        ("London Eye" "yes" 
+            (-0.1166205 51.5046736)) 
+        ("Jubilee Gardens" "yes" 
+            (-0.1168813 51.5043321)) 
+        ("Farringdon" undefined 
+            (-0.1038374 51.5194647)) 
+        ("Tinworth Street" "yes" 
+            (-0.1225517 51.4904752)) 
+        ("Salamanca Street" "yes" 
+            (-0.1222018 51.491249)) 
+        ("Lambeth Bridge" "yes" 
+            (-0.1214428 51.4932184)) 
+        ("Lambeth Bridge" "yes" 
+            (-0.1213362 51.4934936)) 
+        ("City Thameslink Station" "yes" 
+            (-0.1028455 51.5165491)) 
+        ("Hotspur Street" "yes" 
+            (-0.1120206 51.4895299)) 
+        ("Mary Lee Way" "yes" 
+            (-0.1149365 51.4901585)) 
+        ("Tyers Street" "yes" 
+            (-0.1177262 51.4912712)) 
+        ("Tyers Street" "yes" 
+            (-0.1175376 51.4911876)) 
+        ("Cavell Street" "yes" 
+            (-0.0574617 51.5185907)) 
+        ("Bethnal Green" undefined 
+            (-0.0609003 51.5238296)) 
+        ("Darling Row" "yes" 
+            (-0.0559933 51.5212569)) 
+        ("Darling Row" "yes" 
+            (-0.0560699 51.5211388)) 
+        ("Cephas Street" "yes" 
+            (-0.0549589 51.5230849)) 
+        ("Three Colts Lane" "yes" 
+            (-0.0550725 51.5253079)) 
+        ("Three Colts Lane" "yes" 
+            (-0.0549889 51.5250453)) 
+        ("London Liverpool Street" undefined 
+            (-0.08093259999999999 51.5178392)) 
+        ("London Liverpool Street" undefined 
+            (-0.0809937 51.5178528)) 
+        ("London Liverpool Street" undefined 
+            (-0.0811457 51.5178868)) 
+        ("London Liverpool Street" undefined 
+            (-0.0812142 51.5179021)) 
+        ("Old Bond Street / Royal Academy" "yes" 
+            (-0.1395453 51.508136)) 
+        ("Newington Butts" "yes" 
+            (-0.1021093 51.4920941)) 
+        ("Boss Street" "yes" 
+            (-0.0771705 51.502127)) 
+        ("Tanner Street" "yes" 
+            (-0.0747342 51.5007744)) 
+        ("Boss Street" "yes" 
+            (-0.0764816 51.5016837)) 
+        ("London Blackfriars" undefined 
+            (-0.1033221 51.5106161)) 
+        ("London Blackfriars" undefined 
+            (-0.1033697 51.5106181)) 
+        ("London St Pancras" undefined 
+            (-0.1270408 51.5323334)) 
+        ("London St Pancras" undefined 
+            (-0.1266253 51.5328019)) 
+        ("London St Pancras" undefined 
+            (-0.1264972 51.5328319)) 
+        ("London St Pancras" undefined 
+            (-0.1264611 51.5328442)) 
+        ("Shadwell" undefined 
+            (-0.0568876 51.5110619)) 
+        ("Shadwell" undefined 
+            (-0.0569813 51.5120817)) 
+        ("Tower Gateway Platform 2" undefined 
+            (-0.0732628 51.5106259)) 
+        ("London Fenchurch Street" undefined 
+            (-0.077794 51.5114999)) 
+        ("London Fenchurch Street" undefined 
+            (-0.0778324 51.5114234)) 
+        ("London Fenchurch Street" undefined 
+            (-0.0778435 51.5113936)) 
+        ("London Fenchurch Street" undefined 
+            (-0.07788150000000001 51.5113133)) 
+        ("Limehouse" undefined 
+            (-0.0383194 51.513275)) 
+        ("Limehouse" undefined 
+            (-0.0397961 51.5125482)) 
+        ("Farringdon Road" "yes" 
+            (-0.1078718 51.5221173)) 
+        ("Heathcote Street" "yes" 
+            (-0.1181201 51.5267257)) 
+        ("Liverpool Street Station" "yes" 
+            (-0.08270479999999999 51.5180052)) 
+        ("Aldwych / Australia House" "yes" 
+            (-0.1151841 51.5131305)) 
+        ("Savoy Street" "yes" 
+            (-0.1203144 51.5108736)) 
+        ("Old Street" undefined 
+            (-0.0875194 51.5253214)) 
+        ("Angel" undefined 
+            (-0.1047228 51.5314876)) 
+        ("Waterloo East" undefined 
+            (-0.1073399 51.5043987)) 
+        ("Waterloo East" undefined 
+            (-0.109574 51.5040673)) 
+        ("South Bermondsey" undefined 
+            (-0.0545619 51.4879702)) 
+        ("Great Suffolk Street" "yes" 
+            (-0.0989303 51.5005629)) 
+        ("Tottenham Court Road Station" "yes" 
+            (-0.1339242 51.5161442)) 
+        ("Oxford Circus" undefined 
+            (-0.1419904 51.5156668)) 
+        ("Waterloo" undefined 
+            (-0.1119968 51.5035934)) 
+        ("London Bridge" undefined 
+            (-0.0878249 51.5050963)) 
+        ("Piccadilly Circus" undefined 
+            (-0.1344477 51.5099898)) 
+        ("Aldwych / Drury Lane" "yes" 
+            (-0.1188924 51.5121919)) 
+        ("Aldwych / Bush House" "yes" 
+            (-0.1168907 51.5132788)) 
+        ("Aldwych / Drury Lane" "yes" 
+            (-0.1183118 51.5128236)) 
+        ("Tottenham Court Road" undefined 
+            (-0.1297713 51.5156784)) 
+        ("Larcom Street" "yes" 
+            (-0.09704550000000001 51.4904273)) 
+        ("Heygate Street" "yes" 
+            (-0.0978783 51.4916696)) 
+        ("Larcom Street" "yes" 
+            (-0.0967614 51.4899775)) 
+        ("Robert Street" "yes" 
+            (-0.1386352 51.5273226)) 
+        ("Mornington Crescent Station" "yes" 
+            (-0.1390953 51.5341148)) 
+        ("Mornington Crescent Station" "yes" 
+            (-0.1391907 51.5341084)) 
+        ("Robert Street" "yes" 
+            (-0.1386381 51.5274884)) 
+        ("Mornington Crescent Station" "yes" 
+            (-0.1386117 51.5333878)) 
+        ("Goodge Street Station" "yes" 
+            (-0.1342013 51.5204928)) 
+        ("Capper Street" "yes" 
+            (-0.1362232 51.522546)) 
+        ("Marshalsea Road" "yes" 
+            (-0.09649339999999999 51.5028338)) 
+        ("High Holborn / Chancery Lane Station" "yes" 
+            (-0.111911 51.5192577)) 
+        ("Mornington Crescent Station / Camden Town Library" "yes" 
+            (-0.138287 51.5342239)) 
+        ("Aldenham Street" "yes" 
+            (-0.1347656 51.5309357)) 
+        ("Aldenham Street" "yes" 
+            (-0.1358408 51.5319704)) 
+        ("Mornington Crescent Station / Camden Town Library" "yes" 
+            (-0.1380158 51.53396)) 
+        ("Chenies Place" "yes" 
+            (-0.1294181 51.534078)) 
+        ("Chenies Place" "yes" 
+            (-0.1302409 51.5345226)) 
+        ("St. James's Park" undefined 
+            (-0.1341728 51.4994295)) 
+        ("St. James's Park" undefined 
+            (-0.1350491 51.4991032)) 
+        ("Blackfriars" undefined 
+            (-0.1035625 51.5116548)) 
+        ("Blackfriars" undefined 
+            (-0.1040017 51.5115051)) 
+        ("Moorgate" undefined 
+            (-0.08785510000000001 51.5185254)) 
+        ("Moorgate" undefined 
+            (-0.0878924 51.518512)) 
+        ("Old Street" undefined 
+            (-0.0876272 51.52532)) 
+        ("Angel" undefined 
+            (-0.1049014 51.5314936)) 
+        ("Old Street" undefined 
+            (-0.0875436 51.5254225))))

@@ -1,0 +1,339 @@
+
+(OBJECT hotel 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (GeoData point)))) 
+    (
+        ("easyHotel Victoria" 
+            (-0.1420048 51.4919882)) 
+        ("Crestfield Hotel" 
+            (-0.1224147 51.5297557)) 
+        ("Kings Cross Inn Hotel" 
+            (-0.1229357 51.5302618)) 
+        ("Hotel Riu Plaza London Victoria" 
+            (-0.1417547 51.4944034)) 
+        ("DoubleTree by Hilton London Angel Kings Cross" 
+            (-0.1094659 51.5321106)) 
+        ("Sidney Hotel" 
+            (-0.138557 51.490333)) 
+        ("Huttons Hotel, Victoria London" 
+            (-0.138381 51.4906272)) 
+        ("Victor Hotel" 
+            (-0.1385005 51.490678)) 
+        ("Luna Simone Hotel" 
+            (-0.1386425 51.4907457)) 
+        ("Lidos Hotel" 
+            (-0.1387856 51.490806)) 
+        ("Dover Hotel" 
+            (-0.1418151 51.491896)) 
+        ("Comfort Inn London" 
+            (-0.1389518 51.4908881)) 
+        ("The Tavistock Hotel" 
+            (-0.1283055 51.5243225)) 
+        ("Bedford Hotel" 
+            (-0.1235907 51.5207075)) 
+        ("Bloomsbury Park Hotel" 
+            (-0.1228137 51.520684)) 
+        ("Four Points by Sheraton" 
+            (-0.129567 51.526395)) 
+        ("Mabeldon Court Hotel" 
+            (-0.1273678 51.5276532)) 
+        ("Travelodge" 
+            (-0.0868331 51.5225673)) 
+        ("DoubleTree by Hilton Hotel London - West End" 
+            (-0.12213 51.5201101)) 
+        ("The Clermont" 
+            (-0.124767 51.5083078)) 
+        ("Park Plaza County Hall London" 
+            (-0.1160331 51.5013601)) 
+        ("St Giles Hotel" 
+            (-0.1304949 51.5174483)) 
+        ("Treehouse Hotel London" 
+            (-0.1424175 51.5178202)) 
+        ("Megaro Hotel" 
+            (-0.1239797 51.5297301)) 
+        ("Howard Winchester" 
+            (-0.1219027 51.5293476)) 
+        ("European Hotel" 
+            (-0.1218055 51.5292504)) 
+        ("Hotel Montana" 
+            (-0.1215913 51.5290388)) 
+        ("Elmwood Hotel" 
+            (-0.1214553 51.5289068)) 
+        ("Travelodge" 
+            (-0.1203379 51.5300868)) 
+        ("Carlton Hotel" 
+            (-0.1222049 51.530409)) 
+        ("Rough Luxe" 
+            (-0.1221277 51.5303289)) 
+        ("Carlisle Hotel" 
+            (-0.1218616 51.5300565)) 
+        ("Clifton Hotel" 
+            (-0.1216299 51.529907)) 
+        ("Royal National Hotel" 
+            (-0.1272337 51.5234731)) 
+        ("Lonsdale Hotel" 
+            (-0.1240489 51.5202064)) 
+        ("The Lancaster" 
+            (-0.1237817 51.5199748)) 
+        ("London Marriott Hotel County Hall" 
+            (-0.1188586 51.501709)) 
+        ("The Pack & Carriage London" 
+            (-0.1355999 51.5319633)) 
+        ("Station Hotel" 
+            (-0.1413006 51.4950123)) 
+        ("Radisson Edwardian" 
+            (-0.127063 51.514283)) 
+        ("Seven Dials Hotel" 
+            (-0.126725 51.51481)) 
+        ("The Beauchamp" 
+            (-0.1248357 51.5203735)) 
+        ("The Buckingham" 
+            (-0.1239586 51.5196094)) 
+        ("The Portland" 
+            (-0.1241296 51.5202734)) 
+        ("The Portland" 
+            (-0.124404 51.5200069)) 
+        ("The Penn Club" 
+            (-0.1250999 51.5206073)) 
+        ("Premier Inn" 
+            (-0.07912950000000001 51.4995182)) 
+        ("The Chamberlain" 
+            (-0.07569380000000001 51.5121008)) 
+        ("Club Quarters" 
+            (-0.0849374 51.5127056)) 
+        ("Apex City of London" 
+            (-0.0793789 51.5106067)) 
+        ("Think London Bridge" 
+            (-0.0837471 51.4986958)) 
+        ("Comfort Inn Kings Cross" 
+            (-0.1212142 51.5300637)) 
+        ("Holiday Inn Express" 
+            (-0.102055 51.506096)) 
+        ("Paul O'Gorman Patient Hotel" 
+            (-0.1211741 51.5214487)) 
+        ("Greenville Hotel" 
+            (-0.1163797 51.5241502)) 
+        ("Guildford" 
+            (-0.1165432 51.5241154)) 
+        ("Henrietta Hotel" 
+            (-0.1236698 51.5109508)) 
+        ("The Clarendon" 
+            (-0.1242027 51.5198344)) 
+        ("Ambassadors Bloomsbury" 
+            (-0.1297246 51.5266227)) 
+        ("Swinton Hotel" 
+            (-0.1167506 51.5292897)) 
+        ("Arriva Hotel" 
+            (-0.1183234 51.5287473)) 
+        ("MyHotel" 
+            (-0.1318793 51.5188919)) 
+        ("Cotton Rooms" 
+            (-0.1363208 51.5230574)) 
+        ("Russell Hotel" 
+            (-0.1419175 51.495687)) 
+        ("Macdonald Hotel" 
+            (-0.1229874 51.5290348)) 
+        ("Point.O" 
+            (-0.1125451 51.4991079)) 
+        ("California Hotel" 
+            (-0.123438 51.5295045)) 
+        ("easyHotel Old Street / Barbican" 
+            (-0.0946693 51.5243296)) 
+        ("Premier Inn" 
+            (-0.1302533 51.5110711)) 
+        ("Premier Inn" 
+            (-0.1051893 51.5128844)) 
+        ("Apex Temple Court Hotel" 
+            (-0.1089001 51.5138157)) 
+        ("Accomodation London Bridge" 
+            (-0.0902618 51.4971533)) 
+        ("Premier Inn" 
+            (-0.08746900000000001 51.5274248)) 
+        ("Belgrave House Hotel" 
+            (-0.1422738 51.4920965)) 
+        ("Alhambra Hotel" 
+            (-0.1236512 51.5293177)) 
+        ("Central Hotel" 
+            (-0.1239919 51.5292186)) 
+        ("Alhambra Hotel" 
+            (-0.1239302 51.5291592)) 
+        ("Clink78" 
+            (-0.1155876 51.5288183)) 
+        ("The Royal Horseguards Hotel, London" 
+            (-0.1242345 51.5057937)) 
+        ("Hampton by Hilton London Waterloo" 
+            (-0.1080219 51.5008736)) 
+        ("Shangri-La Hotel" 
+            (-0.086648 51.5042952)) 
+        ("The Park Hotel" 
+            (-0.1389159 51.4905332)) 
+        ("Kx Rooms" 
+            (-0.1228238 51.5289201)) 
+        ("Premier Inn London Bank (Tower)" 
+            (-0.0836298 51.5095129)) 
+        ("Sanctum Soho Hotel" 
+            (-0.138332 51.511565)) 
+        ("New Globe Hotel" 
+            (-0.0368949 51.5245354)) 
+        ("The Blair Victoria & Tudor Inn Hotel" 
+            (-0.1422041 51.4914334)) 
+        ("The Melville Hotel" 
+            (-0.1227249 51.5288076)) 
+        ("Keystone Hostel" 
+            (-0.1208545 51.5309951)) 
+        ("Citadines" 
+            (-0.1185245 51.5178529)) 
+        ("Premier Inn St Pancras" 
+            (-0.1268228 51.528606)) 
+        ("Goodenough Club" 
+            (-0.117697 51.525359)) 
+        ("POINT.a hotels" 
+            (-0.0776413 51.5210552)) 
+        ("The Hoxton" 
+            (-0.1220985 51.5172111)) 
+        ("Mercure London Bloomsbury" 
+            (-0.1233317 51.5209716)) 
+        ("Thistle Holborn, The Kingsley" 
+            (-0.1241566 51.5177738)) 
+        ("Mornington Hotel" 
+            (-0.1403652 51.490273)) 
+        ("Morton Hotel" 
+            (-0.1257912 51.5230303)) 
+        ("hub by Premier Inn (Tower Bridge)" 
+            (-0.0808455 51.5093691)) 
+        ("MAX Serviced Apartments" 
+            (-0.0380281 51.5128134)) 
+        ("Wardonia Hotel" 
+            (-0.1229957 51.5284767)) 
+        ("King's Cross" 
+            (-0.1225588 51.5284745)) 
+        ("The Globe" 
+            (-0.123562 51.5288049)) 
+        ("The Apollo" 
+            (-0.1230202 51.5286881)) 
+        ("Princess" 
+            (-0.1231516 51.5288283)) 
+        ("SO King's Cross" 
+            (-0.1179668 51.5306396)) 
+        ("Fraser Residence City" 
+            (-0.0840234 51.510287)) 
+        ("SACO St Pauls - Red Lion Court" 
+            (-0.1087533 51.5148516)) 
+        ("Crane Court Apartments" 
+            (-0.1091461 51.514388)) 
+        ("Kings cross" 
+            (-0.1175506 51.5312377)) 
+        ("Premier Inn" 
+            (-0.0910823 51.5034171)) 
+        ("Hotel The Grand at Trafalgar Square" 
+            (-0.1259733 51.5069341)) 
+        ("Club Quarters Hotel" 
+            (-0.1258069 51.5068835)) 
+        ("Castle Hotel" 
+            (-0.09880750000000001 51.4926541)) 
+        ("hub by Premier Inn Kings Cross" 
+            (-0.121831 51.533703)) 
+        ("hub by Premier Inn London Westminster Abbey" 
+            (-0.1314606 51.4995883)) 
+        ("Premier Inn London County Hall" 
+            (-0.1182526 51.5024782)) 
+        ("Eaton Town House" 
+            (-0.1409773 51.4940168)) 
+        ("Corbigoe Hotel" 
+            (-0.1364419 51.489739)) 
+        ("Best Western Corona Hotel" 
+            (-0.1370186 51.4899979)) 
+        ("Melbourne House Hotel" 
+            (-0.1372198 51.4900931)) 
+        ("Enrico Hotel" 
+            (-0.1427281 51.4915144)) 
+        ("Surtees Hotel" 
+            (-0.1427969 51.4912532)) 
+        ("Golden Star Hotel" 
+            (-0.1424201 51.4916052)) 
+        ("Tudor Inn Hotel" 
+            (-0.1423529 51.4916317)) 
+        ("Blades Hotel" 
+            (-0.1366874 51.4894859)) 
+        ("Holiday Inn Express" 
+            (-0.1372077 51.4897096)) 
+        ("St. George's Pimlico" 
+            (-0.1393338 51.48851)) 
+        ("Ryder Street Chambers" 
+            (-0.137828 51.507023)) 
+        ("Virgin Hotels" 
+            (-0.0805236 51.5236705)) 
+        ("Hotel Indigo London - 1 Leicester Square, an IHG Hotel" 
+            (-0.1309494 51.5108051)) 
+        ("Oxford House" 
+            (-0.1260598 51.5253405)) 
+        ("Albany Hotel" 
+            (-0.1259872 51.5253847)) 
+        ("Roma" 
+            (-0.1263096 51.5252312)) 
+        ("St Athans Hotel" 
+            (-0.1264761 51.5251125)) 
+        ("The Standard, London" 
+            (-0.1243303 51.5294697)) 
+        ("The Standard London" 
+            (-0.1218561 51.529301)) 
+        ("Stow-Away Apart-Hotel" 
+            (-0.1140348 51.5002783)) 
+        ("The Montcalm Royal London House" 
+            (-0.0857045 51.5215949)) 
+        ("The Warwick Hotel" 
+            (-0.1428971 51.4912611)) 
+        ("Travelodge" 
+            (-0.09840989999999999 51.4973413)) 
+        ("Canopy by Hilton London City" 
+            (-0.0752867 51.51293)) 
+        ("City Inn Russell Square" 
+            (-0.1257574 51.5254947)) 
+        ("Hyatt Place London City East" 
+            (-0.0681853 51.5169412)) 
+        ("hub by Premier Inn London Soho hotel" 
+            (-0.1348963 51.5130669)) 
+        ("Batty Langley's 1724" 
+            (-0.077969 51.520953)) 
+        ("The Jesmond Dene" 
+            (-0.123269 51.528941)) 
+        ("Residence Inn" 
+            (-0.081608 51.4986996)) 
+        ("Pickwick Hall Hostel" 
+            (-0.1238463 51.5200303)) 
+        ("Raya hotel Victoria" 
+            (-0.1181444 51.5028523)) 
+        ("The Hoxton Hotel" 
+            (-0.1047575 51.5058441)) 
+        ("Sonder St. John's Garden" 
+            (-0.1019057 51.522778)) 
+        ("Ruby Lucy" 
+            (-0.1123214 51.5011609)) 
+        ("Zedwell Piccadilly Circus" 
+            (-0.1336305 51.5104287)) 
+        ("Sonder The Prince" 
+            (-0.1183878 51.4913562)) 
+        ("The Z Hotel Holborn" 
+            (-0.1195495 51.5158365)) 
+        ("Thistle Piccadilly Hotel" 
+            (-0.1315185 51.5102091)) 
+        ("The Montcalm" 
+            (-0.0911766 51.5205953)) 
+        ("Argo Hotel" 
+            (-0.1214243 51.5288433)) 
+        ("Westin London City" 
+            (-0.0952443 51.511038)) 
+        ("Zedwell Underground Hotel" 
+            (-0.1304964 51.5172427)) 
+        ("Hub by Premier Inn London Goodge Street" 
+            (-0.1346888 51.5214935)) 
+        ("hub by Premier Inn London Clerkenwell hotel" 
+            (-0.1096385 51.5244846)) 
+        ("Cove" 
+            (-0.0931802 51.512135)) 
+        ("Premier Inn" 
+            (-0.112651 51.4959441))))

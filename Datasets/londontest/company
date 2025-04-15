@@ -1,0 +1,391 @@
+
+(OBJECT company 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (Street string) 
+                (Postcode string) 
+                (GeoData point)))) 
+    (
+        ("YSC Consulting" "Floral Street" undefined 
+            (-0.1228264 51.5134164)) 
+        ("PWC" "Embankment Place" undefined 
+            (-0.123686 51.5078179)) 
+        ("KCE FM" "Bowling Green Lane" "EC1R 0BF" 
+            (-0.1087687 51.5240132)) 
+        ("Macquarie" "Ropemaker Street" "EC2Y 9HD" 
+            (-0.0896689 51.5200041)) 
+        ("Hi-Res" "Rivington Place" "EC2A 3BA" 
+            (-0.07943409999999999 51.5266815)) 
+        ("J P Morgan" "Victoria Embankment" undefined 
+            (-0.105857 51.5117166)) 
+        ("Mace" "Moorgate" "EC2M 6XB" 
+            (-0.08812739999999999 51.5187729)) 
+        ("Euroffice Ltd" "Artillery Lane" "E1 7LS" 
+            (-0.07735209999999999 51.5184359)) 
+        ("Erudine Financial Limited" "Wilson Street" "EC2M 2TE" 
+            (-0.0858694 51.5195635)) 
+        ("Elliptic Vault" "High Holborn" "WC1V 7EX" 
+            (-0.118557 51.5174665)) 
+        ("JMP Consultants Lts" "Gutter Lane" "EC2V 8AS" 
+            (-0.0955124 51.5151584)) 
+        ("Internetq" "Houndsditch" "EC3A 7AR" 
+            (-0.0769161 51.5142895)) 
+        ("Mikros Animation" "Wardour Street" undefined 
+            (-0.1341496 51.5133667)) 
+        ("Mother @ Trampery" "St. John Street" "EC1V 4JY" 
+            (-0.1033157 51.5246126)) 
+        ("Barnett Waddingham" "Cheapside" "EC2V 6BJ" 
+            (-0.0957394 51.5145702)) 
+        ("Sony Pictures" "Golden Square" undefined 
+            (-0.1379723 51.5114641)) 
+        ("Future Workshops" "Fashion Street" "E1 6PX" 
+            (-0.0729168 51.5184903)) 
+        ("AIG" "Fenchurch Street" undefined 
+            (-0.07999970000000001 51.5118907)) 
+        ("Accenture" "Fenchurch Street" "EC3M 3BD" 
+            (-0.0819854 51.5112481)) 
+        ("Accenture" "Queen Victoria Street" "EC4N 4TR" 
+            (-0.0922627 51.5128807)) 
+        ("Crafted" "Coventry Road" "E2 6GG" 
+            (-0.0573855 51.525197)) 
+        ("Orega Moorgate" "Finsbury Pavement" "EC2A 1RS" 
+            (-0.08770219999999999 51.5198934)) 
+        ("Orega Chancery Lane" "Chancery Lane" "WC2A 1LG" 
+            (-0.1108739 51.5144762)) 
+        ("Orega High Holborn" "High Holborn" "WC1V 6BX" 
+            (-0.1122776 51.5186004)) 
+        ("Canonical" "Borough High Street" "SE1 1JA" 
+            (-0.0922925 51.501897)) 
+        ("ThoughtWorks" "Wardour Street" "W1F 0UR" 
+            (-0.1335865 51.5131477)) 
+        ("ETC Venues" "Avonmouth Street" "SE1 6NX" 
+            (-0.0973564 51.4976942)) 
+        ("Conga EMEA" "Margaret Street" "W1W 8TF" 
+            (-0.140478 51.5166912)) 
+        ("fwdesign" "Exton Street" "SE1 8UE" 
+            (-0.1113418 51.5041495)) 
+        ("Pancentric Digital" "Long Lane" undefined 
+            (-0.0844531 51.4990365)) 
+        ("Blis Media Ltd" "Tottenham Court Road" "W1T 4TQ" 
+            (-0.135709 51.5214361)) 
+        ("GEOLYTIX" "King's Cross Road" "WC1X 9LW" 
+            (-0.1153679 51.5273213)) 
+        ("Nesta" "Plough Place" undefined 
+            (-0.1086553 51.5165857)) 
+        ("Hardy Amies" "Savile Row" "W1S 3JN" 
+            (-0.1403701 51.5110735)) 
+        ("Partners in Fashion" "Newman Street" undefined 
+            (-0.1352044 51.5172798)) 
+        ("Vattenfall Wind Power Ltd." "Tudor Street" "EC4Y 0AH" 
+            (-0.1050853 51.5123231)) 
+        ("Bain & Company" "Strand" "WC2N 5RW" 
+            (-0.123826 51.5090922)) 
+        ("WSP Parsons Brinckerhoff" "Chancery Lane" "WC2A 1AF" 
+            (-0.1136087 51.5180111)) 
+        ("Falling Rain Software" "Little Russell Street" "WC1A 2HH" 
+            (-0.1261068 51.5176088)) 
+        ("Rogge Global Partners" "John Carpenter Street" undefined 
+            (-0.1064294 51.511461)) 
+        ("Pontegadea UK" "Hills Place" undefined 
+            (-0.1399437 51.5149565)) 
+        ("Jackson Cass" "Hills Place" undefined 
+            (-0.1399571 51.5149749)) 
+        ("Innovation Norway" "Hills Place" undefined 
+            (-0.140004 51.5149724)) 
+        ("Clockwork" "D'Arblay Street" undefined 
+            (-0.1362993 51.5143835)) 
+        ("ChilliBean" "D'Arblay Street" undefined 
+            (-0.13631 51.5144019)) 
+        ("Maypay Ltd" "Berwick Street" undefined 
+            (-0.1355631 51.514078)) 
+        ("J.S. Property Management" "Berwick Street" undefined 
+            (-0.1355584 51.5140893)) 
+        ("Tsedoko Ltd" "Berwick Street" undefined 
+            (-0.1355758 51.5140855)) 
+        ("DBD Media" "D'Arblay Street" undefined 
+            (-0.1362721 51.5146788)) 
+        ("Sven" "Charterhouse Street" undefined 
+            (-0.100786 51.5203424)) 
+        ("Hoopers" "Charterhouse Street" undefined 
+            (-0.1007766 51.5203525)) 
+        ("A Collected Man" "Charterhouse Street" undefined 
+            (-0.1007914 51.5203566)) 
+        ("Kainos" "Charterhouse Street" undefined 
+            (-0.1008048 51.5203625)) 
+        ("Cyber Duck Digital Agency" "Cowcross Street" undefined 
+            (-0.1027574 51.520019)) 
+        ("Corps Security" "Cowcross Street" undefined 
+            (-0.1027829 51.5200195)) 
+        ("Konig + Neurath International" "Britton Street" undefined 
+            (-0.103833 51.5215916)) 
+        ("Design Culture" "Britton Street" "EC1M 5UY" 
+            (-0.1044164 51.5221069)) 
+        ("GX2 Technology" "Britton Street" undefined 
+            (-0.104409 51.5221165)) 
+        ("ExperienceLab" "Hand Court" "WC1V 6JF" 
+            (-0.1156322 51.5187712)) 
+        ("RapidMiner Ltd" "New Broad Street" "EC2M 1NH" 
+            (-0.083812 51.5169367)) 
+        ("RJD Partners" "Well Court" undefined 
+            (-0.0930908 51.5132822)) 
+        ("Knox Cropper" "Well Court" undefined 
+            (-0.0931136 51.5132842)) 
+        ("Osmosis Capital" "Well Court" undefined 
+            (-0.0930874 51.5132934)) 
+        ("Mantis Partners" "Well Court" undefined 
+            (-0.0931075 51.5132963)) 
+        ("PA Consulting Farringdon" "Farringdon Road" "EC1M 3HE" 
+            (-0.1061431 51.5213313)) 
+        ("Parkwell Management Consultants Ltd" "Laurence Pountney Hill" undefined 
+            (-0.088765 51.5109018)) 
+        ("Vicarage Capital Limited" "College Hill" undefined 
+            (-0.0923324 51.5115031)) 
+        ("Pillay & Associates Limited" "College Hill" undefined 
+            (-0.0923532 51.5115061)) 
+        ("Flying Angel Marketing Enterprises Limited" "College Hill" "EC4R 2RL" 
+            (-0.09210840000000001 51.5112031)) 
+        ("Bloomberg" "Queen Victoria Street" "EC4N 4TQ" 
+            (-0.0906448 51.512773)) 
+        ("Bircham Dyson Bell LLP" "Broadway" undefined 
+            (-0.1333272 51.5000491)) 
+        ("Thomas Telford" "Storey's Gate" undefined 
+            (-0.1299906 51.5006009)) 
+        ("Korn Ferry International" "Ryder Street" "SW1Y 6QB" 
+            (-0.1384532 51.5070445)) 
+        ("Nouvelles D'Europe" "Craven Street" undefined 
+            (-0.1252598 51.5078101)) 
+        ("Nash & Co Capital Limited" "Craven Street" undefined 
+            (-0.1252739 51.507817)) 
+        ("Sovereign" "Craven Street" undefined 
+            (-0.1252659 51.5078243)) 
+        ("London and City Group of Companies;Centre Point Dental Clinic" "Little Russell Street" undefined 
+            (-0.1251988 51.5179941)) 
+        ("Henry Stewart Conference Studies Ltd" "Little Russell Street" undefined 
+            (-0.1252042 51.5180058)) 
+        ("Hamilton Mayday" "Great Chapel Street" undefined 
+            (-0.1344594 51.5154507)) 
+        ("Maritz" "East Poultry Avenue" undefined 
+            (-0.102561 51.5191099)) 
+        ("Innovation Warehouse" "East Poultry Avenue" undefined 
+            (-0.1025864 51.5190924)) 
+        ("itlab" "East Poultry Avenue" undefined 
+            (-0.1025972 51.5191116)) 
+        ("New Zealand House" "Haymarket" undefined 
+            (-0.1316566 51.507752)) 
+        ("WDAD Communications" "Kirby Street" undefined 
+            (-0.1070175 51.5197024)) 
+        ("Jean Pierre of Switzerland" "Bleeding Heart Yard" undefined 
+            (-0.1066782 51.5191633)) 
+        ("Passion Capital" "Clerkenwell Road" undefined 
+            (-0.1073476 51.5220232)) 
+        ("Electric ray" "Golden Square" undefined 
+            (-0.1379146 51.5114361)) 
+        ("Carwow" "Bressenden Place" "SW1E 5DH" 
+            (-0.1421078 51.4979511)) 
+        ("To-Do Design" "Vyner Street" "E2 9DG" 
+            (-0.0567448 51.5343976)) 
+        ("Hellicar Studios" "Vyner Street" "E2 9DG" 
+            (-0.0567502 51.5344118)) 
+        ("Brauer" "Vyner Street" "E2 9DG" 
+            (-0.056777 51.5344076)) 
+        ("Eye Present" "Vyner Street" "E2 9DG" 
+            (-0.056781 51.5344247)) 
+        ("Al-Jawad Pike" "Vyner Street" "E2 9DG" 
+            (-0.0567555 51.534428)) 
+        ("Canal Space" "Vyner Street" "E2 9DG" 
+            (-0.0567294 51.5344293)) 
+        ("Squint/Opera" "Vyner Street" "E2 9DG" 
+            (-0.0567341 51.534446)) 
+        ("Okido" "Vyner Street" "E2 9DG" 
+            (-0.0567596 51.534443)) 
+        ("All Design" "Vyner Street" "E2 9DG" 
+            (-0.0567857 51.5344385)) 
+        ("MWR InfoSecurity" "Weston Street" "SE1 3RS" 
+            (-0.0861321 51.5018245)) 
+        ("Anglo Asian Mining plc" "Devonshire Square" "EC2M 4YH" 
+            (-0.0776853 51.5166077)) 
+        ("WeWork" "Leman Street" "E1 8FA" 
+            (-0.07199220000000001 51.5148622)) 
+        ("Uber" "Leman Street" "E1 8FA" 
+            (-0.07188559999999999 51.5148804)) 
+        ("AECOM" "Leman Street" "E1 8FA" 
+            (-0.0721054 51.514829)) 
+        ("SAP" "King William Street" "EC4R 9AF" 
+            (-0.0864466 51.510409)) 
+        ("Blackstone Design Ltd" "Tabernacle Street" undefined 
+            (-0.0854525 51.5243294)) 
+        ("E M Abraham Ltd" "Tabernacle Street" undefined 
+            (-0.0854404 51.5243536)) 
+        ("Hanway Films" "Hanway Street" "W1T 1UH" 
+            (-0.1321682 51.5168148)) 
+        ("The Leather Market" "Weston Street" "SE1 3ER" 
+            (-0.0849355 51.5000852)) 
+        ("Boston Consulting Group" "Broadwick Street" "W1F 8JB" 
+            (-0.1361985 51.5137473)) 
+        ("Tyréns UK" "Old Street Yard" "EC1Y 8AF" 
+            (-0.0882476 51.525285)) 
+        ("Ayima" "Lindsey Street" "EC1A 9HP" 
+            (-0.100022 51.519614)) 
+        ("Taylor Thomas" "Great Sutton Street" "EC1V 0DS" 
+            (-0.1010925 51.523115)) 
+        ("Finalta" "Pall Mall East" "SW1Y 5AU" 
+            (-0.13065 51.5080601)) 
+        ("Quantum Black" "Pall Mall East" "SW1Y 5AY" 
+            (-0.1308994 51.5079566)) 
+        ("Videobeat" "Regent Street" "W1B 3HH" 
+            (-0.1423248 51.5172187)) 
+        ("Expat Explore Tours" "Surrey Quays Road" "SE16 2XU" 
+            (-0.0509465 51.4968415)) 
+        ("RELX PLC / Elsevier corporate headquarters" "Strand" "WC2N 5JR" 
+            (-0.1266808 51.5076863)) 
+        ("techUK" "St. Bride Street" "EC4A 4AD" 
+            (-0.1050314 51.5149368)) 
+        ("The London Metal Exchange" "Finsbury Square" "EC2A 1AJ" 
+            (-0.0873458 51.5214105)) 
+        ("Pesky Fish Ltd." "Bache's Street" "N1 6DL" 
+            (-0.085553 51.5277281)) 
+        ("Goldman Sachs International" "Shoe Lane" "EC4A 4AU" 
+            (-0.1056826 51.516342)) 
+        ("Rabobank" "Queenhithe" "EC4V 3RL" 
+            (-0.0947398 51.5107127)) 
+        ("RBC" "Queenhithe" "EC4V 3DQ" 
+            (-0.09472700000000001 51.5108247)) 
+        ("IG" "Dowgate Hill" "EC4R 2YA" 
+            (-0.09076330000000001 51.5110562)) 
+        ("horseXperiences" "Shelton Street" "WC2H 9JQ" 
+            (-0.1235196 51.5148061)) 
+        ("breedy™" "Shelton Street" "WC2H 9JQ" 
+            (-0.1235502 51.5147859)) 
+        ("Mothers' Union" "Tufton Street" "SW1P 3RB" 
+            (-0.1286394 51.4967658)) 
+        ("Framestore" "Chancery Lane" "WC2A 1LB" 
+            (-0.1116809 51.51572)) 
+        ("Laka Bicycle Insurance" "East Tenter Street" "E1 8DN" 
+            (-0.0705663 51.5126724)) 
+        ("DownUnder GeoSolutions" "Victoria Street" "SW1E 5JL" 
+            (-0.1396282 51.4971667)) 
+        ("Microsoft Reactor" "Wilson Street" "EC2A 2DB" 
+            (-0.08446620000000001 51.5218085)) 
+        ("Chevron" "Westferry Circus" "E14 4HA" 
+            (-0.0267079 51.5065602)) 
+        ("Notting Hill Genesis" "Killick Street" "N1 9FL" 
+            (-0.1181678 51.5319163)) 
+        ("Cetera Labs" "Shoreditch High Street" "E1 6JJ" 
+            (-0.0768171 51.5241483)) 
+        ("Texmodel Ltd" "Pear Tree Street" "EC1V 3AG" 
+            (-0.0968434 51.5256417)) 
+        ("ILM London" "Shaftesbury Avenue" "WC2H 8EE" 
+            (-0.1266988 51.5163148)) 
+        ("DEEPDY LTD" "Wenlock Road" "N1 7GU" 
+            (-0.0936842 51.5307915)) 
+        ("Kwintessential" "Bridewell Place" "EC4V 6AP" 
+            (-0.1046554 51.5130783)) 
+        ("PDSI Construction Consultants" "Great Portland Street" "W1W 7LZ" 
+            (-0.1411246 51.517271)) 
+        ("Anderson Tours" "Tower Bridge Road" undefined 
+            (-0.07662389999999999 51.5033759)) 
+        ("moonstride" "Euston Road" "NW1 3AD" 
+            (-0.139356 51.5244401)) 
+        ("Clear Channel" "Golden Square" undefined 
+            (-0.1377116 51.5118718)) 
+        ("FDM Group PLC" "Cottons Lane" "SE1 2QG" 
+            (-0.0849124 51.506132)) 
+        ("ITPE" "Bloomsbury Way" "WC1A 2SL" 
+            (-0.1246917 51.5172742)) 
+        ("Rated Builders London" "Fitzroy Street" "W1T 6EB" 
+            (-0.1404397 51.5238286)) 
+        ("Bon Accord Pest Control Pimlico" "Moreton Terrace" "SW1V 2NS" 
+            (-0.1382659 51.4895953)) 
+        ("Bon Accord Pest Control" "Great Portland Street" "W1W 7LT" 
+            (-0.1421236 51.5184471)) 
+        ("Ubiquity Press Ltd" "Osborn Street" "E1 6TD" 
+            (-0.0697584 51.5163886)) 
+        ("Bahit & Bahit Ltd" "Shelton Street" "WC2H 9JQ" 
+            (-0.1235294 51.5147994)) 
+        ("Paxton House" "Artillery Lane" undefined 
+            (-0.0782843 51.5184593)) 
+        ("European Medicines Agency" "Westferry Circus" "E14 4HD" 
+            (-0.0263444 51.5065973)) 
+        ("Credit Suisse" "Westferry Circus" "E14 4HR" 
+            (-0.0266796 51.5067359)) 
+        ("Rubberdesk UK Ltd" "Bloomsbury Way" "WC1A 2SL" 
+            (-0.1247797 51.5172458)) 
+        ("Red Hat" "Monument Street" "EC3R 8NB" 
+            (-0.0852738 51.5097588)) 
+        ("YunoJuno" "Foley Street" "W1W 7TN" 
+            (-0.1401404 51.5191496)) 
+        ("Tecknuovo" "Borough High Street" "SE1 1JA" 
+            (-0.09226239999999999 51.5019539)) 
+        ("Dynamic Resources" "Warner Street" "EC1R 5EY" 
+            (-0.1111943 51.523205)) 
+        ("the7stars" "Aldwych" "WC2B 4PJ" 
+            (-0.1177606 51.5128853)) 
+        ("Curious Productions" "Bakers Yard" undefined 
+            (-0.1104306 51.5236394)) 
+        ("Payload Studios" "Bakers Yard" undefined 
+            (-0.1101831 51.5235313)) 
+        ("HYPERVSN" "Nile Street" "N1 7RD" 
+            (-0.0896663 51.5292808)) 
+        ("Coirmedia UK | Coir Products in UK" "Great Portland Street" "W1W 7LT" 
+            (-0.1423784 51.518483)) 
+        ("Amazon Corporate Office LHR16" "Principal Place" "EC2A 2FA" 
+            (-0.07957980000000001 51.5219391)) 
+        ("QuantumBlack, AI by McKinsey" "Museum Street" "WC1A 1PB" 
+            (-0.1245748 51.5168005)) 
+        ("Crozier Fine Arts Ltd" "Glasshouse Walk" "SE11 5ES" 
+            (-0.1214555 51.4887455)) 
+        ("Melbourne House" "Aldwych" "WC2B 4LL" 
+            (-0.116289 51.5130489)) 
+        ("Zoa" "Worship Street" undefined 
+            (-0.0855711 51.5222896)) 
+        ("ClimatePartner UK Ltd" "Westminster Bridge Road" "SE1 7GP" 
+            (-0.1194025 51.5015361)) 
+        ("Future Arc" "Whitehall Court" "SW1A 2EL" 
+            (-0.1243078 51.5053322)) 
+        ("PUBLIC" "Horse Guards Avenue" "SW1A 2HU" 
+            (-0.124431 51.5050255)) 
+        ("Civic Future" "Horse Guards Avenue" "SW1A 2HU" 
+            (-0.124297 51.505048)) 
+        ("Revolut" "Westferry Circus" "E14 4HD" 
+            (-0.0261221 51.5064244)) 
+        ("Pristine London" "Wentworth Street" undefined 
+            (-0.0707436 51.5171656)) 
+        ("Verne Global" "Northburgh Street" undefined 
+            (-0.1012109 51.5233929)) 
+        ("Luminous" "Northburgh Street" undefined 
+            (-0.1012796 51.523382)) 
+        ("DeepL" "Sheraton Street" undefined 
+            (-0.1346522 51.5152228)) 
+        ("Just Eat" "Fleet Place" undefined 
+            (-0.1035535 51.5165811)) 
+        ("IFM Investors" "London Wall Place" "EC2Y 5AU" 
+            (-0.09285499999999999 51.5177574)) 
+        ("Moneysupermarket Group" "Dean Street" undefined 
+            (-0.1338075 51.5159143)) 
+        ("LinkedIn" "Farringdon Road" undefined 
+            (-0.1087971 51.5234987)) 
+        ("Sedus" "Brewery Square" undefined 
+            (-0.1017655 51.5238875)) 
+        ("Tapestry Research" "St John's Path" undefined 
+            (-0.1038368 51.5219325)) 
+        ("The Space" "Old Street" undefined 
+            (-0.09725930000000001 51.5239049)) 
+        ("Hygenius" "Sutton Lane" undefined 
+            (-0.1010641 51.5229255)) 
+        ("Workbench" "Sutton Lane" undefined 
+            (-0.1011096 51.5228795)) 
+        ("Globecast UK" "Gray's Inn Road" "WC1X 8XZ" 
+            (-0.1143694 51.5232605)) 
+        ("Trainline" "Holborn" "EC1N 2TD" 
+            (-0.1080736 51.518035)) 
+        ("Visas International" "Plumbers Row" "E1 1AE" 
+            (-0.06632440000000001 51.516334)) 
+        ("Ampere Electic" "Shelton Street, Covent Garden" "WC2H 9JQ" 
+            (-0.1256432 51.5148536)) 
+        ("Lendable Ltd" "Paul Street" "EC2A 4NW" 
+            (-0.08459460000000001 51.5248551)) 
+        ("Epoch Biodesign" "Finsbury Square" "EC2A 1AJ" 
+            (-0.0873995 51.5213008))))

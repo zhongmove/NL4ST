@@ -1,0 +1,421 @@
+
+(OBJECT substation 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (GeoData point)))) 
+    (
+        ("UK Power Networks" 
+            (-0.0389078 51.5120267)) 
+        ("UK Power Networks" 
+            (-0.1062209 51.5282309)) 
+        ("UK Power Networks" 
+            (-0.092915 51.5282983)) 
+        ("UK Power Networks" 
+            (-0.0810453 51.525152)) 
+        ("UK Power Networks" 
+            (-0.07925160000000001 51.5256769)) 
+        ("UK Power Networks" 
+            (-0.1069772 51.52514)) 
+        ("UK Power Networks" 
+            (-0.1069806 51.5251484)) 
+        ("UK Power Networks" 
+            (-0.0293949 51.5078444)) 
+        ("UK Power Networks" 
+            (-0.1293018 51.5168533)) 
+        ("UK Power Networks" 
+            (-0.1017396 51.5129337)) 
+        ("UK Power Networks" 
+            (-0.0895348 51.5165712)) 
+        ("UK Power Networks" 
+            (-0.09263680000000001 51.5147832)) 
+        ("UK Power Networks" 
+            (-0.0956663 51.5146231)) 
+        ("UK Power Networks" 
+            (-0.1420753 51.4901224)) 
+        ("UK Power Networks" 
+            (-0.1312868 51.5005417)) 
+        ("UK Power Networks" 
+            (-0.1241702 51.5153536)) 
+        ("UK Power Networks" 
+            (-0.0843005 51.5245827)) 
+        ("UK Power Networks" 
+            (-0.1255006 51.5088927)) 
+        ("UK Power Networks" 
+            (-0.1186583 51.5139415)) 
+        ("UK Power Networks" 
+            (-0.0334403 51.4979893)) 
+        ("UK Power Networks" 
+            (-0.0845926 51.5254221)) 
+        ("UK Power Networks" 
+            (-0.0511645 51.5142699)) 
+        ("UK Power Networks" 
+            (-0.0374164 51.5239514)) 
+        ("UK Power Networks" 
+            (-0.1299691 51.5116033)) 
+        ("UK Power Networks" 
+            (-0.0792257 51.526719)) 
+        ("UK Power Networks" 
+            (-0.0809584 51.5041021)) 
+        ("UK Power Networks" 
+            (-0.1382818 51.4883203)) 
+        ("UK Power Networks" 
+            (-0.1234283 51.5105582)) 
+        ("UK Power Networks" 
+            (-0.0813411 51.4978275)) 
+        ("UK Power Networks" 
+            (-0.0691518 51.4982805)) 
+        ("UK Power Networks" 
+            (-0.0488136 51.4995669)) 
+        ("UK Power Networks" 
+            (-0.0484679 51.4986897)) 
+        ("UK Power Networks" 
+            (-0.0485645 51.4986647)) 
+        ("UK Power Networks" 
+            (-0.066203 51.4971469)) 
+        ("UK Power Networks" 
+            (-0.1066422 51.4988836)) 
+        ("UK Power Networks" 
+            (-0.1078844 51.4995638)) 
+        ("UK Power Networks" 
+            (-0.0705293 51.5144197)) 
+        ("UK Power Networks" 
+            (-0.07163410000000001 51.5136652)) 
+        ("UK Power Networks" 
+            (-0.1043221 51.5008569)) 
+        ("UK Power Networks" 
+            (-0.11902 51.518841)) 
+        ("UK Power Networks" 
+            (-0.1184843 51.5133889)) 
+        ("UK Power Networks" 
+            (-0.12121 51.5148225)) 
+        ("UK Power Networks" 
+            (-0.1200393 51.5150446)) 
+        ("UK Power Networks" 
+            (-0.1180649 51.5144249)) 
+        ("UK Power Networks" 
+            (-0.11854 51.5137605)) 
+        ("UK Power Networks" 
+            (-0.1200297 51.5135911)) 
+        ("UK Power Networks" 
+            (-0.12213 51.5138906)) 
+        ("UK Power Networks" 
+            (-0.123431 51.513881)) 
+        ("UK Power Networks" 
+            (-0.1156439 51.5143894)) 
+        ("UK Power Networks" 
+            (-0.1241493 51.514871)) 
+        ("UK Power Networks" 
+            (-0.1050314 51.5051458)) 
+        ("UK Power Networks" 
+            (-0.1227601 51.5236881)) 
+        ("UK Power Networks" 
+            (-0.1238376 51.5234453)) 
+        ("UK Power Networks" 
+            (-0.03856 51.5293407)) 
+        ("UK Power Networks" 
+            (-0.129305 51.5112796)) 
+        ("UK Power Networks" 
+            (-0.036846 51.4919657)) 
+        ("UK Power Networks" 
+            (-0.0391281 51.489321)) 
+        ("UK Power Networks" 
+            (-0.0384195 51.4899314)) 
+        ("UK Power Networks" 
+            (-0.0357152 51.4888306)) 
+        ("UK Power Networks" 
+            (-0.0396067 51.4958197)) 
+        ("UK Power Networks" 
+            (-0.0407059 51.496377)) 
+        ("UK Power Networks" 
+            (-0.0403346 51.4964457)) 
+        ("UK Power Networks" 
+            (-0.0403045 51.4964494)) 
+        ("UK Power Networks" 
+            (-0.0409205 51.4909113)) 
+        ("UK Power Networks" 
+            (-0.0407598 51.4909938)) 
+        ("UK Power Networks" 
+            (-0.0394405 51.4912845)) 
+        ("UK Power Networks" 
+            (-0.0395937 51.4914753)) 
+        ("UK Power Networks" 
+            (-0.0434944 51.5166291)) 
+        ("UK Power Networks" 
+            (-0.043652 51.5149497)) 
+        ("UK Power Networks" 
+            (-0.0487147 51.5147635)) 
+        ("UK Power Networks" 
+            (-0.0343034 51.4967678)) 
+        ("UK Power Networks" 
+            (-0.0350374 51.5095466)) 
+        ("UK Power Networks" 
+            (-0.0414947 51.5100611)) 
+        ("UK Power Networks" 
+            (-0.0320664 51.5103247)) 
+        ("UK Power Networks" 
+            (-0.0402984 51.5121149)) 
+        ("UK Power Networks" 
+            (-0.06716370000000001 51.5237366)) 
+        ("UK Power Networks" 
+            (-0.0447684 51.5101755)) 
+        ("UK Power Networks" 
+            (-0.0526864 51.5273716)) 
+        ("UK Power Networks" 
+            (-0.0537994 51.5160198)) 
+        ("UK Power Networks" 
+            (-0.043604 51.5009718)) 
+        ("UK Power Networks" 
+            (-0.0419577 51.5048793)) 
+        ("UK Power Networks" 
+            (-0.0904104 51.5341974)) 
+        ("UK Power Networks" 
+            (-0.1010863 51.5235828)) 
+        ("UK Power Networks" 
+            (-0.0741491 51.4983792)) 
+        ("UK Power Networks" 
+            (-0.02954 51.5182102)) 
+        ("UK Power Networks" 
+            (-0.0305303 51.5183607)) 
+        ("UK Power Networks" 
+            (-0.0483271 51.5324668)) 
+        ("UK Power Networks" 
+            (-0.1215723 51.5343869)) 
+        ("UK Power Networks" 
+            (-0.0488139 51.5027386)) 
+        ("UK Power Networks" 
+            (-0.0506972 51.4981132)) 
+        ("UK Power Networks" 
+            (-0.0508139 51.497439)) 
+        ("UK Power Networks" 
+            (-0.0523451 51.4986116)) 
+        ("UK Power Networks" 
+            (-0.0536953 51.5017164)) 
+        ("UK Power Networks" 
+            (-0.1406865 51.5214418)) 
+        ("UK Power Networks" 
+            (-0.1384312 51.5200994)) 
+        ("UK Power Networks" 
+            (-0.1417603 51.5216197)) 
+        ("UK Power Networks" 
+            (-0.063624 51.5231406)) 
+        ("UK Power Networks" 
+            (-0.1333435 51.496225)) 
+        ("UK Power Networks" 
+            (-0.1325684 51.4955466)) 
+        ("UK Power Networks" 
+            (-0.1325896 51.4955819)) 
+        ("UK Power Networks" 
+            (-0.1020982 51.505546)) 
+        ("UK Power Networks" 
+            (-0.1020854 51.5054914)) 
+        ("UK Power Networks" 
+            (-0.0273707 51.5050798)) 
+        ("UK Power Networks" 
+            (-0.026726 51.5050657)) 
+        ("UK Power Networks" 
+            (-0.0251 51.5033499)) 
+        ("UK Power Networks" 
+            (-0.02533 51.5031899)) 
+        ("UK Power Networks" 
+            (-0.02521 51.4976099)) 
+        ("UK Power Networks" 
+            (-0.0251503 51.4971401)) 
+        ("UK Power Networks" 
+            (-0.0254787 51.4928894)) 
+        ("UK Power Networks" 
+            (-0.058241 51.5200173)) 
+        ("UK Power Networks" 
+            (-0.0507537 51.5077776)) 
+        ("UK Power Networks" 
+            (-0.0526168 51.5068315)) 
+        ("UK Power Networks" 
+            (-0.0522669 51.506801)) 
+        ("UK Power Networks" 
+            (-0.0523934 51.5067294)) 
+        ("UK Power Networks" 
+            (-0.0538757 51.5061301)) 
+        ("UK Power Networks" 
+            (-0.0538177 51.5061418)) 
+        ("UK Power Networks" 
+            (-0.0568094 51.504323)) 
+        ("UK Power Networks" 
+            (-0.05461 51.5136597)) 
+        ("UK Power Networks" 
+            (-0.0565503 51.5129097)) 
+        ("UK Power Networks" 
+            (-0.06833 51.5073497)) 
+        ("UK Power Networks" 
+            (-0.0669097 51.5072797)) 
+        ("UK Power Networks" 
+            (-0.0586797 51.5004099)) 
+        ("UK Power Networks" 
+            (-0.0647007 51.5038001)) 
+        ("UK Power Networks" 
+            (-0.0603107 51.5032599)) 
+        ("UK Power Networks" 
+            (-0.0585202 51.5163896)) 
+        ("UK Power Networks" 
+            (-0.0616 51.5141395)) 
+        ("UK Power Networks" 
+            (-0.069981 51.5056899)) 
+        ("UK Power Networks" 
+            (-0.070581 51.5056395)) 
+        ("UK Power Networks" 
+            (-0.02919 51.5308205)) 
+        ("UK Power Networks" 
+            (-0.0731903 51.5094699)) 
+        ("UK Power Networks" 
+            (-0.0731807 51.5093898)) 
+        ("UK Power Networks" 
+            (-0.0731903 51.5094299)) 
+        ("UK Power Networks" 
+            (-0.0689703 51.5108701)) 
+        ("UK Power Networks" 
+            (-0.0712907 51.5110998)) 
+        ("UK Power Networks" 
+            (-0.06689000000000001 51.5124994)) 
+        ("UK Power Networks" 
+            (-0.07056 51.5145098)) 
+        ("UK Power Networks" 
+            (-0.07320069999999999 51.5153602)) 
+        ("UK Power Networks" 
+            (-0.0718207 51.5140498)) 
+        ("UK Power Networks" 
+            (-0.0721907 51.5139898)) 
+        ("UK Power Networks" 
+            (-0.0741907 51.5153101)) 
+        ("UK Power Networks" 
+            (-0.07242 51.5117301)) 
+        ("UK Power Networks" 
+            (-0.08189 51.5085399)) 
+        ("UK Power Networks" 
+            (-0.08094 51.5118197)) 
+        ("UK Power Networks" 
+            (-0.08814130000000001 51.5132802)) 
+        ("UK Power Networks" 
+            (-0.0861007 51.5110302)) 
+        ("UK Power Networks" 
+            (-0.0860103 51.5103701)) 
+        ("UK Power Networks" 
+            (-0.0867903 51.5097599)) 
+        ("UK Power Networks" 
+            (-0.08851000000000001 51.5094998)) 
+        ("UK Power Networks" 
+            (-0.09125 51.5103299)) 
+        ("UK Power Networks" 
+            (-0.09137000000000001 51.5103399)) 
+        ("UK Power Networks" 
+            (-0.09152 51.5099899)) 
+        ("UK Power Networks" 
+            (-0.09164029999999999 51.5095099)) 
+        ("UK Power Networks" 
+            (-0.0953603 51.5109301)) 
+        ("UK Power Networks" 
+            (-0.0965797 51.5120097)) 
+        ("UK Power Networks" 
+            (-0.09637030000000001 51.5105397)) 
+        ("UK Power Networks" 
+            (-0.0995707 51.5116699)) 
+        ("UK Power Networks" 
+            (-0.09854 51.5135099)) 
+        ("UK Power Networks" 
+            (-0.09693069999999999 51.5128999)) 
+        ("UK Power Networks" 
+            (-0.0968918 51.5128946)) 
+        ("UK Power Networks" 
+            (-0.0968318 51.512885)) 
+        ("UK Power Networks" 
+            (-0.10404 51.5111599)) 
+        ("UK Power Networks" 
+            (-0.1036103 51.5111603)) 
+        ("UK Power Networks" 
+            (-0.10353 51.5111601)) 
+        ("UK Power Networks" 
+            (-0.1035699 51.5111602)) 
+        ("UK Power Networks" 
+            (-0.1035003 51.5119099)) 
+        ("UK Power Networks" 
+            (-0.10135 51.5140201)) 
+        ("UK Power Networks" 
+            (-0.1015702 51.5136601)) 
+        ("UK Power Networks" 
+            (-0.0979617 51.5221747)) 
+        ("UK Power Networks" 
+            (-0.0957607 51.5309997)) 
+        ("UK Power Networks" 
+            (-0.09526030000000001 51.5306301)) 
+        ("UK Power Networks" 
+            (-0.0951703 51.5300093)) 
+        ("UK Power Networks" 
+            (-0.0970307 51.5264901)) 
+        ("UK Power Networks" 
+            (-0.0736802 51.5263004)) 
+        ("UK Power Networks" 
+            (-0.0731897 51.5236509)) 
+        ("UK Power Networks" 
+            (-0.07592 51.5246805)) 
+        ("UK Power Networks" 
+            (-0.0762902 51.5246601)) 
+        ("UK Power Networks" 
+            (-0.0870607 51.5309394)) 
+        ("UK Power Networks" 
+            (-0.08475100000000001 51.5298697)) 
+        ("UK Power Networks" 
+            (-0.08493100000000001 51.5266997)) 
+        ("UK Power Networks" 
+            (-0.08987000000000001 51.5292901)) 
+        ("UK Power Networks" 
+            (-0.0891397 51.5291099)) 
+        ("UK Power Networks" 
+            (-0.08955929999999999 51.5286599)) 
+        ("UK Power Networks" 
+            (-0.0895803 51.5284497)) 
+        ("UK Power Networks" 
+            (-0.08963 51.5284401)) 
+        ("UK Power Networks" 
+            (-0.0874907 51.5282203)) 
+        ("UK Power Networks" 
+            (-0.0887807 51.5278899)) 
+        ("UK Power Networks" 
+            (-0.0919397 51.5277503)) 
+        ("UK Power Networks" 
+            (-0.0933993 51.5269995)) 
+        ("UK Power Networks" 
+            (-0.0719402 51.5207097)) 
+        ("UK Power Networks" 
+            (-0.07375 51.5209297)) 
+        ("UK Power Networks" 
+            (-0.0746503 51.5209599)) 
+        ("UK Power Networks" 
+            (-0.0763993 51.5208799)) 
+        ("UK Power Networks" 
+            (-0.0757607 51.5172297)) 
+        ("UK Power Networks" 
+            (-0.07376969999999999 51.5164602)) 
+        ("UK Power Networks" 
+            (-0.0775105 51.5157797)) 
+        ("UK Power Networks" 
+            (-0.0794812 51.5152258)) 
+        ("UK Power Networks" 
+            (-0.0795256 51.5152514)) 
+        ("UK Power Networks" 
+            (-0.0803907 51.5230797)) 
+        ("UK Power Networks" 
+            (-0.0804102 51.5230499)) 
+        ("UK Power Networks" 
+            (-0.08587069999999999 51.5194401)) 
+        ("UK Power Networks" 
+            (-0.08498070000000001 51.5175599)) 
+        ("UK Power Networks" 
+            (-0.08863 51.5164697)) 
+        ("UK Power Networks" 
+            (-0.087862 51.5158799)) 
+        ("UK Power Networks" 
+            (-0.1058682 51.5170095)) 
+        ("UK Power Networks" 
+            (-0.033996 51.5245806)) 
+        ("UK Power Networks" 
+            (-0.0478662 51.5219624))))

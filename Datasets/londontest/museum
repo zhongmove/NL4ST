@@ -1,0 +1,169 @@
+
+(OBJECT museum 
+    () 
+    (rel 
+        (tuple 
+            (
+                (Name string) 
+                (GeoData point)))) 
+    (
+        ("Charles Dickens Museum" 
+            (-0.1163232 51.5235936)) 
+        ("British Museum" 
+            (-0.1240101 51.5190662)) 
+        ("British Museum" 
+            (-0.1254446 51.5185714)) 
+        ("Hoxton Station / Museum of the Home" 
+            (-0.07737579999999999 51.5302052)) 
+        ("Hoxton Station / Museum of the Home" 
+            (-0.07693609999999999 51.5316606)) 
+        ("Museum of the Home" 
+            (-0.0771602 51.5323033)) 
+        ("Kennington Road / Imperial War Museum" 
+            (-0.1112079 51.4957586)) 
+        ("Kennington Road / Imperial War Museum" 
+            (-0.1112981 51.4960059)) 
+        ("St George's Road / Imperial War Museum" 
+            (-0.1066339 51.4967952)) 
+        ("St George's Road / Imperial War Museum" 
+            (-0.1062906 51.4966249)) 
+        ("Kennington Road / Imperial War Museum" 
+            (-0.1107323 51.4947166)) 
+        ("Museum of London" 
+            (-0.0972387 51.5188725)) 
+        ("Museum of London" 
+            (-0.09693010000000001 51.5183634)) 
+        ("Museum Street" 
+            (-0.1245769 51.5173861)) 
+        ("Museum Street" 
+            (-0.1243292 51.51763)) 
+        ("Imperial War Museum" 
+            (-0.109806 51.4969399)) 
+        ("Imperial War Museum" 
+            (-0.1106595 51.49659)) 
+        ("Wharfdale Road / London Canal Museum" 
+            (-0.1213951 51.5335945)) 
+        ("Museum of Methodism" 
+            (-0.0865519 51.5238169)) 
+        ("Museum of London" 
+            (-0.09637469999999999 51.5178026)) 
+        ("British Museum" 
+            (-0.1246918 51.5191205)) 
+        ("Bank of England Museum" 
+            (-0.08762060000000001 51.5144672)) 
+        ("Grant Museum of Zoology" 
+            (-0.1342662 51.523732)) 
+        ("Islington Museum" 
+            (-0.1045003 51.5264897)) 
+        ("Museum of the Order of St John" 
+            (-0.1025564 51.522006)) 
+        ("The Museum of Immigration and Diversity at 19 Princelet Street" 
+            (-0.07248590000000001 51.5198458)) 
+        ("The Museum Practice" 
+            (-0.1252315 51.5184356)) 
+        ("Entrance to Bank of England Museum" 
+            (-0.0875552 51.514184)) 
+        ("Hunterian Museum" 
+            (-0.1158728 51.5152798)) 
+        ("Museum Street" 
+            (-0.1242798 51.5175842)) 
+        ("Museum Street" 
+            (-0.1246359 51.517434)) 
+        ("BT Museum" 
+            (-0.1015679 51.5119834)) 
+        ("Visionary BritMuseum" 
+            (-0.1249695 51.5187744)) 
+        ("Wharfdale Road / London Canal Museum" 
+            (-0.1213901 51.5335414)) 
+        ("British Museum" 
+            (-0.1253766 51.5185322)) 
+        ("British Museum" 
+            (-0.123983 51.5191206)) 
+        ("Kennington Road / Imperial War Museum" 
+            (-0.1112201 51.4960283)) 
+        ("Kennington Road / Imperial War Museum" 
+            (-0.11108 51.495785)) 
+        ("Kennington Road / Imperial War Museum" 
+            (-0.1108558 51.4947241)) 
+        ("The Guards Museum" 
+            (-0.1361252 51.5000475)) 
+        ("Museum of London" 
+            (-0.0968434 51.518369)) 
+        ("Museum of London" 
+            (-0.0971602 51.5188799)) 
+        ("War Museum Cafe" 
+            (-0.1089384 51.4960029)) 
+        ("The Postal Museum" 
+            (-0.1139982 51.5247243)) 
+        ("Household Cavalry Museum" 
+            (-0.1271564 51.5049487)) 
+        ("Mail Rail Museum" 
+            (-0.1132669 51.5245733)) 
+        ("City Police Museum" 
+            (-0.0927861 51.5161425)) 
+        ("British Optical Association Museum" 
+            (-0.1253919 51.5078919)) 
+        ("Camera Museum" 
+            (-0.125239 51.5176929)) 
+        ("St George's Road / Imperial War Museum" 
+            (-0.1062334 51.4966651)) 
+        ("St George's Road / Imperial War Museum" 
+            (-0.1065826 51.4968362)) 
+        ("Imperial War Museum" 
+            (-0.1097651 51.4968717)) 
+        ("Imperial War Museum" 
+            (-0.1106965 51.4966451)) 
+        ("Museum of Comedy" 
+            (-0.1248012 51.5175548)) 
+        ("The Florence Nightingale Museum" 
+            (-0.1176697 51.5000072)) 
+        ("The Postal Museum - Employee Cycle Parking" 
+            (-0.1138695 51.5245876)) 
+        ("Hoxton Station / Museum of the Home" 
+            (-0.07702829999999999 51.531662)) 
+        ("Hoxton Station / Museum of the Home" 
+            (-0.07727779999999999 51.5302188)) 
+        ("Museum of the Home" 
+            (-0.0770682 51.5323231)) 
+        ("The Cartoon Museum" 
+            (-0.1385815 51.5175767)) 
+        ("Museum of Youth Culture" 
+            (-0.1347714 51.5132783)) 
+        ("The Postal Museum - Visitor Cycle Parking" 
+            (-0.1142743 51.5249511)) 
+        ("Westminster Abbey Museum" 
+            (-0.1274753 51.4989431)) 
+        ("Gordon Museum" 
+            (-0.08957130000000001 51.5035633)) 
+        ("London Film Museum (incl. \"Bond in Motion\")" 
+            (-0.1210861 51.5124606)) 
+        ("Nature Study Museum" 
+            (-0.0586107 51.5101047)) 
+        ("Bow Street Police Museum" 
+            (-0.1217257 51.5134897)) 
+        ("Vagina Museum" 
+            (-0.0569111 51.5303811)) 
+        ("Vagina Museum" 
+            (-0.056889 51.5303769)) 
+        ("The Postal Museum" 
+            (-0.1141141 51.5249156)) 
+        ("Mail Rail Museum" 
+            (-0.1132904 51.5244847)) 
+        ("The British Museum Afternoon Tea" 
+            (-0.1274856 51.5193755)) 
+        ("British Museum Cafe" 
+            (-0.1269687 51.5198542)) 
+        ("Museum of Freemasonry" 
+            (-0.1212667 51.5150089)) 
+        ("British Red Cross Museum" 
+            (-0.08852359999999999 51.5192384)) 
+        ("Faraday Museum" 
+            (-0.1422791 51.5097024)) 
+        ("Royal Pharmaceutical Society Museum" 
+            (-0.0683574 51.50902)) 
+        ("Royal London Hospital Museum" 
+            (-0.0604865 51.5172698)) 
+        ("UCL Art Museum" 
+            (-0.1331998 51.5243862)) 
+        ("Hunterian Museum" 
+            (-0.1155974 51.5153297))))
