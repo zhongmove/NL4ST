@@ -2,7 +2,8 @@
 A Natural Language Query Tool for Spatio-temporal Databases
 
 
-![fig3](https://github.com/user-attachments/assets/5bdcd4ce-14f8-43be-8411-fca1ecfe5790)
+
+![fig3](https://github.com/user-attachments/assets/3f3e364d-5a13-455e-9633-e228e0b6cdbe)
 
 
 
