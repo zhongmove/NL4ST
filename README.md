@@ -1,7 +1,8 @@
 # NL4ST
 A Natural Language Query Tool for Spatio-temporal Databases
 
-<img width="2868" height="3324" alt="fig2v3" src="https://github.com/user-attachments/assets/e1fe0de6-4568-4650-b1f5-577cac26a7a1" />
+
+![fig3](https://github.com/user-attachments/assets/5bdcd4ce-14f8-43be-8411-fca1ecfe5790)
 
 
 
